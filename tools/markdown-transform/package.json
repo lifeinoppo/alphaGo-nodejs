@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "name": "markdown-transform",
+        "raw": "markdown-transform",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/root"
+    ]
+  ],
+  "_cnpm_publish_time": 1425486633645,
+  "_from": "markdown-transform@latest",
+  "_id": "markdown-transform@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/markdown-transform",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "email": "david.vonlehman@gmail.com",
+    "name": "dvonlehman"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "markdown-transform",
+    "raw": "markdown-transform",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://registry.cnpmjs.org/markdown-transform/download/markdown-transform-1.0.1.tgz",
+  "_shasum": "f179cf63106fdb1d28a3cb81e5fafeeafef30281",
+  "_shrinkwrap": null,
+  "_spec": "markdown-transform",
+  "_where": "/root",
+  "author": {
+    "name": "David Von Lehman",
+    "url": "https://github.com/dvonlehman"
+  },
+  "bugs": {
+    "url": "https://github.com/4front/markdown-transform/issues"
+  },
+  "dependencies": {
+    "highlight.js": "^8.4.0",
+    "marked": "^0.3.3",
+    "through2": "^0.6.3"
+  },
+  "description": "Markdown transform stream",
+  "devDependencies": {
+    "istanbul": "^0.3.6",
+    "mocha": "^2.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "f179cf63106fdb1d28a3cb81e5fafeeafef30281",
+    "size": 2451,
+    "tarball": "http://registry.cnpmjs.org/markdown-transform/download/markdown-transform-1.0.1.tgz"
+  },
+  "gitHead": "fe8763e96b8603cf67c78283c43d17a02d706d67",
+  "homepage": "https://github.com/4front/markdown-transform",
+  "keywords": [
+    "markdown",
+    "transform",
+    "stream"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "david.vonlehman@gmail.com",
+      "name": "dvonlehman"
+    }
+  ],
+  "name": "markdown-transform",
+  "optionalDependencies": {},
+  "publish_time": 1425486633645,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4front/markdown-transform.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/"
+  },
+  "version": "1.0.1"
+}
