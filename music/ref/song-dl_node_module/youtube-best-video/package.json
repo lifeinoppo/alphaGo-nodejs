@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "hosted": {
+          "directUrl": "https://raw.githubusercontent.com/mathisonian/youtube-best-video/master/package.json",
+          "gitUrl": "git://github.com/mathisonian/youtube-best-video.git",
+          "httpsUrl": "git+https://github.com/mathisonian/youtube-best-video.git",
+          "shortcut": "github:mathisonian/youtube-best-video",
+          "ssh": "git@github.com:mathisonian/youtube-best-video.git",
+          "sshUrl": "git+ssh://git@github.com/mathisonian/youtube-best-video.git",
+          "type": "github"
+        },
+        "name": "youtube-best-video",
+        "raw": "youtube-best-video@github:mathisonian/youtube-best-video",
+        "rawSpec": "github:mathisonian/youtube-best-video",
+        "scope": null,
+        "spec": "github:mathisonian/youtube-best-video",
+        "type": "hosted"
+      },
+      "/root/tmp/node_modules/song-dl"
+    ]
+  ],
+  "_from": "mathisonian/youtube-best-video",
+  "_id": "youtube-best-video@0.0.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/youtube-best-video",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/mathisonian/youtube-best-video/master/package.json",
+      "gitUrl": "git://github.com/mathisonian/youtube-best-video.git",
+      "httpsUrl": "git+https://github.com/mathisonian/youtube-best-video.git",
+      "shortcut": "github:mathisonian/youtube-best-video",
+      "ssh": "git@github.com:mathisonian/youtube-best-video.git",
+      "sshUrl": "git+ssh://git@github.com/mathisonian/youtube-best-video.git",
+      "type": "github"
+    },
+    "name": "youtube-best-video",
+    "raw": "youtube-best-video@github:mathisonian/youtube-best-video",
+    "rawSpec": "github:mathisonian/youtube-best-video",
+    "scope": null,
+    "spec": "github:mathisonian/youtube-best-video",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/song-dl"
+  ],
+  "_resolved": "git://github.com/mathisonian/youtube-best-video.git#55e89a7fb599ac51ee082fecbb2ea522bd83fc48",
+  "_shasum": "213e18bbf6b5c664fee04c8a0daf9ea88b70c1a1",
+  "_shrinkwrap": null,
+  "_spec": "youtube-best-video@github:mathisonian/youtube-best-video",
+  "_where": "/root/tmp/node_modules/song-dl",
+  "author": {
+    "email": "max.gfeller@gmail.com",
+    "name": "Max Gfeller"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxGfeller/youtube-best-video/issues"
+  },
+  "dependencies": {
+    "youtube-search": "^1.0.4"
+  },
+  "description": "Find the best video for a given song name.",
+  "devDependencies": {},
+  "gitHead": "55e89a7fb599ac51ee082fecbb2ea522bd83fc48",
+  "homepage": "https://github.com/MaxGfeller/youtube-best-video#readme",
+  "keywords": [
+    "youtube",
+    "music",
+    "video",
+    "song",
+    "best",
+    "quality"
+  ],
+  "license": "BSD",
+  "main": "index.js",
+  "name": "youtube-best-video",
+  "optionalDependencies": {},
+  "readme": "# youtube-best-video\n\nFind the best (music) video for a song you want on [YouTube](http://youtube.com)\n\n## Install\n\nThe module is available via npm and can be installed as follows:  \n`npm install youtube-best-video` \n\n## Usage\n\n``` javascript\nvar bestVideo = require('youtube-best-video');\n\nbestVideo.findBestMusicVideo('Deadmau5 - Ghosts N Stuff', function(err, video) {\n  if(err) return console.log(err);\n\n  console.dir(video);\n});\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxGfeller/youtube-best-video.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.8"
+}

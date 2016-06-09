@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "name": "song-dl",
+        "raw": "song-dl",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/root/tmp"
+    ]
+  ],
+  "_cnpm_publish_time": 1448248405597,
+  "_from": "song-dl@latest",
+  "_id": "song-dl@1.0.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/song-dl",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "mc@mathisonian.com",
+    "name": "mathisonian"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "song-dl",
+    "raw": "song-dl",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/song-dl/download/song-dl-1.0.8.tgz",
+  "_shasum": "796fc8c7590e72acdb2194db07e148f98785e510",
+  "_shrinkwrap": null,
+  "_spec": "song-dl",
+  "_where": "/root/tmp",
+  "author": {
+    "name": "Matthew Conlen"
+  },
+  "bin": {
+    "sdl": "index.js"
+  },
+  "dependencies": {
+    "cli": "^0.11.1",
+    "fluent-ffmpeg": "^2.0.1",
+    "youtube-best-video": "github:mathisonian/youtube-best-video",
+    "ytdl-core": "^0.7.6"
+  },
+  "description": "Command line utility to download a song",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.4"
+  },
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "796fc8c7590e72acdb2194db07e148f98785e510",
+    "size": 2090,
+    "tarball": "http://registry.npm.taobao.org/song-dl/download/song-dl-1.0.8.tgz"
+  },
+  "gitHead": "dafdc8c581d1b6f745acec7481f03c072d232529",
+  "keywords": [
+    "songs",
+    "song",
+    "dl",
+    "download",
+    "youtube"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "mc@mathisonian.com",
+      "name": "mathisonian"
+    }
+  ],
+  "name": "song-dl",
+  "optionalDependencies": {},
+  "publish_time": 1448248405597,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.8"
+}
