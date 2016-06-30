@@ -62,15 +62,13 @@ if(container.length<9){
 
       var doorkeeper = 0;
       result = [];
+      skipextend = [];
 
       var result_content = '';
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
 		if(content.indexOf(container[i])>0 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
-			 console.log(container[i] +' it is it ');
-		         console.log(content.indexOf(container[i]));
-			 console.log(container[i].length);
 			doorkeeper += 1;
 			result.push(container2[i]);
 			skipextend.push(container[i]);
@@ -78,26 +76,26 @@ if(container.length<9){
 		// add doorkeeper
 		if(doorkeeper>doorkeepertop)
 		{
-			console.log("break now");
+			//console.log("break now");
 			break;
 		}
 	} 
 	
         // random get the result
         var resultlen = result.length;	
-        console.log("result is : "+result);
+        //console.log("result is : "+result);
 	var randomindex = 0;
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
 	        randomindex = 	parseInt(Math.random()*resultlen);
-		console.log("random : "+randomindex);
-		result_content += result[randomindex] + "\n";
+		// console.log("random : "+randomindex);
+		result_content += result[randomindex] + "\n" + "\n";
 			
 	}
     
 	
 
-      console.log(" cache the content now ");
+      // console.log(" cache the content now ");
       cached_content = result_content;
 
   });
@@ -106,24 +104,38 @@ else{
 // have the cached container
 
       var doorkeeper = 0;
+      result = [];
+      skipextend = [];
 
       var result_content = '';
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i]>0)){
+		if(content.indexOf(container[i])>0 && container[i].length>5 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
 			doorkeeper += 1;
-			result_content += container2[i] + "\n";
+			result.push(container2[i]);
+			skipextend.push(container[i]);
 		}
 		// add doorkeeper
-		if(doorkeeper>9)
+		if(doorkeeper>doorkeepertop)
 		{
-			console.log("break now");
+			//console.log("break now");
 			break;
 		}
 	} 
 	
-      console.log(" cache the content now ");
+        // random get the result
+        var resultlen = result.length;	
+        //console.log("result is : "+result);
+	var randomindex = 0;
+	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
+	{
+	        randomindex = 	parseInt(Math.random()*resultlen);
+		// console.log("random : "+randomindex);
+		result_content += result[randomindex] + "\n" + "\n";
+			
+	}
+      // console.log(" cache the content now ");
       cached_content = result_content;
 }
 
@@ -150,7 +162,6 @@ function func(data) {
 
 
 function _handle(link,ToUserName,FromUserName){
-console.log("link is : "+link);
 
 
   http.get(link,function(res){                                                                                                                   
@@ -162,7 +173,7 @@ console.log("link is : "+link);
 
     res.on('end',function(){
 
-      console.log(" res on end now ");
+      //console.log(" res on end now ");
       myExtractor.extract(html,function(err,data){
         handle_content(data.body,ToUserName,FromUserName);
         // console.log(data.body);
