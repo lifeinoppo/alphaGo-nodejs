@@ -68,7 +68,7 @@ if(container.length<9){
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i])>0 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
+		if(content.indexOf(container[i])>0 && container[i].length>2 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
 			doorkeeper += 1;
 			result.push(container2[i]);
 			skipextend.push(container[i]);
@@ -83,7 +83,7 @@ if(container.length<9){
 	
         // random get the result
         var resultlen = result.length;	
-        //console.log("result is : "+result);
+        // console.log("result is : "+result);
 	var randomindex = 0;
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
@@ -111,9 +111,10 @@ else{
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i])>0 && container[i].length>5 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
+		if(content.indexOf(container[i])>0 && container[2].length>2 &&  !_isin(container[i],skip) && !_isin(container[i],skipextend)){
 			doorkeeper += 1;
 			result.push(container2[i]);
+			// console.log(" pushed  "+container2[i]);
 			skipextend.push(container[i]);
 		}
 		// add doorkeeper
@@ -126,7 +127,7 @@ else{
 	
         // random get the result
         var resultlen = result.length;	
-        //console.log("result is : "+result);
+        console.log("result is : "+result);
 	var randomindex = 0;
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
@@ -135,19 +136,16 @@ else{
 		result_content += result[randomindex] + "\n" + "\n";
 			
 	}
-      // console.log(" cache the content now ");
+       console.log(" cache the content now ");
       cached_content = result_content;
-}
+ }
 
-
-
-  
 
 }
 
 function _resetCache(){
 
-cached_content = "";
+	cached_content = "";
 
 }
 
