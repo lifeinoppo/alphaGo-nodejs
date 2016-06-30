@@ -1,0 +1,1863 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="6a1c3333979f4318af925ce46464176c">
+
+<title>
+
+
+有哪些被埋没了的好歌？ - 音乐 - 知乎
+
+
+</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://questions/22953113">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/22953113">
+<meta id="znonce" name="znonce" content="511b242cc8594dc892f00a647656f77e">
+
+
+
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.2c642cb2.css">
+
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="http://static.zhihu.com/static/revved/-/js/instant.e7a17de6.js"></script>
+
+
+
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-redirect-info" style="display:none"></div>
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-notification-summary" style="display:none;">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<span class="zu-global-notify-icon"></span>
+<ul class="zu-question-notify-wrap">
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="zg-wrap zu-main clearfix with-indention-votebar" itemscope itemtype="http://schema.org/Question" id="zh-single-question-page" data-urltoken="22953113" role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+<meta itemprop="isTopQuestion" content="false" />
+<meta itemprop="visitsCount" content="1431257" />
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550453"
+data-tip="t$b$19550453" data-token="19550453" data-topicid="75">
+音乐
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19553467"
+data-tip="t$b$19553467" data-token="19553467" data-topicid="1078">
+歌曲
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19554151"
+data-tip="t$b$19554151" data-token="19554151" data-topicid="1309">
+调查类问题
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19580164"
+data-tip="t$b$19580164" data-token="19580164" data-topicid="9973">
+音乐推荐
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+<h2 class="zm-item-title">
+
+<span class="zm-editable-content">有哪些被埋没了的好歌？</span>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="1362055" data-action="/question/detail">
+
+<div class="zm-editable-content">就像电视剧《春光灿烂猪八戒》的片尾曲《卷睫盼》一样，十分好听，却仿佛被时光掩盖了一样，明明是金子，却和泥沙一起消失在流逝的时间里。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>49 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+
+
+<div class="zh-answers-title clearfix">
+
+<div id="zh-answers-filter" class="Sorter">
+
+<span class="lbl">按投票排序</span>
+<a class="lbl" href="/question/22953113?sort=created">按时间排序</a>
+
+<i class="zg-icon zg-icon-double-arrow"></i>
+</div>
+
+<h3 data-num="1189" id="zh-question-answer-num">1189 个回答</h3>
+</div>
+
+<div id="zh-question-answer-wrap" data-pagesize="10" class="zh-question-answer-wrapper" data-widget="navigable" data-navigable-options="{&quot;items&quot;: &quot;&gt;.zm-item-answer&quot;}" data-init="{&quot;params&quot;: {&quot;url_token&quot;: 22953113, &quot;pagesize&quot;: 10, &quot;offset&quot;: 0}, &quot;nodename&quot;: &quot;QuestionAnswerListV2&quot;}">
+
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemprop="topAnswer"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4506346"
+data-atoken="23220295"
+data-collapsed="0"
+data-created="1394248503"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23220295">
+<meta itemprop="answer-id" content="4506346">
+<meta itemprop="answer-url-token" content="23220295">
+<a class="zg-anchor-hidden" name="answer-4506346"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">221</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/prophet-73" target="_blank" data-tip="p$t$prophet-73"
+
+><img src="https://pic2.zhimg.com/ffa22415437854060fb967c0b104e425_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$prophet-73"
+target="_blank" href="/people/prophet-73"
+>prophet</a>
+
+
+<span title="宇宙第一大纠结，不要暴露我！不要暴露我！" class="bio">，宇宙第一大纠结，不要暴露我！不要暴露我！</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="221">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">221</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="prophet" data-entry-url="/question/22953113/answer/23220295">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+感觉似乎很多电视剧插曲都会被埋没最喜欢《大宋提刑官》片尾曲<b>《满江红》</b>，气势不凡，文学功底很好，听说是一个年轻女孩写的，当时就惊呆了。满江红--刘可（大宋提刑官片尾曲）（朗诵）千古悠悠有多少 冤魂嗟叹空怅惘 人寰无限丛生哀怨泣血蝇虫笑苍天孤帆叠…
+
+<a href="/question/22953113/answer/23220295" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+感觉似乎很多电视剧插曲都会被埋没<br>最喜欢《大宋提刑官》片尾曲<b>《满江红》</b>，气势不凡，文学功底很好，听说是一个年轻女孩写的，当时就惊呆了。<br>满江红--刘可（大宋提刑官片尾曲）<br>（朗诵）<br>千古悠悠<br>有多少 冤魂嗟叹<br>空怅惘 人寰无限<br>丛生哀怨<br>泣血蝇虫笑苍天<br>孤帆叠影锁白链<br>残月升 骤起烈烈风<br>尽吹散<br>-----------<br>（演唱）<br>尽吹散<br>尽吹散<br>滂沱雨 无底涧<br>涉激流 登彼岸<br>奋力拨云间 消得雾患<br>社稷安抚臣子心<br>长驱鬼魅不休战<br>看斜阳 照大地阡陌<br>从头转<br>----------<br>泣血蝇虫笑苍天<br>孤帆叠影锁白链<br>残月升 骤起烈烈风<br>社稷安抚臣子心<br>长驱鬼魅不休战<br>看斜阳 照大地阡陌<br>从头转<br>-----------------------------------------------------------------------------------------------------------------<br>还有《乔家大院》的片尾<b>《远情》</b>，歌词挺短，当时很有沧桑感。<br>尘缘苦短叹人间路长，不能够容我细思量． <br>繁华瞬间如梦幻一场，世上人有几番空忙． <br>春去秋来叹世事沧桑，算人生成败相当． <br>登临远望看山水迷茫，情通天下一路奔放． <br>几番起落雨暴风狂，转眼间鬓已成霜． <br>留住所爱，留住所想，留住一梦相伴日月长<br>------------------------------------------------------------------------------------------------------------------<br>小时候喜欢《康熙微服私访记》和《铁齿铜牙纪晓岚》的片头片尾，不知道有没有人同意，哈哈。到现在还经常想起“五花马，青锋剑”和“谁说百无一用是书生”。<br>-------------------------------------------------------------------------------------------------------------------<br>回头看甄嬛传的时候觉得插曲，片头片尾都挺好，早上又听了一遍《凤凰于飞》，发现刘欢大叔的文笔真是不错呢...............<br>      旧梦依稀 往事迷离 春花秋月里<br>　　如雾里看花 水中望月 漂来又浮去<br>　　君来有声 君去无语 翻云覆雨里<br>　　虽两情相惜 两心相仪 得来复失去<br>　　有诗待和 有歌待应 有心待相依<br>　　望长相思 望长相守 却空留琴与笛<br>　　以情相悦 以心相许 以身相偎依<br>　　愿勿相望 愿勿相负 又奈何恨与欺<br>　　得非所愿 愿非所得<br>　　看命运嘲弄 造化游戏<br>　　真情诺诺 终于随乱红飞花去<br>　　期盼明月 期盼朝阳 期盼春风浴<br>　　可逆风不解 挟雨伴雪 催梅折枝去<br>　　凤凰于飞 翙翙其羽 远去无痕迹<br>　　听梧桐细雨 瑟瑟其叶 随风摇记忆<br>　　梧桐细雨 瑟瑟其叶 随风摇记忆
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4506346-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-08" target="_blank" href="/question/22953113/answer/23220295">编辑于 2014-03-23</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>48 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4681490"
+data-atoken="23631330"
+data-collapsed="0"
+data-created="1395325133"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23631330">
+<meta itemprop="answer-id" content="4681490">
+<meta itemprop="answer-url-token" content="23631330">
+<a class="zg-anchor-hidden" name="answer-4681490"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">230</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/260019604" target="_blank" data-tip="p$t$260019604"
+
+><img src="https://pic2.zhimg.com/d070a1f04de8a3ba507d9a09418fea7d_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$260019604"
+target="_blank" href="/people/260019604"
+>树神彧</a>
+
+
+<span title="吃肉" class="bio">，吃肉</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="230">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">230</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="树神彧" data-entry-url="/question/22953113/answer/23631330">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+2015/11/16更新：谢安琪《家明》禁歌一首，写给那一年。黄伟文的歌词极具婉转凄美，借人喻物，耐人寻味，关键伍乐城是旋律还很棒。首要推荐。李荣浩《落俗》风味十分李荣浩的一首好歌，是我最喜欢的他的作品。许哲佩《催眠》许哲佩产量很高，但是旋律对我胃…
+
+<a href="/question/22953113/answer/23631330" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+2015/11/16更新：<br><br>谢安琪《家明》<br>禁歌一首，写给那一年。黄伟文的歌词极具婉转凄美，借人喻物，耐人寻味，关键伍乐城是旋律还很棒。首要推荐。<br><br>李荣浩《落俗》<br>风味十分李荣浩的一首好歌，是我最喜欢的他的作品。<br><br>许哲佩《催眠》<br>许哲佩产量很高，但是旋律对我胃口的确实不是很多。这首曲子音符繁复、歌词华丽，是她近年来精品之作之一。<br><br>范忆堂《出色》<br>国内独立青年艺术家范忆堂单曲首发，确实十分惊艳。是一首致敬王小波的作品。<br><br>吴克羣《戏剧天才》<br>十分俏皮的一首爱情歌曲。2006年，《将军令》这张专辑让吴克羣摇身一变成为创作型歌手，从5线跻身2线，实在是对他的努力的精彩报偿。这张专辑里的很多歌其实从作曲、编曲和作词来说都很稚嫩，可以看出来他刚刚适应自己的新身份，可里头仍是有不少璞玉的。<br><br>林宥嘉《纪念品》<br>Skot Suyama陶山的作品，他有很多轻摇滚的欢快作品，林宥嘉把快节奏的悲情演绎得很棒。<br><br>林欣彤《二次缘》<br>再来一首粤语歌。讲述的是分别多年的恋人再会的场景，诙谐有趣，林若宁真是香港词坛新的扛鼎人物啊。新生代的创作歌手冯允谦为其作曲又倾情合唱，也是看点之一。<br><br>蔡健雅《抛物线》<br>这首歌不是“第一眼美女”的类型，而是越听越有味道，越听越触人心弦。<br><br>田馥甄《无常》<br>极赞，不赘言。<br><br>===============-正文-===============<br><br>怒答！！！略长篇！<br>看到这个问题，我仿佛是打了兴奋剂一般，匆忙从自习室跑回宿舍开电脑！！！<br>我有太多好听的歌收藏着了，华语乐坛人才辈出，炮灰也辈出，浩如辰星的庸俗品中，极品是一定存在的，但不幸被埋没在灰尘里。那么多年的默默收集的生涯，终于可以为大家发光发亮一下了！<br><br>【PS：均为华语作品】<br>【PS：我的偏好是较为出名的歌手的不出名作品。<br>一个歌手，能获得较大名气，本身就是唱功、实力、风格等被广泛认同的象征，<br>因此，他（她）也有能唱到更优秀作品的机会。】<br>【PS：各种风格都有，希望大家喜欢。】<br><br><br>飞儿乐团《堂吉诃德》<br>阿沁的作品，作词作曲。一首相当有深度的中摇滚，被她力道非凡的嗓音冲击，被唤醒愚昧的诗句冲击，简直不能再棒！！<br><br>魏如萱《香格里拉》<br>原唱是作曲作词黄玠，台湾的一个小众歌手、贝斯手，经过一个系统的魏如萱摩挲心灵的磁性嗓音的演唱，不能再棒！<br><br>萧敬腾《收藏》<br>超级好听，超级动人，张力很强，我的K歌必唱，必拿掌声（当然是因为原曲实在太棒）！<br><br>S.H.E《612星球》<br>郑楠作曲的作品，精品迭出，这首一定是他的代表作。郑楠是谁？附赠<a href="//link.zhihu.com/?target=http%3A//baike.baidu.com/subview/1797383/5754734.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">郑楠_百度百科<i class="icon-external"></i></a>  你会发现，这个作曲家实在是太牛逼了，出的歌一首比一首好。<br><br>林宥嘉《耳朵》<br>陈小霞！是陈小霞赠予他的珍藏多年的谱子，作词还是姚若龙啊！毋庸赘述，听过就知道！<br><br>郭静《别去问他好吗》<br>旋律太棒，看了作曲，竟是林俊杰。可惜啊，林俊杰这些年一直都在走下坡路，他为多少人作了那么优秀曲子，但又有多少人记得他是个多么棒的作曲家。<br><br>陈倩倩《蓝颜知己》《婴儿》《鸢尾花》<br>陈倩倩三弹连发！！看到排名第一的答案，第一个就是陈倩倩，我简直要泪奔。这个可以说是已经超级过气的内地女歌星，好像从出道开始就没红过，但是她的歌都那么好听啊。虽然陈倩倩嗓音水平一般，辨识度也不高，但是曲子质量真的超好，盖因团队牛逼。她的好歌真的很多，暂时选取她的三首知名度最高的歌推荐在这，如果大家喜欢，尽可以去找寻。<br><br>辛晓琪《邂逅》<br>《情定大饭店》和内地版《大醉侠》都选这首歌作为片尾曲，温柔但不忧伤，煦暖且爱意浓浓。<br><br>陈绮贞《烟火》<br>听完她所有的歌，如果要选择我的最爱，一定是只有这一首。<br><br>卡奇社《日光倾城》<br>我一直以为这首歌相当小众，不过它的传唱度竟然很高。这首歌达到的水平，大概是吸干了这个组合所有的灵气。<br><br>飞儿乐团《Change》<br>这首是Faye詹雯婷亲自作词作曲演唱的，我一直抱有专业歌手半路出家出的创作作品不会达到很高水平的偏见，但是这首歌棒到狠狠给我了一个巨大耳光！简直就是《爱·歌姬》中最大的惊喜！<br><br>阮经天，赵又廷《Tonight Tonight》<br>《艋舺》的主题曲，却只在片头出现了一段，长腿鬼才陈珊妮的大作，阮经天首度开腔。超棒的歌，简直是比这部电影更大的惊喜！<br><br>沙宝亮《不是我的不能要》<br>天呐，从没有一首歌，能让我一连在寂寞时分哼了这么多年，除了这首。每当回味，那种感觉，难以言喻。这首歌是国产db爱情电视剧《我的功夫女友》的片尾曲，主演是还没开始红的马苏，这首歌秒杀了所有的制作，可以算是沙宝亮《暗香》之下足以匹配他独特嗓音的好曲子。<br><br>陈琳《13131》<br>没错，就是前些年跳楼自杀的陈琳。这首歌，我在初中时是被它逗逗的名字吸引（来自当时很流行的杂志封底彩铃下载广告），听了以后发现，其实相当可人欢快，喜欢了好多年。当看了MV，才发现这欢快的旋律和故事中隐藏了多少心酸。天堂安好。<br><br>苏慧伦《天下大乱》<br>这首歌一放，八成的屏幕前的阅读者肯定会会心一笑，袁咏仪赵文卓孙兴又在那里疯疯癫癫了。超棒。不过，苏慧伦的时代终究是过去了。<br><br>苏慧伦《恋恋真言》<br>我是在苏慧伦的时代过去了以后，才去听她的歌。这首歌很平淡，但是极为动人，所以额外为她再推介一次。卢昌明的作品，作曲作词。<br><br>吴克群《把心拉近》<br>什么叫做真正的正能量满满。听完一定心情大好。虽然，他的下坡路是有去无回了。<br><br>汪东城《替我》<br>简直是棒呆了。当时逛jXXXX软件时，一位路人甲在自己喜欢的音乐那栏里，只填了这首歌，当时闹曲荒的我，不知咋地，就去音乐软件上试听了一下，震惊。这可是真正被埋没的曲子了，怪啥？怪他过气的偶像身份吗？<br><br>张含韵《七里香》<br>当年张含韵的嗓音太配这首歌了，好听到流泪。可惜网上找不到高清晰度版本的，凑合着吧，真是一个巨大遗憾。<br><br>张靓颖《Sunshine Alike》<br>我坐车时，一直都有认真聆听当地的音乐频道，渴望能够无意之中收获令人惊喜的作品。十年了，却没有一首歌能超过它。空灵，婉转，大概就是如此。<br><br>钟汉良《不太温柔》<br>旋律超级棒。说实话，听了钟汉良很多的歌，却没有这首那么让我怦然心动，简直可以称得上是一见钟情。如果说一首歌也能唱得那么帅，那么一定是这一首。<br><br>梁心颐《贝壳》《竹篱笆》<br>排名第一的答案推荐《小树》时，我简直就要蹦起来了。华语乐坛，能比梁心颐声音甜美的女声，实在找不出了。《小树》《竹篱笆》《贝壳》等都出自梁心颐单飞后首张个人专辑，这张专辑简直就是全部是精品，根本找不到充数的，和《胡爱夏》一样。<br><br>林俊杰《自由不变》<br>貌似这是他为某个网游还是电影写的歌，不过无论是旋律，还是歌词，都是上品。每当品着“动辄得咎不温不火日复一日无聊的生活”，都有着莫名难受。<br><br>张靓颖《花开的声音》<br>超级超级美的情歌，那种抽象对抽象描述爱情的意向，可以称得上完美。旋律很棒，小心被洗脑。曾被媒体誉为“信乐团第六人”的金牌制作人Keith作曲，台湾著名词人娃娃填词<br><br>罗志祥《没有你》<br>亚洲舞王还没代言国内最出名辣椒酱之前，是个多么朴实阳光的少年，这首歌的温柔情愫，是多么值得再用双耳回味。<br><br>萨顶顶《琴伤》<br>周鹏，哦，不，萨顶顶在某张专辑里，我唯一感兴趣的歌曲。试着听了，结果惊艳。很长一段时间我都是用这首歌来试耳机的，适合在极其寂寞的场合欣赏。<br><br>飞轮海《为你存在》<br>其实蛮可惜的，这些曾经的当红偶像团体，飞轮海S.H.E什么的，得到的资源全都是数一数二，让他们唱的，也是公司里能拿得出的最优质产品，可惜，偏见总是埋没这些无辜的音乐。这首歌也是郑楠作曲的。<br><br>郭书瑶《幸福不远》<br>周杰伦作曲。郭书瑶也就得个胸大，声音条件很一般，唱功也很一般，这首算是拿得出的伤感型歌曲了。<br><br>王心凌《因为是你》<br>可惜啊，王阿姨也老了。这首歌我从初中买了第一个MP3，就一直陪着我，好听到真的无法舍得删掉！<br><br>魏如萱《陨石》<br>太有范了，这首，简直一听，就知道是自成一派的魏如萱驾到。不要因为这首歌排在后面就忽视它。<br><br>郁可唯《你好吗》<br>不知为何，总觉得民国范十足。快女那玩意，终究是万里挑一，这女的嗓音真心非常的棒，最适合演唱这类歌。<br><br>张栋梁《不多》<br>算是首比较新的歌了。男声中，声线好过张栋梁的其实不多，后面才知道，他也是歌唱比赛出来的，因而实力不俗。<br><br>范冰冰《夕阳》<br>哈哈哈你没看错，就是范冰冰！很好听啊这首歌！出于好奇，你可以听听看看。<br><br>A-Lin《难得》<br>哀伤往事，都能如此气势磅礴，可以称得上是大歌！超棒！！！绝不能错过！！！<br><br>飞儿乐团《死心的理由》<br>二字：飙泪。<br><br>飞儿乐团《应许之地》<br>这首歌和《彩色羽翼》（后改名《让我们一起微笑吧》），都属于宗教歌曲，取材圣经，哀婉脱俗，拥有着耐人寻味的厚味。<br><br>-
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4681490-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-20" target="_blank" href="/question/22953113/answer/23631330">编辑于 2015-11-16</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>48 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="5395817"
+data-atoken="25255716"
+data-collapsed="0"
+data-created="1399287848"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/25255716">
+<meta itemprop="answer-id" content="5395817">
+<meta itemprop="answer-url-token" content="25255716">
+<a class="zg-anchor-hidden" name="answer-5395817"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">79</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/xia-bei-ran" target="_blank" data-tip="p$t$xia-bei-ran"
+
+><img src="https://pic1.zhimg.com/6147da7e0_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$xia-bei-ran"
+target="_blank" href="/people/xia-bei-ran"
+>宁泊</a>
+
+
+<span title="写歌的人假正经，听歌的人最无情。" class="bio">，写歌的人假正经，听歌的人最无情。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="79">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">79</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="宁泊" data-entry-url="/question/22953113/answer/25255716">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+<b>一、古风+戏曲类。</b>前面的答案里也有几个人提到了墨明棋妙、河图、HITA等人，所以在此就不赘述了。5sing上有许多古风原创音乐，这里推荐一下tacke竹桑、Aki阿杰、小爱的妈。<b>1、牡丹亭外——陈升版。苏思蓉版。</b>这首歌，融入了我国传统戏曲中黄梅戏《女驸马》…
+
+<a href="/question/22953113/answer/25255716" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+<b>一、古风+戏曲类。</b><br>前面的答案里也有几个人提到了墨明棋妙、河图、HITA等人，所以在此就不赘述了。5sing上有许多古风原创音乐，这里推荐一下tacke竹桑、Aki阿杰、小爱的妈。<br><br><b>1、牡丹亭外——陈升版。苏思蓉版。</b><br>这首歌，融入了我国传统戏曲中黄梅戏《女驸马》、昆曲《牡丹亭》的元素，以及唐代传奇《枕中记》中卢生黄粱一梦的故事。初看歌名，以为歌中必有足够的戏曲唱腔戏份，结果入耳却是吉他声，以民谣的方式演绎，很独特。词更是一绝，写尽人间情事。陈升的版本沧桑而有沉淀，苏思蓉的则体现了女声的柔美，萝卜白菜，任君采撷。<br><br><b>2、姑苏城——流浪的蛙蛙。 请听方言版！</b><br>貌似也可以划分到民谣类，属于戏曲民谣。<br>这首歌的受众应该比较明确，爱戏曲爱古风的绝逼抵挡不了。开场是一段昆曲《游园·山桃红》，婉约到了极致，扑鼻的江南韵味。咦奇怪我为什么要用扑鼻这个词，啊好饿。<br>同时，这首歌属于名城古都系列，歌词中国融入了许多城市元素，文化鉴赏性很高。大家也可以自行搜索此系列其他的歌曲，长安、金陵、杭城等等。我比较喜欢的是泉州那一首。<br><br><b>3、伊人红妆——玫子。</b><br>适合中低音的女孩纸，熟知度不高，但KTV一般都有，推荐给那些明明是妹子但却唱不了高音的萌（nv）妹（han）子（zi）们。<br><br><b>4、红线、春宵小夜曲——霏烟墨色。</b><br>不要因为这个有点那什么的演唱者的名字无视这两首歌！！！不知道是唱歌的妹子声音独特还是后期处理的缘故，外行表示不懂这些酷炫的技能，这两首歌都很独特，也很好听。<br><br><b>5、朝花只拾一半。</b><br><br><b>二</b><b>、不太流行的其他流行歌曲类。</b><br><br><b>1、每一生都等你——陈洁仪。</b>强推！！<br>这首粤语歌，是陈浩民温碧霞版的《封神榜》的片尾曲。勾起诸位的儿时记忆了吗？！<br><br><b>2、笑红尘——陈淑桦。强推！</b><br>写这首歌的介绍之前，我必须交代一下，我作为一个取向正常的妹子，这一生只有三个女神：林青霞、王祖贤、我妈妈。男神倒是一直扩充队伍，从最初风流潇洒的楚香帅郑少秋、少年英雄的张无忌李连杰，到后来儒雅俊逸的花满楼张智尧、曾经空翻少年如今褶子卖萌的克洛泽……咦，怎么乱入了一个非影星的克洛泽。<br>在香港武侠片还很风行的年代，相信很多人都看过林青霞饰演的东方不败、李连杰版本的令狐少侠。而这首《笑红尘》就是我女神林、王饰演的《东方不败之风云再起》里面的插曲，酒醒后再无故人，只道她曾笑过红尘。推荐这首歌不为了让它在今天还能大红大紫，只一份歌词里的洒脱情怀，叫人欲罢不能。<br><br><br><b>3、月儿几时圆——陈升、郁可唯。</b><br>这两人的音乐我都很喜欢，一个是沧桑老男人，初听也许不习惯、不喜欢，听久了自然品得出味道；一个是音乐独有风格和韵味的姑娘，记得郁可唯唱过的痒、夜太黑、荷塘月色等，都非常有味道。月儿这首歌，郁可唯主唱，是她一贯的风格，复古而有韵味，带着一点点风尘的滋味，答主我对这一类音乐毫无抵抗力啊！！！<br><br>另外这首歌绝逼不是二人的代表作，只是最近在听就顺手推荐上来了而已。<br><br><b>4、这世界唯一的你、爱恨恢恢——周迅。</b><br><br><b>5、如果这是情、你的名字我的姓氏——王苑之。</b><br>作为一个不懂粤语的人，能让我觉得好听且愿意听下去的粤语歌真的不多，王苑之就是一个例外。她的许多作品我都很喜欢，在此推荐两首先。by the way另外一个例外是谢安琪，她的 <b>祝英台、兰花指、我们都被忘了 </b>等作品也还可以。<br><br><b>6、wonderful tonight——方大同。</b><br>此歌乃翻唱，不过很好听，歌词也很简单易记，适合在ktv里演（zhuang）唱（bi）。<br><br><b>7、给电影人的情书、我心是海洋——蔡琴。</b><br>《给电影人的情书》前面有人推荐，我就不细说了。《我心》也是极好的。蔡琴阿姨的歌我还是最喜欢《恰似你的温柔》。喜欢她的风格的人也可以听听她的《如梦令》《月满西楼》之类的。<br><br><b>8、执子之手、完美孤独——莫文蔚。</b><br>不要再点《盛夏的果实》《阴天》了啊！莫文蔚的好歌真的还有别的啊！！当然了我最喜欢她的还是那首《爱情》。<br><br><b>9、他哪里走，我哪里跟——常石磊。</b><br>山楂树之恋的歌。我没看过片子，只听过这首歌。<br><br><br><b>10、苏州河（慕容雪 国语版）——薛凯琪。</b><br><br><br><b>11、暗恋——袁泉。</b><br><b>12、许我向你看——林青霞。</b><br><b>13、许我向你看——周璇。</b><br>这三首歌放在一起，因为它们实际上共同演绎了一首歌，其中袁泉和林青霞分别主演了话剧和电影《暗恋桃花源》。三首歌都听听看，可以品出每个年代的印记。<br><br><br><b>三、纯音乐类。</b><br>此类严格意义上不应该被写上来，属于我无比热爱的一类，本着分享的原则画个蛇添个足推荐给大家。以下推荐的基本都是古典民乐，当然了层主也喜欢过很长一段时间的风笛，在此不表，有心者可自行搜索漫步神秘园、爱尔兰风笛之类的关键词。排名不分先后，都是我的心头好。<br><br>1、二十二桥枫别雨——墨明棋妙。<br>2、千年风雅、青蛇——子雷。陶笛。<br>3、睡莲。有小提琴、二胡、埙等版本。<br>4、风居住的街道。<br>5、《倾世皇妃》里面的笛子奏乐也很好听，只是不知道名字，有了解的求告知。<br>6、桂花落——王俊雄。<br>7、流水浮灯——电影《青蛇》 中那一段。我喜欢了很多年。<br>8、雨碎江南——河图。<br>9、乱红——陈悦。<br>10、太极琴侠——陈军。他是总政歌舞团二胡首席，受道家文化的影响，推崇太极音乐理念。<br>还有好多，觉得我自己好啰嗦。<br><br><b>四、奇葩类。是的不要怀疑有这个类别，但不属于好歌吧，我只是来恶搞的。只有一首歌，前方高能预警，慎听！！！</b><br><br><b>幽媾之往生——有耳非文。   </b><br>曾经是一首让我初听就起鸡皮疙瘩的歌，被奇葩的答主我当做了几天的晨起闹铃，现在我已经对这首歌没有感觉了。至于这些鸡皮疙瘩的原因，你们感受一下。<br><br><br><b>五、外文歌曲类。</b><br>注：这一部分的歌曲，其实不知道算不算被埋没，大概有许多人没听过，所以从我的中华小曲库里被提溜了出来。以及，风格都偏向轻柔舒缓，答主是有着严重风格取向星人。<br>1、in the morning——club 8。<br>也是一首被我用于叫醒耳朵的歌，但不同于奇葩组的有耳非文，club的这首歌舒缓安静，符合我一向的审美调调。是的你没有看错，是一向！<br>如果你觉得这首歌还算入耳的话，他们美好的作品很多，比如：stay by my side、Jesus walk with me、this is the morning。<br><br>2、Walking Blind - Aidan Hawken and Carina Round。<br>催眠很合适。爱舒缓的孩子们不要错过它。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="5395817-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-05-05" target="_blank" href="/question/22953113/answer/25255716">编辑于 2014-05-05</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>16 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4488976"
+data-atoken="23178407"
+data-collapsed="0"
+data-created="1394118814"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23178407">
+<meta itemprop="answer-id" content="4488976">
+<meta itemprop="answer-url-token" content="23178407">
+<a class="zg-anchor-hidden" name="answer-4488976"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">36</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/guo-ce-64" target="_blank" data-tip="p$t$guo-ce-64"
+
+><img src="https://pic2.zhimg.com/1f2aa659d_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$guo-ce-64"
+target="_blank" href="/people/guo-ce-64"
+>国策</a>
+
+
+<span title="永永远远最美的画面。" class="bio">，永永远远最美的画面。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="36">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">36</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="国策" data-entry-url="/question/22953113/answer/23178407">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+徐佳莹绿洲不错。
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+徐佳莹绿洲不错。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4488976-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/22953113/answer/23178407">发布于 2014-03-06</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>14 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4503621"
+data-atoken="23213527"
+data-collapsed="0"
+data-created="1394209351"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23213527">
+<meta itemprop="answer-id" content="4503621">
+<meta itemprop="answer-url-token" content="23213527">
+<a class="zg-anchor-hidden" name="answer-4503621"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">747</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/jingdi" target="_blank" data-tip="p$t$jingdi"
+
+><img src="https://pic4.zhimg.com/9ca9b89eb_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$jingdi"
+target="_blank" href="/people/jingdi"
+>净地</a>
+
+
+<span title="朝圣者" class="bio">，朝圣者</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="747">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">747</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="净地" data-entry-url="/question/22953113/answer/23213527">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+何璐 - 《让她降落》。因为一个小姑娘认识这首歌，repeat了很久。附上歌词。《金粉世家》片尾曲作词：刘沁作曲：三宝演唱：何璐演奏：亚洲爱乐乐团歌词她没有焰火绚丽也不象鸟儿会迁徙不过是放飞的风筝怕你心痛才自由记忆的线索在你手中如果你能让她降落天…
+
+<a href="/question/22953113/answer/23213527" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+何璐 - 《让她降落》。<br>因为一个小姑娘认识这首歌，repeat了很久。<br>附上歌词。<br><br>《金粉世家》片尾曲<br>作词：刘沁<br>作曲：三宝<br>演唱：何璐<br>演奏：亚洲爱乐乐团<br>歌词<br>她没有焰火绚丽<br>也不象鸟儿会迁徙<br>不过是放飞的风筝<br>怕你心痛才自由<br>记忆的线索在你手中<br>如果你能让她降落<br>天空如自由无尽头<br>宁愿是条船如果你是大海<br>就让她能漂流在你心中<br>这世间繁华太多<br>人影交错擦肩而过<br>她走过惟独她走过<br>让你停下了脚步<br>沉默两颗心不再沉默<br>如果你能让她降落<br>天空如自由无尽头<br>可知那颗心在风中太落寞<br>就让她停留在你怀中<br>宁愿是条船如果你是大海<br>至少让她降落在你怀
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4503621-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/22953113/answer/23213527">发布于 2014-03-08</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>132 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7206534"
+data-atoken="29557311"
+data-collapsed="0"
+data-created="1408703557"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/29557311">
+<meta itemprop="answer-id" content="7206534">
+<meta itemprop="answer-url-token" content="29557311">
+<a class="zg-anchor-hidden" name="answer-7206534"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">42</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/wo-tou-shang-you-ji-jiao-j" target="_blank" data-tip="p$t$wo-tou-shang-you-ji-jiao-j"
+
+><img src="https://pic2.zhimg.com/327621fded68397b06bfae57f53216fd_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$wo-tou-shang-you-ji-jiao-j"
+target="_blank" href="/people/wo-tou-shang-you-ji-jiao-j"
+>我头上有犄角j</a>
+
+
+</div>
+<div class="zm-item-vote-info" data-votecount="42">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">42</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="我头上有犄角j" data-entry-url="/question/22953113/answer/29557311">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+张悬的 《喜欢》 
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+张悬的 《喜欢》 
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="7206534-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/22953113/answer/29557311">发布于 2014-08-22</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>9 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4680678"
+data-atoken="23629649"
+data-collapsed="0"
+data-created="1395321918"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23629649">
+<meta itemprop="answer-id" content="4680678">
+<meta itemprop="answer-url-token" content="23629649">
+<a class="zg-anchor-hidden" name="answer-4680678"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">373</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="javascript:;"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<span class="name">知乎用户</span>
+
+
+<span title="音乐一响起，我就能忘了所有" class="bio">，音乐一响起，我就能忘了所有</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="373">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">373</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="linerair" data-entry-url="/question/22953113/answer/23629649">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+基本上把以上的歌都听了一遍，有些确实很好听，像刘思涵这样的新生歌手，如果不看推荐的话可能要过好久也无从所知吧。还有一点，我认为很重要，就是听歌这事儿太因人而异了，真的是各有所爱，让每个人都觉得好听的歌实在是寥寥无几，当然如果恰好你我在同一…
+
+<a href="/question/22953113/answer/23629649" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+基本上把以上的歌都听了一遍，有些确实很好听，像刘思涵这样的新生歌手，如果不看推荐的话可能要过好久也无从所知吧。<br>还有一点，我认为很重要，就是听歌这事儿太因人而异了，真的是各有所爱，让每个人都觉得好听的歌实在是寥寥无几，当然如果恰好你我在同一个频率上，那真是件令人庆幸的事（我就碰到了一个，已赞^_^）如果你不喜欢，那也很正常，just ignore。<br><br>下面我来说下鄙人喜欢的一些歌吧，会尽力避免重复，不太会归类，知友们就将就着看吧。。<br>一.<b>中文版</b><br>许美静 ——《倾城》<br>           eason也有唱过，不过她完全唱出了另一种味道，可以用柔情似水来形容，心都要化了。<br><b> “热情就算熄灭了，分手这一晚也重要，甜言蜜语谎话嬉笑，多给我一点 不要缺少<br>           话题尽了也不紧要，吻我至凄冷的深宵，繁华闹市灯光普照，然而共你已再没破晓。”</b><br><br><br><br>A.Mini——《遇》<br><b>"都怪雨，下得那么急，都怪没有地方躲雨，才会一头，撞进了你的怀里，跌进你深深的眼里。"</b><br><br><br><br>王菲——《我爱你》<br>天后就是天后，这首歌百听不厌~<br><b> “</b><b>那些抓也抓不住的，才是真的。”</b><br><br><br><br>JS——《我比想象中爱你》<br>神奇的台湾实力派创作型兄妹组合，Justin 和Sophia，《仙剑一》片头曲<b>《杀破狼》</b>肯定都听过吧，就是他们唱的。<br><b>“我才发现我比想象中爱你，</b><b>只是一时不小心错过了你，</b><b>每当夜深人静，</b><b>我诚实的分析我自己，</b><b>还是不可否认地，</b><b>我比想象中爱你。</b><b>”</b><br><br><br><br>顾莉雅——《寂寞花火》<br>室友推荐的，歌手虽然不算出名，可这首歌真的是。。。<b>FEEL SO GOOD</b> : ) （电影《毕业那年》里的插曲）<br><b>“听着情歌，唱的是寂寞，心是无人到过的角落，流星划过，暗淡了花火，沉默是最完美的结果。”</b><br><br><br><br>本兮——《只想唱这首歌给你听》<br>     这首歌啊，我觉得二次元发烧友肯定喜欢，加上本兮这个歌手声音也比较嗲（不是在黑她。。）17岁少女必备哈哈。<br><b>“时间太急还没来得及说爱你，我只想唱这首歌给你听。”</b><br><br><br><br>沙宝亮——《让每个人都心碎》<br>当时是在深夜听到的这首歌，有点心碎的感觉，嗯，他还是那个唱《暗香》的沙宝。<br><b>“</b><b>城市一片漆黑，谁都不能看见谁，除非紧紧依偎，爱情怎么让每个人都心碎，怎么去安慰。”</b><br><br><br><br>薛凯琪——《better me》<br>这首歌能给女生瞬间注入一股正能量，暖暖的。<br><b>“要学会更加善待我自己，为你我变成了 Better me”</b><br><br><br><br>张翰、江映蓉——《一不小心爱上你》<br>        还是高中的时候听到的，感觉歌词、歌手的嗓音都特别特别的gentle，你们感受下。<br><b>  “你无声无息，涌入了我心底，往事却散落了一地，我从未留意，不小心爱上了你，</b><b>可最后却要保持距离。”</b><br><br><br><br>许茹芸——《好听》<br>         歌如其名，好听，有点撒娇有点甜。<br><b> “你说的话总那么好听，你爱不爱我不能确定，也许你只把他当游戏，我却爱得太用力</b><b>。”</b><br><br><br><br>曹方——《伤心旅客》<br>创作型歌手，随性，喜欢旅行，不过这首歌略伤感了。。<br><b>“曾经我们都太年轻了，不懂幸福很脆弱。”</b><br><br><br><br>林依晨——《非你莫属》  《你》（ps：第二首注意是<b>吉他</b>甜蜜版哦）<br>        林依晨可能作为演员出现在大众视线里较多一些，其实她的声音很轻柔，软软的，很耐听。<br><b> “懂得让我微笑的人，再没有谁比你有天份，轻易闯进我的心门，明天的美梦你完成。整个宇宙浩瀚无边的尽头，每颗渺小星球，全都绕着你走。”                          ——《非你莫属》</b><br><br><b> “</b><b>你就像风在说话，顺着我方向，你就像海中的波浪，堆着我成长。”                                ——《你》</b><br><br><br><br>可米小子——《青春纪念册》<br>       高中数学老师的来电铃声，每次听到都会觉得开心，就像歌名一样，有青春的味道。<br><b>“给你我的心作纪念，这份爱任何时刻你打开都新鲜，有我陪伴多苦都变成甜，睁开眼就看见永远。”</b><br><br><br><br>弦子——《舍不得》<br>依然是有很多版本，取的最爱。<br><b>“不追问到底为什么，是我最后的温柔，想笑着附和说分开是好的，但我们却怎么，一起哭了。”</b><br><br><br><br>蔡依林——《天空》（之前错写成另外一个原创歌手了sorry）<br><b>“听着自己的心跳，没有规则的跳动，我安静的在思考，并不想被谁打扰   我们曾静静拥抱，却又轻易地放掉，那种感觉很微妙，该怎么说才好。” </b><br><br><br><br>柯震东——《请比我爱他》<br>你们一定没想到吧（反正当时我是挺意外的。。），这么偶像派的大明星居然还唱歌呢，没错，就是“顾源”，音色还挺好的，唱得也很投入。<br><b>“</b><b>请比我爱她，别管我挣扎，我只是眼里飞进了沙，不让泪流下，切断了牵挂，让她快乐就是最好的报答。”</b><br><br><br><br>老狼——《想把我唱给你听》<br>这首歌想必大家都有听过，只是有些老了（至少对于我这个九零后来说是的。。），突然翻出来了，还是能感受到浓浓校园情。<br><b>“想把我唱给你听，趁现在年少如花，花儿尽情的开吧，装点你的岁月我的枝芽      谁能够代替你呢，趁年轻尽情地爱吧，最最亲爱的人啊，路途遥远我们在一起吧。”</b><br><br><br><br>魏语诺——《当我想你的时候》<br><b>“至少有十年我不曾流泪，至少有十首歌给我安慰，可现在我会莫名地哭泣，当我想你的时候。”</b><br><br><br><br>王恩琦——《很傻》<br>这首歌是她的成名曲，王恩琦，超女出身，之后blablabla（我也不太了解她，感兴趣的可以搜下），也是偶然走在街上听到的，觉得蛮有节奏感的，就用Soundtaste搜来听了。<br><b>“因为知道没有爱情你会觉得很累，但是知道有了爱情你会觉得更累，因为知道这种诱惑已经无法抵抗，但是不能保证，这种爱的经历是否适合你。”</b><br><br><br><br>蔡健雅——《越来越不懂》<br>这首歌跟上一首曲风挺像的，调调令人放松，歌词就像在跟你讲故事一样。<br><b>“得不到的就更加爱，太容易来的就不理睬，其实谁不想遇见真爱，爱得绝对，爱得坦白。”</b><br><br><br><br>范晓萱——《雪人》 《哭了》<br>啊，说到范晓萱，我就觉得她总是给人散发出一种高冷的气质，你们慢慢感受..<br><b>“</b><b>雪，一片一片一片一片，在天空静静缤纷，眼看春天就要来了，而我也将，也将不再生存”</b><br><b>                   ———《雪人》</b><br><br><b>“</b><b>孤独是什么，心冷是什么，情是什么，你是什么，我不要再想了，我已经倦了，我不想再唱了，我已经哭了。”                                                                              ——《哭了》</b><br><br><br><br>陈珊妮——《情歌》<br>朋友推荐听的，越听会越有感觉，《失恋三十三天》大家肯定都看过吧，嗯，就是它的主题曲。<br><b>“</b><b>没有缠绵悱恻的场面，没有对白的你爱我，</b><b>你是我一场好梦，明天一切好说。”</b><br><br><br><br>林凡——《一个人生活》<br>不同版本的演唱者有范文芳、贾立怡、紫龙。中国好声音第一季总决赛，吴莫愁拿它获了亚军，也得到了原唱林凡的认可。私以为，原唱更好听。<br><b>“我想我可以习惯一个人生活，我想我可以假装不曾爱过，冰凉的夜里让眼泪温热我。</b><b>”</b><br><br><br><br>王菲——《旋木》<br>不知道这首歌有没有“被埋没”，我仅仅是从我自己的角度来写的。虽然她是天后，不过她的歌我听得确实不算多，于是在某天晚上就把她的歌听了个遍，嗯，根本停不下来。。<br><b>“奔驰的木马，让你忘了伤，在这一个供应欢笑的天堂，看着他们的，羡慕眼光，不需放我在心上。”</b><br><br><br><br>梁咏琪——《短发》<br>追忆起来，最早知道梁咏琪这个人还是从哥哥姐姐们的唱片海报里，这么多年过去了，还是觉得她的声音很纯粹，很动情。<br>“<b>我已剪短我的发，剪断了惩罚，剪一地伤透我的尴尬，反反覆覆，清清楚楚，一刀两断，你的情话 ，你的谎话。”<br></b><br><br><br>何洁——《请不要对我说sorry》<br>不怎么喜欢何洁，也说不出来个原因，不过这首歌唱的还挺好，朋友推荐的。<br><b>“</b><b>我曾为爱在黑暗中狂奔，</b><b>只为等你轻轻的一个吻，</b><b>我的青春爱到奋不顾身，</b><b>也接受不完整， 虽然心还会疼。</b><b>”</b><br><br><br><br>李慧珍——《寻找李慧珍》<br>始终忘不了那句<b>“</b>世界再大，有我牵挂<b>”。</b><br><b>“我走遍天涯海角，找不到她，谁听说过她，知道她，好让她的心早日回家，告诉她世界再大有我牵挂。”</b><br><br><br><br>牛奶咖啡——《习惯了寂寞》<br>大一的时候，早晨学校广播里每天都会放，但一直都不知道叫什么，一个偶然的契机，旋律在耳边响起了。。。<br><b>“习惯了这样的寂寞，习惯了这样的生活，我期待一个人能够保护我，我期待一个人能和我分享快乐，属于我们的，寂寞的快乐。”</b><br><br><br><br>袁泉——《拥抱的问号》《一个人喝着拿铁》<br>没错，就是“轻装时代，看我的，艾莱依时尚羽绒服~”里的那位姑娘，夏雨的老婆。不知道该怎么形容她的声音，充满时尚的感觉？哈，反正就是很好听很舒服。<br><b>“拥抱我，你难道不寂寞，我们之间除了熟悉，还缺了些什么。”                                             ——《拥抱的问号》</b><br><br><b>“一个人喝着，温柔的拿铁，咖啡因不是转身安慰，中央公园明天，是否还有音乐会，决定该不该见面。”                                ——《一个人喝着拿铁》</b><br><br><br><br>卓文萱，黄鸿升——《爱的主旋律》<br>好朋友推荐的，歌词很温暖，狠是喜欢;-)<br><b>“</b><b>黄：天上亿万颗星星，我却只看见你，要说这是幸运，还是不可思议</b><br><b>卓：身边有太多风景，我却停在这里，说我傻得可以，还不是因为你”</b><br><br><br><br>薛之谦——《未完成的歌》  《你过得好吗》  《等我回家》 《你还要我怎样》<br>终于看到他了（我是按歌曲列表筛选的。。），他的声音是我最爱的好嘛！没有之一！喜欢他好几年了，不知道大家对他的关注度怎样，whatever，我是挺喜欢他的~<br><b>“你是我唱到喉咙沙哑未完成的歌，何必再听过之后冷冷笑我，在回忆里重播被挥霍，原来我唱的全都是寂寞。”                                                                          ——《未完成的歌》</b><br><br><b>“</b><b>他一定会比我好，一直一直对你很好，亲爱的别回头了，我会我会忍不住的。”    ——《你过得好吗》</b><br><br><b>“这世界太嘈杂，周边都是假话，你能不能再找个理由，等我回家。</b><b>”                                                 ——《等我回家》</b><br><br><b>“你还要我怎样，要怎样，你突然来的短信就够我悲伤，我没能力遗忘，你不用提醒我，哪怕结局就这样。”                                                                             ——《你还要我怎样》</b><br><br><br><br>王蓝茵——《遇到》  《恶作剧》<br>高中的时候迷恋《恶作剧之吻》迷恋得难以自拔，这些歌就是里面的插曲了，到现在，还是很爱。<br><b>“我们绕了这么一圈才遇到，我比谁都更明白你的重要，这么久了我就决定了，决定了你的手我握了不会放掉。”                                                                                   ——《遇到》</b><br><br><b>“我想我会开始想念你，<b>可是我刚刚才遇见了你，<br></b><b>我怀疑这奇遇只是个恶作剧。”</b><b> ——《恶作剧》<br></b><br></b><br><br>南拳妈妈——《靠近一点点》 《下雨天》 《再见小时候》 《小时候》<br>南拳妈妈真的算是一个优质音乐团体了啊，尤其是女主唱，声音柔软像棉花糖啊简直，卡哇伊呢。<br><b>“能不能再靠近一点点，能不能再勇敢一点点，就算让我知道我永远只是单恋，我也会藏着感谢，</b><b>笑着和你说再见。”                                                              ——《靠近一点点》</b><br><br><b>“雨要多大天要多黑，才能够有你的体贴，别说你会难过，别说你想改变，被爱的人不用道歉。”                              ——《下雨天》</b><br><br><b>”再见了小时候，懵懂的我，现在的梦已经成熟，风在朗诵，下课的钟，而时光静静的走</b><b>。”                                                                     ——《再见小时候》</b><br><br><b>“长大后发现世界真的不同，</b><b>不知该要往哪走，还是停在原地一动也不动，</b><b>我无力在逃脱，</b><b>眼看着时间溜走，</b><b>想回到小时候</b><b>。</b><b>”                                                                                    ———《小时候》             </b><br><br><br><br>杨宗纬——《空白格》<br>原唱是蔡健雅，个人觉得杨更能唱出悲伤（要不然怎么都说他天生“哭腔”呢），唱出“洋葱”般的味道，所以，也难免会有胸口一堵的感觉。。。<br><b>“我想你是爱我的，我猜你也舍不得，但是怎么说总觉得，我们之间留了太多空白格，也许你不是我的，爱你却又该割舍，分开或许是选择，但它也可能是我们的缘分。”</b><br><br><br><br>周笔畅——《一周年》<br>我可不是笔笔的粉丝，很少听她的歌，不过这首会经常拿来听。其实从她歌声里能感觉到，她还蛮可爱的:-)<br><b>“不过一年后，我们终于变了朋友，等不到你生日时候，抱着你唱首歌，你看我还是那么的温柔，却是朋友的朋友，再想不出什么借口还有要求。”                 </b><br><br><br><br>王菲——《明天我要嫁给你啦》<br>又到了女神的歌啦，这首歌周华健也有唱过，有兴趣的两个都可以听听，我是比较偏爱菲女神的啦:-)       （ps：感觉它跟蔡依林陶喆版的《明天你要嫁给我》完全不是一个次元上的=。=）<br><b>“明天我要嫁给你啦，明天我要嫁给你啦，要不是你问我，要不是你劝我，要不是适当的时候，你让我心动。”      </b><br><br><br><br>曾恺玹——《撒娇》<br>这首歌真的像是在撒娇:-p，自己好好感受吧。<br><b>“</b><b>答应你不哭也不闹，我的心只有你最明了，</b><b>张开手一个拥抱，我在你怀里甜蜜睡觉。”</b><br><br><br><br>李荣浩——《老街》<br>朋友推荐的，蛮好听的，有股怀旧风，念旧的人儿看过来吧。<br><b>“</b><b>忘不掉的是什么我也不知道，</b><b>想不起当年模样，</b><b>看也看不到去也去不了的地方，</b><b>也许那老街的腔调，是属于我的忧伤。</b><b>”              </b><br><br><br><br>陈诗慧——《欠你的幸福》<br>听她的歌不多（其实就only this one啦=。=），依然是听人推荐的，觉得不错，轻飘飘的。<br><b>“风吹过山谷，我会想起欠你的幸福，原谅我爱得不够投入，虽然你会守在灯火阑珊处。”</b><br><br><br><br>卢巧音——《一年五季》<br>是首粤语歌，她跟王力宏合唱的《好心分手》虽然红遍大江南北，不过她本人在内地貌似并不火。 很喜欢她的声音，很有深度;-)<br><b>“旁人不会像我，有这季节的感与觉，瓶中枯萎的鲜花再开，风般的记忆，扫过远方的国度，夹带了爱意再吹到岸。”</b><br><br><br><br>彭羚——《囚鸟》<br>喜欢这首歌完全是被我哥哥影响的好嘛！他老爱单曲循环这首歌了，搞得我也喜欢了^_^<br><b>“我像是一个你可有可无的影子，</b><b>冷冷的看着你说谎的样子，</b><b>这撩乱的城市，</b><b>容不下我的痴，</b><b>是什么让你这样迷恋这样的放肆。”</b><br><br><br><br>林冠吟——《毁灭爱情》<br>创作型女歌手，嗓音很独特，像是混合了“杨丞琳&amp;郭静&amp;刘惜君&amp;梁心颐”的曲风，值得一听。<br><b>“不能带着爱拥抱你，我们之间，朋友而已。” </b><br><br><br><br>杨宗纬、叶蓓——《我们好像在哪儿见过》<br>《咱们结婚吧》的片尾曲，听第一遍就爱上了！歌曲的画面感很强，女声略带些沙哑但却很有味道，再搭配上“催泪歌神”杨宗纬的细腻声线，完满了~<br><p><b>“我们好像在哪见过你记得吗，那时你还是个孩子我在窗棂下，我猜着你的名字刻在了墙上，我画了你的摸样对着弯月亮 。”</b></p><br><br><br>王菲——《天空》<br><p><b>“我们天空，何时才能成一片，我们天空，何时能相连，等待在世界的各一边，任寂寞嬉笑一年一年，天空叠着层层的思念。”</b></p><br><br><br>张学友——《我是真的受伤了》<br>很遗憾并不是他的粉丝，不过他不愧为歌神，有着直击灵魂的声音。<br><b>“</b><b>电话响起了，你要说话了，</b><b>还以为你心里对我又想念了，</b><b>怎么你声音变得冷淡了，</b><b>是你变了，是你变了。”</b><br><br><br><br>曲婉婷——《今天》<br>相比于《我的歌声里》，这首歌应该算是被淹没了吧=。=，节奏、歌词都不错。<br><b>“有多少个昨天，</b><b>是为了能圈住今天的一个愿，</b><b>有多少次迷路，</b><b>是为了能停留在这一瞬间，</b><b>因为有你，所以有今天。”</b><br><br><br><br>郁可唯——《暖心》<br>嗯，它真有暖过我的心呢@_@<br><b>“</b><b>你的体贴，</b><b>温暖了我的心，</b><b>就像倾盆大雨，</b><b>舍不得淋湿爱你的心，</b><b>我要唱给你听，</b><b>陶醉在你给的甜蜜。”</b><br><br>=============================================<br><br><b>二.外文版</b><br><br><b>英文</b><br><b>Bird York——《In the Deep》</b><br>奥斯卡获奖电影《Crash》插曲，很耐听。<br>“Life keeps tumbling your heart in circles<br>till you let go.”<br><br><b>Tang nguoi toi yeu ——《You Can Trust In Me》</b><br><b>情侣间的浓情蜜意.</b><br>“Surrender<br>Baby please surrender<br>I will be so tender<br>If you trust in me”<br><br><br><b>Dido——《Life For Rent》 《No Freedom》</b><br>英国的创作才女，甜美飘渺的嗓音，轻快的旋律。偶然在豆瓣FM听到的~<br>“Cos nothing I have is truly mine.<br>But if my life is for rent and I don't learn to buy，<br>Well I deserve nothing more than I get”                                                                ——《life for rent》<br><br>“Wherever I chose to go，no love without freedom”                         ——《No freedom》<br><br><br><b>Pink Floyd——《Wish You Were Here》</b><br>朋友推荐的，很深情，略带些沧桑感。还蛮喜欢的，尤其是安静的吉他前奏。<br>“How i wish, how i wish you were. We're just two lost souls swimming in a fish bowl year after year ”<br><br><br><b>Babyface——《Drama' love》 《Lonliness》《Mad，Sexy，Cool girl》 </b><br>R&amp;B音乐教父，不多说，自己感受~<br><br><br><b>Sarah Brightman——《猫》 （音乐剧）</b><br><br><br><b>Sheryl Crow——《Safe And Sound》</b><br>主要中意它的旋律，很销魂很释放。<br><br><br><b>Lainey Low——《Oceanside》</b><br>很有画面感的一首歌，有点乡村音乐的感觉。<br><br><br><b>Amy Diamond——《Hertbeats》</b><br>柔和舒缓的调调，感觉压力很大的时候，不妨戴上耳机听听。<br>"Please don't let me go,<br>I just wanna stay,<br>Can't you feel my heartbeats,<br>giving me away."<br><br><br><b>Adam Lambert——《Whataya Want From Me》</b><br>对白式的宣泄。<br><br><br><b>James Blunt——《If Time Is All I Have》</b><br>著名的《You are beautiful》就出自他，不嘹亮又略微有些沙哑的歌声却总是能够敲击到灵魂的最深处。这首歌带着深深的不舍和诀别的意味，流露真情。<br>“If time is all I have，I'd waste it all on you”<br><br><br><b>Lady  Antebellum——《Just A Kiss》</b><br>讲述的是人在遭遇新的浪漫之时，身边一切的事情都会从此慢镜头。<br>“just a kiss on your lips in the moonlight<br>just a touch in the fire burning so bright”<br><br><br><br><b>Janine Berenson——《Outa My Head》</b><br><b>钢琴鼓点女声</b>，印象中当初找这首歌找了很久。。。<br><br><br><br><b>Kenny Rogers——《Lady》</b><br>美国著名乡村歌手，嗓音略为沙哑，低音丰富回转，听他的歌，就像是在听一个经历沧桑、情感丰富的人说感人的故事。<br>“Lady,<br>for so many years<br>I thought I'd never find you.<br>You have come into my life<br>and made me whole.”<br><br><br><b>Justin Timberlake——《What Goes Around Comes Around》</b><br>关于贾老板我就不说什么了！但听之！<br>“Don't want to think about it,<br>Don't want to talk about it,<br>I'm just so sick about it,<br>Can't believe it's ending this way”<br><br><br><b>Rihana——《California King Bed》</b><br>蕾哈娜确实很有范儿，mv也很带感。<br>“In this California king bed,<br>We're 10,000 miles apart,<br>I've been California wishing,<br>On these stars for your heart for me”<br><br><br><b>Carla Bruni——《You Belong To Me》</b><br>集“现任法国总统<b>萨科齐的妻子</b>、模特、演员、歌手”等多重身份于一身，这个女人真心不简单啊。慵懒而略带沙哑，有吉他伴奏,像是淡淡的倾诉，虽然只是在反复吟唱第一段歌词，不过却有独特的味道~<br>“See the pyramids around the Nile,<br>Watch the sunrise on a tropic isle,<br>Just remember, darling, all the while,<br>You belong to me”<br><br><br><b>H.I.M——《Gone With The Sin》</b><br><b>神秘低沉的旋律，对爱的诠释。</b><br><p>“I love your skin oh so white,</p><p>I love your touch cold as ice.</p><p>And I love every single tear you cry,</p><p>I just love the way you're losing your life.”</p><br><br><p><b>Passenger——《Let Her Go》</b></p><p><b>“让她走吧。”</b></p><p>" Only know you love her when you let her go</p><p>And you let her go"</p><br><br><br><p><b>Lionel Richie——《Say You Say Me》</b><br></p><p>动情的嗓音，歌词真挚，旋律也很美</p><p>“Say you, say me</p>Say it for always<br>That's the way it should be<br>Say you, say me<br><p>Say it together, naturally”</p><br><br><br><p><b>Sting ——《Shape Of My Heart》</b><br></p><p>Sting，老牌摇滚歌手，此曲还是1994年电影《这个杀手不太冷》中的片尾曲。</p><br><br><p><b>Kate Havnevik——《Think Again》</b><br></p>慵懒女声<br>“Only you,I wanna be in love with you,I don't wanna get over you,I want you here<br>Summer is coming to a close,dreaming's over once again,It's still quiet in this town,I know where thing has to end ,and I,I'm not to see you."<br><br><br><b>The Script——《Hall Of Fame》</b><br>手稿乐队保有U2、The Cranberries的摇滚风格，强势力拼Maroon5，给人满满正能量，偶然听到一次，就喜欢上了: )<br><p>“You could be the greatest, you can be the best</p><p>You can be the King Kong banging on your chest</p><p>You could beat the world, you could beat the war</p><p>You could talk to God, go banging on His door”</p><br><br><p><b>Rosie Thomas——《Say Hello》</b></p><p>很安静，很gentle.</p><p>“If I find him，if i just follow</p><p>Would he hold me and never let me go</p><p>Would he let me borrow his old winter coat</p><p>I don't know,I don't know”</p><br><br><b>Celine Dion——《Because You Loved Me》</b><br>《我心永恒》想必大家都听过，不知道这首听过木有。。<br><br><br><p><b>Diddy——《Comeing Home》</b></p><p>“I‘m coming home，I’m coming home，tell the World I’m coming home.Let the rain wash away all the pain of yesterday，I know my kingdom awaits and they’ve forgiven my mistakes.”</p><br><br><p><b>A Fine Frenzy——《Almost Lover》</b></p><p>曲调、歌词都很伤感，有点催泪。。</p><br><br><p><b>Mindy Gledhill——《All About Your Heart》</b><br></p><p>“I don’t mind your odd behavior </p><p>It’s the very thing I love                 </p><p>If you were an ice cream flavor          </p><p>You would be my favorite one          </p><p>My imagination sees you                    </p><p>Like a painting by Van Gogh.”</p><br><br><p><b>Ellie Goulding——《Lights》</b><br></p><p><b>流行，节奏，R&amp;B</b></p><p>“You show the lights that stop me turn to stone<br>You shine it when I'm alone<br>And so I tell myself that I'll be strong<br>And dreaming when they're gone”<br></p><br><br><p><b>Onerepublic——《If I Lose Myself》</b></p><p><b>Pop，节奏，能量</b></p><p>“I stand up at the sun</p>Thought of all the people, places and things I've loved<br>I stand up just to see with of all the faces,<br>you are the one next to me”<br><br><br><br><p><b>The Righteous Brothers——《Unchained Melody》</b><br></p><p>这首歌也许很多人听过，只是不知道歌名，曲头那熟悉的旋律Ohhh...。</p><p>“Oh, my love, my darling<br>I've hungered for your touch<br>Alone, lonely time<br>And time goes by so slowly<br>yet time can do so much<br>Are you still mine”<br></p><br><br><p><b>Lene Marlin——《A Place Nearby》</b><br></p><p>忧伤</p><p>“I wanna ask you not to cry<br></p><p>I will always be by your side”</p><br><p><b>Iron Wine——《Flightless Bird》</b><br></p><p>《暮光之城》的插曲（好像是一），挺gentle的男声。</p><br><br><p><b>Dia Frampton——《Walk Away》</b><br></p><p>身体会不由自主跟着明快的节奏动起来</p><br><br><p><b>Anastacia——《Defeated》</b><br></p><p>不多说，正能量！</p><p>“You can tear me apart</p>You can rip me to pieces<br>Try breaking me down<br>But I'll never be beated”<br><br><br><p><b>Enya——《Only Time》  《Amarantine》</b><br></p><p>Enya的声音纯美安静，洗涤浮躁心灵，这种歌又叫<b>“新世纪音乐”</b>。</p><p>“Who can say where the road goes,</p>Where the day flows<br>Only time<br>And who can say if your love grows,<br>As your heart chose<br><p>Only time”    ——《Only Time》</p><br><p>“A whisper, a word, promises you give</p>You feel it in the heartbeat of the day<br>You know this is the way love is<br>Amarantine，Love is always love<br>Amarantine，Love is always love”  ——《Amarantine》<br><br><br><b>The Automatic——《By My Side》</b><br>跟孙燕姿《遇见》一样的旋律，算是英文版的它吧。<br><p>“so far away I can hardly make you mine.</p><p>so long the day you are always on my mind.</p><p>but in my dreams never try to hold you tight.</p><p>don't wanna wake find you ain't here by my side.”</p><br><br><p><b>London Grammar——《Night Call》</b></p><p>女声带着绝望，伴奏很深沉</p><br><br><p><b>Fujita Emi——《Leaving On A Jet Plane》</b></p><p>“So kiss me and smile for me</p><p>Tell me that you'll wait for me</p><p>Hold me like you'll never let me go</p><p>cause i'm leaving on a jet plane</p><p>I don't know when i'll be back again</p><p>Oh babe, i hate to go”</p><br><br><p><b>Lucy Hale——《Run This Town》</b></p><p>电子，节奏，流行</p><p>“I’ve got rings on my fingers</p>And glitter in my hair<br>I bought a one-way ticket<br>And I just got here<br>I’m gonna run this town<br>Run this town<br>I’m gonna run this town<br><p>Run this town”</p><br><br><p><b>One T And Cool T——《The Magic Key》</b></p><p><b>Listen up！</b></p><p>“ Just listen find the magic key</p> Music's the odyssey<br> It's here for you, for me.”<br><br><br><p><b>Nickeback——《If Everyone Cared》  《Photograph》</b></p><p>摇滚风，很有力量。ps：<b>主唱是艾薇儿男友</b>呢;-)</p><p>“if everyone cared and nobody cried</p>if everyone loved and nobody lied<br>if everyone shared and swallowed their pride<br>we'd see the day when nobody died<br><p>and i'm singing”                          ——《If Everyone Cared》</p><br><p>“Look at this photograph</p>Every time I do it makes me laugh<br>How did our eyes get so red<br><p>And what the hell is on Joey's head”     ——《Photograph》</p><br><br><p><b>Lily  Allen——《 5 O'Clock》</b></p><p>“It’s 5 o’ clock in the morning</p><p>Conversation got boring</p><p>You said you’d go into bed soon</p><p>So I snuck off to your bedroom</p><p>And I thought I’d just wait there</p><p>Until I heard you come up the stairs</p><p>And I pretended I was sleeping and I was hoping”</p><br><p>======================================</p><p><b>日文</b></p><br><p><b>川岛爱——《涙》</b>（"泪"的繁体）</p><br><p><b>山崎将义——《One More Time One More Chance》</b></p><p><b>《秒速五厘米》</b>结尾曲，咳，打个广告，这部电影也很赞，在此感谢推荐给我看的那位朋友^_^<br></p><br><p><b>何欣穗——《给女儿》</b></p><p>《海角七号》插曲（另外，强烈推荐这部电影啊，太唯美:-) ）</p><br><p>============================================</p><p><b>法文</b></p><br><p><b>Mondialito——《树影斑驳》</b><br></p><p>是由来自东京的Mondialito唱的法文歌。法语的呢喃，加上日系气呼式女声，甜蜜又梦幻。<br></p><br><br><p>============================================</p><p><b>泰文</b></p><br><p><b>FFK——《Blank》</b></p><br><p><b>《初恋这件小事》插曲——《会有那么一天》</b><br></p><p>“你听见了吗，我的心正在说爱你。”<br></p><br><p>============================================</p><p><b>韩语</b></p><br><p><b>Kiss组合——《因为是女子》</b></p><p>推荐身边好多人看了MV，也许是我泪点过低，每次看都会忍不住掉泪。。</p><br><p><b>少女时代——《Promise》</b></p><br><p>============================================</p><p><b>轻音乐</b></p><br><p><b>Pianoboy——《悲伤钢琴曲》</b><br></p><br><p><b>Igor Krutoi——《Sad Angel》<br></b></p><p>mv狠唯美呢。</p><br><p><b>口琴版《风一样自由》</b><br></p><p>有种夏日漫步在校园的感觉，一步、两步、三步。。。</p><br><p><b>Jim Brickman——《Serenade》</b></p><p>很有现代感的钢琴曲，据说，在中世纪的欧洲，恋人们都会唱它来表达浓浓爱意呢。</p><br><p><b>Dj Okawari——《Luv Letter》</b><br></p><p>开始很缓和，接着节奏开始有跳跃感，中间的慢慢升华很美妙。</p><br><p><b>Secret Garden——《The Promise》</b><br></p><br><br><p><b>Karunesh——《Follow Your Heart》<br></b></p><br><br><p><b>Diana Boncheva——《Purple Passion》</b></p><br><p>Ellocz——《<b>克罗地亚第二狂想曲》</b></p><p>此曲相对于很多人都熟悉的<b>马克西姆的《克罗地亚狂想曲》</b>来说，更显得活泼一些。虽然作者似乎没太大名气，但不可否认这是一首难得的钢琴曲。</p><br><br><br><p><b>久石让——《太阳照常升起》</b></p><p>大一一年都是伴着室友的这首歌起床的。。。</p><br><p><b>July——《木偶的死亡舞步》</b></p><p>狠有节奏感呦，就不信你能克制住不打拍子=。=</p><br><p><b>专辑《团契游乐园3-薪火永传》——《爱的小夜曲》</b></p><br><br><br><p><i>未完待续，欢迎讨论 </i>^_^</p>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4680678-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-20" target="_blank" href="/question/22953113/answer/23629649">编辑于 2015-02-24</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>88 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4487378"
+data-atoken="23174736"
+data-collapsed="0"
+data-created="1394112981"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="0"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23174736">
+<meta itemprop="answer-id" content="4487378">
+<meta itemprop="answer-url-token" content="23174736">
+<a class="zg-anchor-hidden" name="answer-4487378"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">19K</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/libiubiu" target="_blank" data-tip="p$t$libiubiu"
+
+><img src="https://pic2.zhimg.com/f006a0a50cb79f8bbc32cec637688d39_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$libiubiu"
+target="_blank" href="/people/libiubiu"
+>李嫑嫑</a>
+
+
+<span title="我的微信：li_biubiu 提问咨询请去我的值乎" class="bio">，我的微信：li_biubiu 提问咨询请去我的值乎</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="19634">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">19634</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="李嫑嫑" data-entry-url="/question/22953113/answer/23174736">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+<img src="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_200x112.jpg" data-rawwidth="427" data-rawheight="412" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_r.jpg">
+谢邀，《<b>芭比</b>》—— 陈倩倩<b>推荐理由</b>：<b>这首歌绝对是熊猫大便上盛开的一朵奇葩~</b>我只想给它三十二颗星，因为太美了！！可这首歌他喵的太惨了！！ 我百度了一下只有芭比娃娃，丝毫没有关于这首歌的详细介绍。。。 <b>补充一下这首歌的曲作者「谭伊哲」</b>：谭伊哲，著…
+
+<a href="/question/22953113/answer/23174736" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+谢邀，<br><br>《<b>芭比</b>》—— 陈倩倩<br><b>推荐理由</b>：<b>这首歌绝对是熊猫大便上盛开的一朵奇葩~</b><br>我只想给它三十二颗星，因为太美了！！可这首歌他喵的太惨了！！ 我百度了一下只有芭比娃娃，丝毫没有关于这首歌的详细介绍。。。 <br><b>补充一下这首歌的曲作者「谭伊哲」</b>：<br>谭伊哲，著名音乐制作人、作曲家。毕业于四川音乐学院作曲系，留学加拿大。集音乐制作、作曲、作词、编曲，多种乐器演奏于一身。被誉为音乐魔法师和音乐新教父。<br>2004年回国发展，是当今获编曲奖及提名最多的音乐制作人。<br><noscript><img src="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_b.jpg" data-rawwidth="427" data-rawheight="412" class="origin_image zh-lightbox-thumb" width="427" data-original="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_r.jpg"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="427" data-rawheight="412" class="origin_image zh-lightbox-thumb lazy" width="427" data-original="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_r.jpg" data-actualsrc="https://pic4.zhimg.com/2fd660161f2bb80ee7f842a072885553_b.jpg"><noscript><img src="https://pic2.zhimg.com/aade332f188cf520cc015531a9b46f7d_b.jpg" data-rawwidth="474" data-rawheight="621" class="origin_image zh-lightbox-thumb" width="474" data-original="https://pic2.zhimg.com/aade332f188cf520cc015531a9b46f7d_r.jpg"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="474" data-rawheight="621" class="origin_image zh-lightbox-thumb lazy" width="474" data-original="https://pic2.zhimg.com/aade332f188cf520cc015531a9b46f7d_r.jpg" data-actualsrc="https://pic2.zhimg.com/aade332f188cf520cc015531a9b46f7d_b.jpg"><br><br><b>推荐指数</b>：☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆<br><br>我啥也不说了，我想很多人应该知道下面这个表情吧？ 嗯，是我最爱的表情~<br><noscript><img src="https://pic4.zhimg.com/b29da547ac0fc90d0849c913e3ea3ac3_b.jpg" data-rawwidth="1024" data-rawheight="768" class="origin_image zh-lightbox-thumb" width="1024" data-original="https://pic4.zhimg.com/b29da547ac0fc90d0849c913e3ea3ac3_r.jpg"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="1024" data-rawheight="768" class="origin_image zh-lightbox-thumb lazy" width="1024" data-original="https://pic4.zhimg.com/b29da547ac0fc90d0849c913e3ea3ac3_r.jpg" data-actualsrc="https://pic4.zhimg.com/b29da547ac0fc90d0849c913e3ea3ac3_b.jpg"><noscript><img src="https://pic4.zhimg.com/5108aaa6dcdf7ae880be7dc67c05e5c7_b.jpg" data-rawwidth="1024" data-rawheight="768" class="origin_image zh-lightbox-thumb" width="1024" data-original="https://pic4.zhimg.com/5108aaa6dcdf7ae880be7dc67c05e5c7_r.jpg"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="1024" data-rawheight="768" class="origin_image zh-lightbox-thumb lazy" width="1024" data-original="https://pic4.zhimg.com/5108aaa6dcdf7ae880be7dc67c05e5c7_r.jpg" data-actualsrc="https://pic4.zhimg.com/5108aaa6dcdf7ae880be7dc67c05e5c7_b.jpg"><br>那么你一定要点下面的视频，因为在那时，这个就是极品，Flash动画和美妙音乐完美配合~<br><br>当年Flash真的出了不少精品，可惜啊，互联网变化的太快~ 缅怀吧！~<br><br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjkzOTAyNDQ4.html" target="_blank" rel="nofollow noreferrer">芭比《陈倩倩》<i class="icon-external"></i></a><br><br>《<b>如果有那么一个人</b>》——  WIN<br><br><b>推荐理由</b>：这歌曲连<b>百度百科</b>都没有我会乱说？国产俩女生的演唱组合连百度都没搜到。。太惨了！上学的时候《电脑迷》里光盘推荐的歌曲，超好听，没理由，需要MP3的评论留邮箱。<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/B12EjgbwH8U/" target="_blank" rel="nofollow noreferrer">如果有那么一个人(W1n)<i class="icon-external"></i></a><br>《<b>暗恋情书</b>》—— 俞思远<br><br><b>推荐理由</b>：「我型我秀」俞思远乐团的佳作，别说国内没有五月天级别的作品，有的~<br><b>推荐指数</b>：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTgyMzM1OTg4.html" target="_blank" rel="nofollow noreferrer">暗恋情书-俞思远<i class="icon-external"></i></a><br>《<b>擦身而过</b>》——林心如<br><b>推荐理由</b>：紫薇格格唱的喔，当然这不是重点，因为她唱功不咋滴，重点是旋律和词都很赞~<br><b>推荐指数</b>：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjEzNzY5ODg%3D.html" target="_blank" rel="nofollow noreferrer">[MTV]林心如擦身而过<i class="icon-external"></i></a><br><br>《<b>庆幸有你爱我</b>》 ——蔡淳佳<br><b>推荐理由</b>：首先这首歌本身质量就很好，而且蔡淳佳的唱功也被忽略的太多，她绝对是一个可以温暖你的女歌手。<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjczMzEzNDEy.html" target="_blank" rel="nofollow noreferrer">蔡淳佳《庆幸有你爱我》<i class="icon-external"></i></a><br>《<b>带我去寻找</b>》——王啸坤<br>推荐理由：这货唱功了得啊，可惜就是不红，和周笔畅一个样，太可惜了。这首歌不比那首什么《追梦赤子心》差，去听听吧，这声线，哦耶~<br>推荐指数：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTA2MTIwMzQw.html" target="_blank" rel="nofollow noreferrer">王啸坤)带我去寻找<i class="icon-external"></i></a><br> 《<b>低调</b>》——张栋梁<br><b>推荐理由</b>：可能你还记得他的那首《当你孤单你会想起谁》，这是某位朋友曾发给我的歌 <a data-hash="ac8881626fddb6dcab56ae2d7200967d" href="//www.zhihu.com/people/ac8881626fddb6dcab56ae2d7200967d" class="member_mention" data-editable="true" data-title="@晓筱" data-tip="p$b$ac8881626fddb6dcab56ae2d7200967d">@晓筱</a>，去听听真诚的男声吧，低调是因为不想打扰~<br><b>推荐指数</b>：☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzI3NDcyMjgw.html" target="_blank" rel="nofollow noreferrer">张栋梁-低调（官方原版）<i class="icon-external"></i></a><br>《<b>第五季</b>》——张韶涵<br><b>推荐理由</b>：作为台湾为数不多的唱功上佳的女歌手，张韶涵从大起到大落再到..  其实她真的挺会唱歌的，很多人都因为她是因为演《海豚湾恋人》而忽略了她的唱功，前几天我刚写完蔡依林，我想说张韶涵的唱功完秒蔡依林，不信？来听听这首《第五季》~<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTMyMzQzMzA4.html" target="_blank" rel="nofollow noreferrer">第五季_张韶涵<i class="icon-external"></i></a><b>《可不可以爱》（方力申）&amp;《最好的幸福》</b>——何炅<br><b>推荐理由</b>：我可是第一拨买何炅正版专辑的人啊~！！  我当年也是快乐大本营的脑残粉啊！<br>什么《栀子花开》都弱爆了好吗？  这两首歌为什么不火呢？ 其实我也挺纳闷的~<br>前者在诠释一个人对爱的渴望却胆怯，后者在诠释最好的幸福是把一个人记住。<br>忘了说，《最好的幸福》是李泉的作品，之前有人邀我评价李泉，在这特此声明，没资格评价他，他太牛了。<br>Ps： 何炅唱功确实不行，但这两首歌在词曲创作上是上乘的！<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjkwODQxNTg0.html" target="_blank" rel="nofollow noreferrer">何炅-可不可以爱 高清<i class="icon-external"></i></a><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTE1MTg0MjM2.html" target="_blank" rel="nofollow noreferrer">何炅-最好的幸福<i class="icon-external"></i></a><br>《<b>飞</b>》  ——张玉华<br><b>推荐理由</b>：你是不是对她的印象还停留在「原谅把你带走的雨天？」<br>不多说了，请听下面这首歌，闭上眼睛听~<br><b>推荐指数</b>：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/tBESX4UMDYI/" target="_blank" rel="nofollow noreferrer">張玉華 - 飛<i class="icon-external"></i></a><br>《<b>关怀方式</b>》——女版是<b>欣彦</b>（男版是<b>阿牛</b>）<br><b>推荐理由</b>：百度没这首歌的百科，还好有她的介绍。马来西亚的歌手，这首女生版的歌非常适合夏天的晚上听~非常温暖~~<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzM1MTgyNTYw.html" target="_blank" rel="nofollow noreferrer">阿牛  薇恩 关怀方式<i class="icon-external"></i></a><br>《<b>不再回头</b>》——广智<br><b>推荐理由</b>：旋律演唱没的说~ 老歌了~ <br>推荐指数：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTY5NDk2OA%3D%3D.html" target="_blank" rel="nofollow noreferrer">广智 不再回头<i class="icon-external"></i></a><b>《</b><b>花与剑</b><b>》 &amp;《最远的位置》</b>—— Js<br><b>推荐理由</b>：可能你看过《仙剑奇侠传》，可能你听过《杀破狼》，但你未必熟悉Js~无敌的兄妹组合~！ 台湾真他喵的出人才！ 不多说了，去体验一下他们的天马行空，他们眼中的武侠和中国风！<br>《最远的位置》是Js的代表慢情歌，可惜啊，听过的人不多~<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjQ2NzY5NTky.html" target="_blank" rel="nofollow noreferrer">古剑奇谭MV主题曲《花与剑》<i class="icon-external"></i></a><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/ey6Y_H4bdqI/" target="_blank" rel="nofollow noreferrer">js---最远的位置<i class="icon-external"></i></a><br><br>太累了，也不知道各位喜不喜欢，看了一眼列表才分享了四分之一，先分享到这儿吧。<br><b>更多欢迎移步到我的专栏</b>：<a href="http://zhuanlan.zhihu.com/linaoshi" class="internal">爱生活，爱音乐 - 知乎专栏</a><br><br><br><br><b>-《有哪些被埋没的好歌》第二次更新：2014/3/7-</b><br>(￣︶￣)↗ (￣︶￣)↗ (￣︶￣)↗ <br><b>-由于更新的时候知乎无法自动保存草稿-</b><br>(￣︶￣)↗ (￣︶￣)↗ (￣︶￣)↗ <br><b>-我只能每更新一首，就保存一次！！！-</b><br><br><br>《<b>说好的幸福呢</b>》「摇滚版」——浪花兄弟<br><b>推荐理由</b>：周杰伦的版本大家应该都听过，但是这个被周杰伦二次改编的摇滚版《说好的幸福呢》却没多少人听过。改编的非常棒，堪称经典，不听后悔！<br><b>推荐指数</b>：☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/QHoxynXYOLk/" target="_blank" rel="nofollow noreferrer">说好的幸福呢 浪花兄弟摇滚版<i class="icon-external"></i></a><br>《<b>可不可以爱你</b>》——俞思远&amp;Biz<br><b>推荐理由</b>：上乘的旋律，国内的五月天啊~！为什么不红啊！<br><b>推荐指数</b>：☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTczMjMwOA%3D%3D.html" target="_blank" rel="nofollow noreferrer">可不可以爱你 俞思远 B I Z<i class="icon-external"></i></a><br>《<b>舍不得</b>》——陈志朋<br><b>推荐理由</b>：小虎队里唱功最好的人，小虎队里混的最不好的人，长相酷似张国荣，还珠格格里的尔泰。这首《舍不得》是我舍不得删的歌，因为撒浪嘿呦~<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNDkwNTQyMjA%3D.html" target="_blank" rel="nofollow noreferrer">歌曲 舍不得（03）陈志朋（天地英雄校园行）<i class="icon-external"></i></a>《<b>大城小事</b>》—— 黎明&amp;杨千嬅&amp;郑源&amp;张学友<br><b>推荐理由</b>：十年前王菲和黎明演了部电影，叫《大城小事》。<br>还有一首歌，也叫《大城小事》，被黎明、杨千嬅、张学友、郑源都唱过，个人认为最好听的还是杨千嬅的版本，<b>因为把我唱哭过啊</b>！（注意：推荐听杨千嬅的国语版）<br><b>推荐指数</b>：☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTc4NDU0OTY%3D.html" target="_blank" rel="nofollow noreferrer">杨千嬅[大城小事]<i class="icon-external"></i></a><br>上为粤语版<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTM3OTA2NA%3D%3D.html%3Ffrom%3Dy1.2-1-95.3.1-2.1-1-1-0" target="_blank" rel="nofollow noreferrer">杨千桦_大城小事<i class="icon-external"></i></a><br>上为国语版<br><br>《<b>小树</b>》——梁心颐<br><b>推荐理由</b>：可能，你只知道她那首《下雨天》，下雨天了不知道该怎么办？<br>而这首歌拥有超感人的旋律和歌词，绝逼的催泪弹！失恋必听啊，不知道哭瞎了多少妹子。<br>只可惜这歌也不火，悲催的南拳妈妈，悲催的梁心颐。<br>有一种爱叫「还爱你却无能为力..」<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjk1OTgxMTE2.html" target="_blank" rel="nofollow noreferrer">梁心颐《小树》<i class="icon-external"></i></a><br>《<b>眼泪笑了</b>》——刘力扬<br><b>推荐理由</b>：超级女声里实力唱将之一，这首歌当时好像是为了汶川地震写的，超级感人啊！！<br>旋律+词=没的说！！！！心碎成沙漠，眼泪都笑了！  快听！！<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzA5OTEwNjQ%3D.html" target="_blank" rel="nofollow noreferrer">刘力扬最新感动赈灾歌曲《眼泪笑了》【现场版】<i class="icon-external"></i></a><br>《<b>没有你的日子我真的好孤单</b>》——韩晶<br><b>推荐理由</b>：当年的网络街边歌，怎奈啊，只火了那么一阵子。唱功还是不行，编曲也不行，但旋律是不错的。<br><b>推荐指数</b>：☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjA4Njc0Mzky.html" target="_blank" rel="nofollow noreferrer">韩晶《没有你的日子我真的好孤单》<i class="icon-external"></i></a><br><br>《<b>每次都想呼喊你的名字</b>》——李恕权&amp;永邦&amp;张学友<br><b>推荐理由</b>：当年的一盘磁带就有他的一首歌，无法言语~<br><b>推荐指数</b>：☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzA2ODQxMTky.html" target="_blank" rel="nofollow noreferrer">张学友-每次都想呼喊你的名字<i class="icon-external"></i></a><br>《<b>明天</b>》——王珏<br><b>推荐理由</b>：<b>词曲编唱三十二颗星！！！</b><br>朱明瑛的儿子，可惜可惜，妈蛋没红！ 他当时第一张专辑我就买了，大赞！ 我只能说当时国内（大陆）的流行乐坛太水！别忘了，这是十年前的歌，放在今天也是精品！也是经典！<br>这首歌一定要听！！   因为明天，你就要飞的很远~<br><b>推荐指数</b>：☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNDYzNDI2MDA%3D.html" target="_blank" rel="nofollow noreferrer">王珏 明天<i class="icon-external"></i></a><br>《<b>带走</b>》——莫艳琳<br><b>推荐理由</b>：音乐才女一枚~ 有点「陈琳」的味道~<br><b>推荐指数</b>：☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTU5NTQ4OTY%3D.html" target="_blank" rel="nofollow noreferrer">莫艳琳 带走<i class="icon-external"></i></a>《<b>听说爱情回来过</b>》——林忆莲<br><b>推荐理由</b>：别忘了林忆莲，别忘了那种想见却不能见的伤痛..<br><b>推荐指数</b>：☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzExMzA3NTMy.html" target="_blank" rel="nofollow noreferrer">林忆莲.常石磊-听说爱情回来过<i class="icon-external"></i></a><br>《<b>花葬</b>》——同恩<br><b>推荐理由</b>：浓浓的卡农，深深的心痛。 同恩一直没火过，偶尔会从朋友口中得知，原来你也知道同恩。<br>这首《花葬》从词曲唱没的说，乍一听你可能还以为是范玮琪呢~ <br><b>推荐指数</b>：☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/Sb0FLXkI3qo/" target="_blank" rel="nofollow noreferrer">同恩 - 花葬<i class="icon-external"></i></a><br>《<b>月光</b>》——王宏恩<br><b>推荐理由</b>：王宏恩在台湾原住民里算是挺火的一位歌手，是小s的好友。关于他，各位可以自己百度就知道了。而这首歌相当感人，当时是台湾大地震，鼓励灾民的歌曲。<br>那句歌词：你是深山百合花~  哦耶~  宁静的月光~ 适合静静的听，抚平你的烦躁。<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjMxNjI4MTA4.html" target="_blank" rel="nofollow noreferrer">SHOW TIME：王宏恩自弹自唱《月光》 101222 康熙来了<i class="icon-external"></i></a>《<b>七月七日晴</b>》—— 许慧欣<br><b>推荐理由</b>：FL推荐我的一首歌，从此我就深深的迷上了许慧欣。。<br>样美声甜作品佳，可惜啊，许MM早已淡出了人们的视线，可能你听过《孤单芭蕾》或《爱情抗体》，可能你曾经的某个时间听过这首《七月七日晴》，只是你却记不起你上一次听这首歌是在什么时候了，或许你只记得，那天，七月、七日、晴。<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjA5NzgzMjA4.html" target="_blank" rel="nofollow noreferrer">许慧欣《七月七日晴》<i class="icon-external"></i></a><br>《<b>我一直都在</b>》——林稷安&amp;程于伦<br><b>推荐理由</b>：估计你都不知道这歌名，估计你更不知道这俩人是谁。。<br>没事，这一切都不妨碍我分享这首歌给你，因为这首歌超棒，温暖的旋律 Come on!<br><b>推荐指数</b>：☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/jDqj1FNfbCk/" target="_blank" rel="nofollow noreferrer">林稷安,程于伦-我一直都在<i class="icon-external"></i></a><br>《<b>握不住的他</b>》——萧潇 <br><b>推荐理由</b>：林俊杰的粉丝看到肯定要说了，这不是我们家JJ的歌么？<br>这首歌是林俊杰当年写给萧潇的歌，而当年恰好我买了萧潇的第一张专辑！<br>已经十年了！！！！！天啊！<br>当年这张专辑挺不错的，可惜啊，怎奈人美声甜作品佳，也没能红！姑娘，这是你的命啊！<br><b>推荐指数</b>：☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjM1MTMzODU2.html" target="_blank" rel="nofollow noreferrer">握不住的他（我的名字叫金三顺主题曲）<i class="icon-external"></i></a><br>《<b>身骑白马</b>》——徐佳莹<br><b>推荐理由</b>：徐佳莹在星光的时候火过一阵子，但也仅仅是一阵子而已。是个音乐创作才女，可惜，没火也没红。如果你曾经听过这首歌，请记得她是徐佳莹的作品。<br><b>推荐指数</b>：☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/EK6TizPDgzQ/" target="_blank" rel="nofollow noreferrer">徐佳莹《身骑白马》<i class="icon-external"></i></a><br>《<b>河滨公园</b>》——S.H.E <br><b>推荐理由</b>：夏天即将到来，常在河边走，哪能不牵手。SHE的歌太多，而这首曾经精品渐渐被人遗忘，十年啊。给搁浅的这首歌，值得一起和。<br>周杰伦的曲，方文山的词，SHE的唱，非常棒的一首渐慢情歌。<br><b>推荐指数</b>：☆☆☆☆☆☆☆☆<br><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/FMROKpPtR3Y/isRenhe%3D1" target="_blank" rel="nofollow noreferrer">SHE-Superstar-河滨公园<i class="icon-external"></i></a><br><br><b>第二次更新完毕，大多数歌曲都是可以通过百度、酷狗搜到</b><b>。</b><br><br><b>感谢并回复部分知友的疑问：</b><br><b>1、</b>等下周抽空我会把答案里的歌曲MP3打包压缩，并通过邮件形式进行分享，具体请关注我的专栏；<br><b>2、</b>由于部分歌曲年代久远、知名度太低，导致资源稀缺，同时也为了知友们能更方便的试听，所以答案里的试听方式选择了「视频网站」，有的知友提到视频网站的广告会很烦，在这提示一下，你可以使用ADsafe进行屏蔽，这样你在试听歌曲的时候就不会被视频开头的广告所打扰了。<br><b>3、</b>后续歌曲还会更新，由于贴的视频较多，编辑的时候浏览器会卡，因此我会选择性更新。<br><br><b>&lt;&lt;特别感谢- <a data-hash="b5d4e318730bcf457c3bdcc01a0f0dca" href="//www.zhihu.com/people/b5d4e318730bcf457c3bdcc01a0f0dca" class="member_mention" data-editable="true" data-title="@王方舟" data-tip="p$b$b5d4e318730bcf457c3bdcc01a0f0dca">@王方舟</a><a data-hash="a6c71b2e1adeffb9c360e8c303e08731" href="//www.zhihu.com/people/a6c71b2e1adeffb9c360e8c303e08731" class="member_mention" data-editable="true" data-title="@ggbond" data-tip="p$b$a6c71b2e1adeffb9c360e8c303e08731">@ggbond</a>  和协助整理的虾米&amp;网易歌单&gt;&gt;</b><br>大家只需点击下面的歌单，即可直接在线试听<br><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/showcollect/id/29388827%3Fspm%3Da1z1s.6929273.1561534893.2.0u6k2q" class=" wrap external" target="_blank" rel="nofollow noreferrer">有哪些被埋没的好歌？<i class="icon-external"></i></a><br><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/playlist/10708989/2926001/" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 发现好音乐<i class="icon-external"></i></a><br><br><b>更多欢迎移步到我的专栏</b>：<a href="http://zhuanlan.zhihu.com/linaoshi" class="internal">爱生活，爱音乐 - 知乎专栏</a><br><a href="http://zhuanlan.zhihu.com/linaoshi/19695907" class="internal">有哪些被人遗忘忽略的好歌？ - 爱生活，爱音乐 - 知乎专栏</a><br><br>-<b>以上谢绝任何形式的转载</b>-<br>欢迎订阅：<p>我的音乐电台《好歌一生推》：「喜马拉雅/网易云音乐」搜索“<u><b>好歌一生推</b></u>”</p><p>和小伙伴制作的知乎电台《知了个乎》：「喜马拉雅/网易云音乐」搜索“<u><b>知了个乎</b></u>”</p><p>个人微信公众号：li_biubiu</p><br><p><noscript><img src="https://pic4.zhimg.com/3c444fad7ffed8a2cd1ac0270d0c09df_b.jpg" data-rawwidth="430" data-rawheight="430" class="origin_image zh-lightbox-thumb" width="430" data-original="https://pic4.zhimg.com/3c444fad7ffed8a2cd1ac0270d0c09df_r.jpg"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="430" data-rawheight="430" class="origin_image zh-lightbox-thumb lazy" width="430" data-original="https://pic4.zhimg.com/3c444fad7ffed8a2cd1ac0270d0c09df_r.jpg" data-actualsrc="https://pic4.zhimg.com/3c444fad7ffed8a2cd1ac0270d0c09df_b.jpg"><br>-知乎-周杰伦歌迷群 233902213<br></p><noscript><img src="https://pic1.zhimg.com/e6f051645c6bf45775ad7fae40ff3d90_b.jpg" data-rawwidth="302" data-rawheight="302" class="content_image" width="302"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="302" data-rawheight="302" class="content_image lazy" width="302" data-actualsrc="https://pic1.zhimg.com/e6f051645c6bf45775ad7fae40ff3d90_b.jpg">
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4487378-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-06" target="_blank" href="/question/22953113/answer/23174736">编辑于 2015-12-17</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>840 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+<meta name="disableCopy" content="true">
+<meta name="disableCopyAvatar" content="https://pic2.zhimg.com/f006a0a50cb79f8bbc32cec637688d39_m.jpg">
+
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4520968"
+data-atoken="23255941"
+data-collapsed="0"
+data-created="1394352193"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23255941">
+<meta itemprop="answer-id" content="4520968">
+<meta itemprop="answer-url-token" content="23255941">
+<a class="zg-anchor-hidden" name="answer-4520968"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">215</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/wang-cang-min" target="_blank" data-tip="p$t$wang-cang-min"
+
+><img src="https://pic3.zhimg.com/1b0b63860946e8c2020726dfbedb48ca_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$wang-cang-min"
+target="_blank" href="/people/wang-cang-min"
+>云树先生</a>
+
+
+<span title="别怕我也不是什么好人" class="bio">，别怕我也不是什么好人</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="215">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">215</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="云树先生" data-entry-url="/question/22953113/answer/23255941">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+<img src="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_200x112.jpg" data-rawwidth="3920" data-rawheight="2204" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_r.jpg">
+去了海南陵水县分界洲岛，看到了干净透亮的海南东海，一阵雨之后，看见了海上彩虹。（7月27日更新）心情好。看见彩虹之后心情超好。当然海南经常看见彩虹，海上彩虹海上第一次看见。想想大家赞了我这么多。真的好久没有更新。真的很对不起大家。英文歌推荐…
+
+<a href="/question/22953113/answer/23255941" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+<noscript><img src="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_b.jpg" data-rawwidth="3920" data-rawheight="2204" class="origin_image zh-lightbox-thumb" width="3920" data-original="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_r.jpg">去了海南陵水县分界洲岛，看到了干净透亮的海南东海，一阵雨之后，看见了海上彩虹。（7月27日更新）心情好。</noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="3920" data-rawheight="2204" class="origin_image zh-lightbox-thumb lazy" width="3920" data-original="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_r.jpg" data-actualsrc="https://pic2.zhimg.com/72f6dd0eb71663e0a3dba3bee25c58c5_b.jpg">去了海南陵水县分界洲岛，看到了干净透亮的海南东海，一阵雨之后，看见了海上彩虹。（7月27日更新）心情好。<br><br><br>看见彩虹之后心情超好。当然海南经常看见彩虹，海上彩虹海上第一次看见。想想大家赞了我这么多。真的好久没有更新。真的很对不起大家。英文歌推荐一直没有到。只能说我这个人懒得可以，拖得一塌糊涂。今天把高中MP3的歌拿出来，然后把X狗，虾X的音乐再分享给大家。希望大家喜欢。不要嫌我啰嗦，真的很对不起大家。答应大家的更新。<br><br><br>先推荐一个超级喜欢的外国女歌手Daniela Valtova Kosinova<br>我了个大擦。网上很少能找到她的歌。但是她的2010的专辑。真的是非常喜欢。如果大家喜欢雷光夏。那么她的歌你会喜欢。怎么说呢？就是如果上天给我一辈子只听一个人的歌，那么我选择我一辈子听她的歌。2010年当时还是高中。寒冷的冬天，我听着她的歌，对未来思考，对自己说沉下心来。<br>如果大家很难找到她的歌。我已经在我答案的评论区里面发了女歌手的网盘的歌曲链接。大家喜欢可以下载。谢谢大家喜欢。<br><br><br>正文在此！！<br>一直想在知乎上面能答些什么问题。终于看到这个题目，感到一种欣慰。因为从小学3年级开始接触流行歌曲，就疯狂听很多人的口水歌曲。到了初中，因为装逼开始听玛丽莲曼森，德国战车，活结乐队。后来发现听力开始下降外加喜欢的女孩喜欢喜欢小清新。我就开始苏打绿，蔡健雅，方大同。到后来跟几个朋友结成不停口水歌联盟。听得歌曲也很多。就中西来说说吧。<br>当然，说说这个答案也是有前提的。这都是个人的喜爱。并且很小众。<br>先说中国的吧。<br><br><br>中国的比较冷门的听得人比较少的绝对有方大同。大家都听过他的《红豆》《爱爱爱》，但是我们大同可是中国灵魂乐第一人。这些歌曲怎么能代表他啊。乃萌一定要听他的《南音》！还有《苏丽珍》这种提升逼格的歌。我最喜欢的就是他的《小小虫》《黑白》，大同真的是拥有好品味，我想这与他喜欢王家卫是有关系的。<br><br><br>当然另一位的致爱是林宥嘉。林宥嘉人气不低，歌曲红的很多。但是你听陈奕迅的很多出名的都是华语抒情。很多非常好听的比如《绵绵》《陀飞轮》却是冷门。我们林宥嘉也是这样。这段时间大家都说他劈腿把我们女神紫棋甩了。我觉得吧，这谁都怪不了，毕竟感情这种东西吧····<br>扯淡多了，林宥嘉最推荐的当然是《想自由》《勉强幸福》《眼色》《浪费》林宥嘉与hebe合唱的《给小孩》我觉得真是这些年对于匪徒攻击小学生表达最痛心的一首歌曲。歌词是说这个社会应该给与小孩怎样的环境才能帮助孩子的成长。每次看到小孩子受到虐待我都会想到这首歌。当然大家说这种歌都听过，也只能我out了。<br><br>对了还有陈奂仁的《毛毛虫》，暖心推荐。真心有趣屌丝的歌曲。想到这我还要推荐大家看看罗胖子在优酷上面的《罗辑思维》，有期就是说屌丝追女神的方法论的。<br><br>高旗超载的《陈胜吴广》还有唐人乐队的歌曲也推荐。当然这些我听得不多不能多介绍。大家见谅。<br><br>男神Eason的歌太多，上面推荐几首。其实想推荐的很多。还是说几个经典的吧《对不起谢谢》，还有上面一位推荐的《倾城》，当然电影《一路向西》最后男主跟思思那个女女分别得时候就是这首歌。看完感觉这歌真是棒。什么电影都能用。下次我要看《女性瘾者》听。当然回到话题，我还推荐的有《夕阳无限好》，Eason的粤语歌巅峰，大家自己感受一下吧。<br><br><br>当然，我本身喜欢那种慵懒的感觉。所以这次要强烈推荐一个人梁晓雪。这个人是个男的。唱那种蓝调，小爵士。每次听他的歌都有种，这货绝对是豆瓣的亲儿子。豆瓣Fm中有他的电台。我很喜欢，每次听，都能心情大好。推荐的歌曲太多， 《Fool》 《Jimi And Lucy》《Stand In Grave》《爱情啊》。<br><br><br>还有卢广仲的《口水流下来》《蚊子》这些三俗歌曲，你要喜欢我就知足了。<br>如果你喜欢看《我可能不会爱你》对片头曲韦礼安的《还是会》喜欢的，你就也该听他其他的歌，总体不错，他把《人质》唱的太好了。这不算比较冷门的歌，但是真的很喜欢。<br><br><br>女女篇！！！<br>前面提到一些男歌手，现在就让我们异性相吸吧！<br><br>我要提到的女歌手为陈珊妮，范晓萱，蔡健雅，雷光夏等女歌手<br><br>陈珊妮 - 《花样年华》 - 《幻觉》 - 《来不及》 -《 雨季》 - 《演歌》 <br>陈珊妮，中国台湾著名女歌手词曲创作者，同时也是作家和画家与摄影师。2005年台湾金曲奖，同时《后来我们都哭了》获得当年金曲奖最佳国语流行音乐专辑。2009年6月27日，第20届台湾金曲奖。我知道她是因为当年金曲奖，我喜欢的菇凉很喜欢梁静茹，我就看看梁静茹有没有获得奖项。结果最佳女歌手奖给了陈珊妮。我想她是谁啊，这么厉害。后来听到她的歌，确实感觉很棒。你们听听就知道这是一个艺术家的表现形式，而不是一首歌而已。后来hebe从师跟了陈珊妮，一头直奔女文青的道路不回头！<br><br><br>范晓萱 - 《自言自语》 - 《证据》 -《 氧气》 - 《眼泪》 《如果我先死了怎样办》。范晓萱就不说了，大家都知道。范晓萱真的是个魔女。不想被公司包装成乖乖女，就玩起朋克，跟男朋友说不结婚但一起生活，并且不生孩子。似乎以为她变坏了。其实，这只是寻求自由的她一种表达对媒体与社会的不满。她的歌我更多听到的是一个渴求爱的女子的心声。想想小学的时候，懵懂不懂事，邻居一个高一的姐姐，有天突然唱起范晓萱《我要我们在一起》，漂亮的姐姐，迷幻的歌曲。这就勾起了我青春期的全部意淫。现在想想还是很美。所以邓紫棋唱《我要我们在一起》，一种张牙舞爪的感觉，很不满。<br><br><br>蔡健雅 - 《夜盲症》《无底洞》《路口》- 《越来越不懂》- 《纪念》蔡健雅算我在大学的得到的新的声音吧。原来不懂蔡健雅，后来跟一个玩吉他的朋友一起聊过蔡健雅，绝对她的歌词真的很简单，但是却很抓耳，真的听得很喜欢。后来蔡健雅去了央视，看到蔡健雅的评论，我想一个女人可以不美，但是一定要有味道。<br><br><br>雷光夏的《造字的人》那种时光的流逝的感觉太棒了，《逝》这首歌真的很好听，暖心歌曲。<br><br>以莉·高露 - 《休息》 偶然听得，真的不错。大家听听。<br><br>Olivia Ong - 《等等》，我觉得Olivia Ong 真的应该去下一季的《我是歌手》，真的是被埋没的歌声，我想我推荐的这些歌手去《我是歌手》真的很能引发他们的事业第二春。<br><br>如果大家觉得好听，我就更新外国篇了。图少。没有链接大家就见谅了。我用某狗听歌，上面都是能搜到的。我觉得听歌这种事，真的很能彰显自己的品味的。所以，我就是如此喜欢这一类风格的歌曲，大家也不要喷我。就当图个乐趣。<br><br>很装逼来句 “泻药”·····
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4520968-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-09" target="_blank" href="/question/22953113/answer/23255941">编辑于 2014-08-19</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>93 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4640912"
+data-atoken="23538356"
+data-collapsed="0"
+data-created="1395112633"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/22953113/answer/23538356">
+<meta itemprop="answer-id" content="4640912">
+<meta itemprop="answer-url-token" content="23538356">
+<a class="zg-anchor-hidden" name="answer-4640912"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">66</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/amber-23" target="_blank" data-tip="p$t$amber-23"
+
+><img src="https://pic1.zhimg.com/d8f9a2206920a8daa4b18cbf07680790_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$amber-23"
+target="_blank" href="/people/amber-23"
+>Amber</a>
+
+
+</div>
+<div class="zm-item-vote-info" data-votecount="66">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">66</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1362055" data-action="/answer/content" data-author-name="Amber" data-entry-url="/question/22953113/answer/23538356">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+首先，必然要祭出我的最爱。这首歌已经被我推荐给无数人了，这里来一发正式的。<b> jeff bernat《Call You Mine》</b> 你听了那么多歌，如果别人问你“你最喜欢哪首歌？”，你能在三秒钟之内反应过来并且回答出来吗？如果问我，我的回答肯定就是： jeff bernat 的…
+
+<a href="/question/22953113/answer/23538356" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+<p>     首先，必然要祭出我的最爱。这首歌已经被我推荐给无数人了，这里来一发正式的。<br></p><p><b>                                            jeff bernat《Call You Mine》</b></p><p>    你听了那么多歌，如果别人问你“你最喜欢哪首歌？”，你能在三秒钟之内反应过来并且回答出来吗？如果问我，我的回答肯定就是：</p><p>    jeff bernat 的《Call You Mine》。</p><p>     这首歌其实网上很多人都喜欢，评价中出现最多的一个词就是“温柔”！比如：“温柔到我整个人现在都在冒粉红色泡泡“、”这歌是要融化的节奏哇“。。。</p><p>     关于他的中文资料几乎没有，只在网上找到这么一句：貌似是美国菲律宾裔R&amp;B歌手，过去经常在YTB上发表一些cover song，被热捧后逐渐有了自己的创作。总的来说，是个安静、小清新的R&amp;B歌手。2012年开年出了一张正式专辑叫《The Gentleman Approach》，里面的歌首首都很精致入耳。</p><p>     我相信这首歌光是前奏就能让你爱上它，当那个”听完耳朵都要怀孕了“的温柔男声和另一个帅气的rap男声登场时，你会设置循环播放。</p><p>      我的最爱，希望你不会失望。</p><p><b>因为太多了，先放上50首，任君选择。</b></p><p>1、很多人喜欢的摇滚乐队<b>Green day的《21 guns</b><b>》</b>，我就是通过这首歌开始关注这支乐队的。虽然是很久之前的老歌了，但是还是被很多电影和电视剧一直用到现在。虽然是反战主题的歌，但是由于旋律太好听了，往往我会忘记它的中心思想，囧。</p><p>2、<b>angela ammons的《always
+getting over you</b><b>》。</b>这首脍炙人口的”Always Getting Over You”是电影《美国派2》的插曲，也是01年的一首老歌了。爽朗的吉他曲调和清新甜美的嗓音让人欲罢不能。这是我中学时百听不腻的一首金曲，曾长期存放在我的MP3中很久很久。个人认为好听的歌很多，但是百听不腻的歌真的太少。
+</p><p>3、<b>Jason Mraz 的《The Remedy
+(I Won't Worry)</b><b>》</b>。Jason Mraz估计不少人也很熟悉，格莱美拿奖拿到手软的一个人物，被称为美国乐坛少见的天才型流行和民谣创作歌手，会弹会唱还坚持原创还有一张忧郁气质的帅脸。这首歌绝对也是某部电影的插曲，偶尔被我留意到给挖出来的。很活力很轻快的曲风，歌曲高潮部分让人情不自禁想一起哼唱~~~</p><p>4、<b>Jam SISKA的《first love</b><b>》</b>，09年的泰国青春电影《初三大四我爱你》的电影插曲。SISKA 是泰国ZHEZA娱乐公司2008年推出的90后少女组合，成员是两可爱的小女生(JAM 和 MEEN），这首歌是JAM唱的，因为她出演了这部电影。自从《初恋这件小事》之后，发现泰国青春电影真的很成熟了，里面的配乐也超级烘托氛围，旋律心动又甜蜜，同样是百听不腻。</p><p>5、<b>bodyslam的《One day I
+will be good enough</b><b>》</b>，这就是2010年红透半边天的泰国电影《初恋这件小事》的插曲啦！bodyslam是泰国当红摇滚乐团，2003年在获得Channel V Thailand 年度最受欢迎乐队奖之后，乐队被泰国最大的唱片集团GMM签入门下，同时乐队吸收了一名新成员变为如今的4人。这首歌不说了，一出来就让我惊艳了，然后赶紧挖出来循环播放。现在发现泰语在唱歌的时候其实很是很顺耳的，木有平时说话听起来那么囧，哈哈。（这部电影的主题曲是WAN AF2的《爱这件小事》，更是不能错过的温柔好声~）</p><p>6、<b>namcha</b><b>的《真爱是怎样》</b>，这首歌是09年徐静蕾执导的电影《杜拉拉升职记》的插曲，出现场景他们公司在泰国旅游度假的泳池party，这首歌一出来，我都差点忽略掉情节……namcha这个妹子是88年的中泰混血，其实嗓音比她的的古灵精怪的可爱外表要成熟得多。这首歌她驾驭得特别从容，那种带点jazz味道的旋律和电子和声的简单哼唱，有点小慵懒的赶脚。泰语歌完全可以忽略歌词，旋律简单朗朗上口就足够。</p><p>7、<b>熊木杏里《流星》</b>—— 82年的熊木杏里是日本籍著名治疗系歌手和作曲家，度娘说她创作歌曲旋律有种暖而不燥哀而不伤的抚慰感。这首06年的《流星》是我高中时最喜欢在晚自习下课后在教学楼天台听的一首歌（夏夜的天台是个好地方，可以看万家灯火还可以听小情侣的私语）。怎么说呢，特别应景，干净的旋律加上熊木杏里小清新的嗓音，让人为之忘忧。</p><p>8、<b>Aiko</b><b>《花火》</b>———— 夏天~~有海水浴和烟花大会、夏季祭祀！这首表现少女隐藏恋爱心情的抒情歌曲被评为"在夏季恋爱的话最想听的歌曲”。aiko的恋曲是看家本事，而且歌曲名字都取得超级美。第一次听会觉得她的歌声很甜，但是表达少女恋爱心情的歌再甜也不会过分滴呀~~</p><p>9、<b>YUI《HELLO</b><b>》</b>—————  87年的YUI本名吉冈唯（Yoshioka
+Yui），日本全创作型solo女歌手，气质清新纯净，犹如清风。这首歌是11年电影《Paradise Kiss天堂之吻》的主题曲，光是动感的前奏就能让人兴奋起来，融入时尚感的鼓点和收放自如的曲调，给北川景子+向井理的时尚电影增色不少。有时候穿得美美的摇曳在街头，就是需要这样的背景音乐！</p><p>10、<b>annett louisan——《die formel》</b></p><p>德国女歌手Annett Louisan（安娜特•露薏莎）出生于1979年，是个身高一米五二的娇小女人。她的声音清新可爱甚至有些稚嫩，真是非常地独特，初一听以为是孩子的声音，很可爱~有田园的清香和草莓的甜美之感，因此被称为“德国小樱桃”。比起她的其他名作，我更喜欢《die formel》这首德语歌，可爱极了。 </p><p>11、<b>Bebel Gilberto ——《Mais Feliz》 和《All Around》</b></p><p>Bebel Gilberto是新Bossa Nova女伶的唯一代表，是小野丽莎的终极偶像，更是近年来唯一在身世、唱腔上可与诺拉琼丝相媲美的新天后。如果乐坛也真有血统论一说，那么贝贝尔•吉尔伯特肯定是Bossa Nova世界中绝对的名门嫡系，因为正是其父Joao Gilberto当年将Bossa Nova音乐推广到了世界，是Bossa Nova庙堂级的宗师。因此出身名门之后的Bebel Gilberto，其家族就是一部完整的巴西音乐史。业界评价她有着慵懒勾人魂魄的性感低音，甜美沉稳饱满的沉稳中音，圆滑厚度光泽的丝绸高音~信不信，听听就知道了。</p><p>12、<b>Benjamin Biolay——《Les roses
+et promesses》</b></p><p>这位Benjamin Biolay我真的不熟，据说他最优秀的地方便是把新民谣、香颂、电子、摇滚等元素融于一炉，在纷繁复杂的音色中寻找共鸣之处，音乐中便兼有清新明快与忧郁迷幻的两面。只是单纯喜欢02年他唱的这首老歌，嗓音也很舒服，特别适合在睡前听，有安眠效果。</p><p>13、<b>Keren Ann ——《Au coin du
+monde》</b></p><p>有人说Keren Ann的东西适合作为全世界任何一家咖啡馆的背景音乐，真是太对了！Keren Ann她拥有四国血统，她十一岁就开始了歌手生涯，她首张专辑中《Jardind’Hiver》一曲更让当时八十高龄的“BossaNova鼻祖”HenriSalvador 为之折服并翻唱宣告复出。作为法国乐坛最受瞩目的民谣才女，从清新民谣曲风到糅合爵士、蓝调元素的香颂都能发挥自如。这首法语歌是她专辑《La Disparition》里的第一首歌。据说她上个月来深圳巡演过，好后悔木有去。</p><p>14、<b>Berry——《love
+affair》</b></p><p>法式流行曲儿天生有一种慵懒优雅的气质，Berry这个来自法国的小才女，学过话剧，也曾在小酒吧里演过歌。邻家女孩般的一张脸，笑起来阳光灿烂，她的音乐也如阳光一样温暖灿烂。这首歌选自她的首张专辑《Mademoiselle》，优雅、轻柔、梦幻，把你带入玫瑰般的梦境。</p><p>15、<b>Brazzaville——《Baby Blue》</b></p><p>如果要问美国有没有Bossa Nova曲风的乐队？Brazzaville可以说是其中最个性鲜明的一支，巴西味的贝司线、隐约而显的手风琴声、精致的钢琴旋律、金色的萨克斯风，还有主唱David Brown不带杂质、诗意迷人的成熟嗓音。Brazzaville 于1997年成立于美国洛杉矶，共5位成员,来自不同地区。他们的音乐随意而精致，具有浓烈的地中海气息的Bossa Nova乐风。他们有着闲散格调，玩味生活而且随意调侃。这首《Baby Blue》选自08年的专辑《21st Century Girl》。这首歌很舒服，背景是流水声，烦躁的时候特别能抚慰人心。</p><p>PS：特别推荐Clementine 橘儿的《KOKOMO》，哎呦喂很有爱的~~</p><p>16、<b>Young Bloodz——《imma shine》</b></p><p>当年大热的电影《Step up舞出我人生1》中的插曲。看过电影的人肯定对这首曲子印象深刻，节奏感很强，说唱也很棒，关键是和管弦乐的配合很奇妙啊~~</p><p>17、<b>Janelle Monae——《Tightrope(feat.
+Big Boi)》</b></p><p>2010年出的单曲，是某部美剧的插曲。这位黑人妞儿我也不熟，纯粹是喜欢这首曲儿。听着就想让人拍着手掌舞动起来，这可比那些所谓的舞曲有feel多了</p><p>18、<b>KT Tunstall——《suddenly i
+see》</b></p><p>这首歌是《穿Prada的恶魔》的片头曲，充满了时尚的纽约风情。由中英混血女歌手KT Tunstall所唱。蔡康永称赞说“KT的歌有个性，又潇洒、文学味十足但一点都不酸，有一点点可嗅到的高眉姿态，把人的俗世拉到云的高度，自然有了飘逸的味道。这已经不再是可以重度依赖诗的世界了。诗该给我的东西，改成像KT这样的歌来给我。”</p><p>19、<b>Peter Bjorn And John《Young folks》。</b>Peter Bjorn
+And John是1999年成立于瑞典斯德哥尔摩的Lo-Fi 团体，他们擅长把玩各种曲风，并且同样都能表现得很High。《Young Folks》是首很有玩味的曲子，无论是俏皮的口哨声还是翻滚落下的鼓点，欢快中又带点泼辣~~这首以口哨开场、洋溢清新气息的青春之歌，不仅知名设计师Marc Jacobs钦点为走秀音乐，更重要的是这首歌是美剧《gossip girl》第一季第一集的开场音乐，太让人印象深刻了！</p><p>20、<b>Nikki &amp; Rich《Dreaming》</b></p><p>Nikki &amp; Rich是一男一女的组合，查不到任何资料……这首歌是被砍美剧《hellcats》的主题曲，场景是拉拉队员们在小酒吧里放这首歌贴身热舞。我最喜欢这种稍有节奏但是又不至于太high的曲儿，容易哼唱，容易记住，容易回味。“最舍不得分享”的私藏之一。</p><p>21、<b>nous non plus 《Monokini》</b></p><p>貌似是六人的组合，同样资料无。这首歌是同样是美剧《gossip girl》第四季的插曲。或许这就是传说中比较洋气的歌，我最爱的私藏之一。</p><p>22、<b>Kari Kimmel 《Go》</b></p><p>一美国女歌手，资料无（囧）。11年的一首歌，私藏之一。</p><p>23、<b>The Ting Tings《great dj》</b></p><p>The Ting Tings，一个由两个人组成的英国独立流行音乐组合。她们的音乐有流行的复古元素和一抹清新的小电味。随性的节拍，随意的哼唱，《Great DJ》为他们积攒了不少人气。这首歌很适合在心情轻松，想吹口哨的时候哼唱，哼哼~~</p><p>24、<b>Owl City&amp; Carly
+Rae Jepsen 《Good Time》</b></p><p>《Good Time》是由美国男歌手Owl City和加拿大女歌手Carly Rae Jepsen共同演唱的最新单曲。歌曲清新，积极，充满着对生活无尽向往，是让人听后可以放松去笑的好歌。就如同歌词里面所唱的那样“It's always a good time"。虽然有点口水歌吧，但是人脑子什么都不想想的时候不就爱听热热闹闹的口水歌么！</p><p>25、<b>Five《keep on
+moving》</b></p><p>Five由Scott、Rich、Abs、J和Sean这五位从三千多人中筛选出来的活力十足的大男孩所组成，不只面子好看，里子也呱呱叫，而且当年红极一时。但2001年9月就宣布解散，出道仅4年。他们很有自己的主见，也绝对不跟其它已成名的男孩偶像团走一样的路，推翻了男孩偶像团的定义，展现积极、新鲜且充满自我主张的感觉，不只是软趴趴、甜腻腻的男孩偶像团体。这首歌听说是为2002世界杯足球赛暖身的歌曲，中文叫《勇往直前》，爆好听。</p><p>26、<b>Drew Sidora 《Til the Dawn》</b></p><p>《舞出我人生》中斗舞的插曲，很有感染力。Drew Sidora是85年的漂亮黑人妹子，既是歌手又是演员。现在发现黑人妹子唱快歌真的很合适，气息特别足，而且有一种天生微妙的节奏感，这首歌出现的场景很有意思，可以去找这个片段看看。</p><p>27、<b>3OH!3《We Are Young》</b></p><p>3OH!3（读作 “three oh three”），由Sean 和Nat两个美国男生组成的组合。这首歌是他们10年专辑《Streets of Gold》里面的一首歌。估计这张专辑的风头完全被他们和钱妞合作的热曲《My first kiss》给抢了，这首歌的认知度自然就一般般，但是真的很high很肆意很青春啊，鼓点什么的最喜欢了。</p><p><b>28、最爱女声</b><b>olivia ong</b></p><p>      再好听的歌不断地听也会听腻，循环个四五遍耳朵就会很累很疲倦，但是只有一个人的声音不会，她的声音就像是空气、微风和水，平时你不会去特别关注，它们却丝丝入扣存在于你的生活，因为没有人会对空气、微风和水厌倦。</p><p>      1985年出生于新加坡的Olivia Ong（王俪婷）拥有“亚洲美姬”的美誉，曾有乐坛人士评价Olivia，说她就是一杯水，你渴不渴都应该喝的水。她用好听的声音打动人，经意又或是不经意地，像清澈泉水溅落在纯色丝帕上，晕出一片青荷，淡淡的，没有杂质，但是耳朵还在思考，心还在聆听。好消息是今年5月17日
+，Olivia推出了她的个人首张全新国语专辑《等等》，要知道我等她的新专辑等了三年！但她还是最擅长Bossanova曲风，在日本，被乐迷评价媲美于小野丽莎。2005年发行的专辑《A Girl Meets Bossanova》，被日本乐迷票选为日本十年来最醉人的Bossanova专辑。</p><p>        豆瓣的一位听众评价得很好：</p><p>       “ Olivia，就这么心甘情愿的，做一个调味剂的歌手，她不会让你像吸毒一样上瘾，所以她做不了一个会致使万人空巷的歌手。可是你却很难抛弃，偶尔，连你自己都不知你该高兴还是难过的时候，可以拿出Olivia，选择循环，让她来填补你的空白。
+”</p><p>29、<b>治愈系女声手嶌葵</b></p><p>   手嶌葵，日本声优、歌手，1987年的森女妹子，被赞"有着朴素,治愈系的歌声的她,是地海传奇中女神般的存在"。</p><p>   06年夏天公映的电影「地海传奇」是由宫崎骏的长子宫崎吾郎导演的作品，宫崎吾郎在物色主题歌演唱者的时候，监制铃木敏夫什么都没说就给了他一份DEMO。他听了DEMO以后，一下子就被那个清冷而又有着奇妙的孤独感的歌声所吸引住了。听着她的歌声，他觉得自己仿佛正站在微风吹拂的山丘上，感受着这个大自然似的。于是，几乎就在那一刻，宫崎吾郎就决定了主题歌的演唱者
+—— 18岁的手嶌葵。</p><p>    而她最有代表性的作品却是一首翻唱的英文老歌<b>《</b><b>the rose</b><b>》</b>，乐迷们的感受有“完全被吸进去的感觉，让人陷入一种状态中，久久不能自拔”、“当时心情很难过所以一听到就哭起来了”、“心中感觉很舒服、就像有一滴很干净很冰凉的水滴在额头上”、</p><p>“日本歌手里英文发音不标准但唱出来咬字给我感觉最舒服的”等等。</p><p>   个人觉得她《I LOVE
+CINEMA》这张经典曲目翻唱专辑的所有歌都值得推荐。我最喜欢她的——<b>《</b><b>you and me》、《Ready for Love》、《A Love Theme》、《I Feel The Earth Move》、《Look Up》、《Fade Away》。</b></p><p>30、<b>Myra《Miracles
+Happen (When You Believe)》</b></p><p>Myra美国墨西哥裔女歌手，生于1986年的Myra 15岁便录制了她的第一张同名专辑，这首歌是让安妮海瑟薇成名的电影《公主日记》的主题曲。节奏感很强，当时看电影时就印象很深刻了</p><p>31、<b>Lucy Woodward《Done》</b></p><p>一漂亮美国妞，资料不详。03年的老歌，但是高潮部分的旋律超好听啊啊啊！歌词也很潇洒：</p><p>“took what you needed,</p><p>i am still breathin,</p><p>i am still feelin the warmth of the sun</p><p>im not gonna fade away this time</p><p>and you know i gotta tell you</p><p>when you do watcha do,</p><p>im not done...”</p><p>32、<b>lily Allen《Not big》</b></p><p>lily Allen这位小辣椒太熟了，就不介绍了。发现85年的外国女歌手很多啊。这是她首张专辑的歌，她的歌声识别度特别高，风格也很一家。</p><p>33、<b>Rachel Platten《Take These
+Things Away</b><b>》</b>，歌词太特么好了，强烈推荐，别的就不多说了。</p><p>34、<b>Jordan pruitt《miss
+popularity》</b></p><p>91年的美国漂亮金发妞，这几年没啥消息。这就是一首美式校园生活的流行劲歌，声音甜，歌词阳光飞扬，非常标准的“让你对生活充满希望的好心情之歌”。</p><p>35、<b>Jewel《intuition》</b></p><p>不少人是因为前奏喜欢这首歌！Jewel就是那种让我听了一首歌就想去找她所有的歌来听的女歌手。</p><p>36、<b>Jessica Simpson《a public
+affair》</b></p><p>Jessica Simpson既是歌手又是演员又有自己的时尚品牌，我不喜欢她过于open的长相，但是她这首06年的专辑同名曲真的好听，也是我收藏清单里她唯一的一首。</p><p>37、<b>sweetbox《i know you
+are not alone》</b></p><p>日本电影《天堂之吻》的插曲，歌词非常励志，和情节配合得非常好。我发现我喜欢的歌曲大多数都是电影插曲，因为当时气氛的渲染真的太厉害了。  </p><p>38、<b>Vanessa Hudgens《drive》</b></p><p>这位从《歌舞青春》中红起来的妹子大家也很熟悉了，是各杂志和八卦的常客，说实话我更加喜欢看她演青春电影，比如她最近的《春假》。好莱坞的青春明星很多，难得这位妹子口碑还算不错。《drive》这首歌同样是我收藏里她唯一的一首歌，对胃口。</p><p>39、<b>delta goodrem《a little too
+late》</b></p><p>稍微冷门的女歌手，度娘介绍：有人说她是“澳洲新生代天后，堪比Celine Dion的嗓音。”仅靠两张专辑，便在澳洲缔造19张白金唱片、全球高达三百二十余万的傲人销售纪录，连创10白金+1金唱片的七首澳洲排行冠军单曲风光佳绩，抱走八座澳洲音乐大奖+三座MTV音乐奖。同样，词写得不错。</p><p>40、<b>Christina Aguilera《Come On Over》</b></p><p>好喜欢Christina Aguilera的声音，唱功太牛，她简直就是一个传奇。这首是99年的老歌，现在还百听不腻！说实话每个人多多少少都会喜欢她的一两首歌，而我每次听到这首歌，心情就会放晴~~</p><p>41、<b>Ingrid Michaelson《Be Ok》</b></p><p>又一冷门歌手。先不管她，这首歌的歌词太有意思了，重复重复哼得无压力，太容易在脑袋放空的时候哼哼唧唧了……</p><p>“I just want to be ok, be ok, be ok </p><p>I just want to be ok today </p><p>I just want to be ok, be ok, be ok </p><p>I just want to be ok today </p><p>I just want to feel today, feel today, feel
+today </p><p>I just want to feel something today </p><p>I just want to feel today, feel today, feel
+today </p><p>I just want to feel something today ……”</p><p>42、<b>胡夏《准备好要爱》</b></p><p> 《哪些年》之后，估计很多人都喜欢上了胡夏的歌，我也不能为之免俗……林志炫评价胡夏：他真的能把词唱到曲里，而且是拔都拔不开的那种。胡夏的歌声给我最大的感觉，就是特别特别温暖，有一种温柔的安心感。</p><p>只要你《准备好要爱》了，“还空著的双手 瞬间就变得温柔""总有一个人 出现在下个路口"。胡夏的歌声诚恳而敦厚，唱起这首歌来完全能传达出歌词里那种温暖而充满希望的意念。“简单是多么的快乐，而快乐却不再简单”我们都没有办法从爱情开始的那一刻就去预料她的结果，可每一次的经历却都可以是人生最珍贵的记忆。敞开心灵准备再一次去爱，准备遇见那个真的对的人。</p><p>43、<b>梁文音《风光明媚》</b></p><p>《海角七号》的片尾曲。据说近七成的观众看完电影舍不得离开座位，就是因为想听完梁文音唱的这首《风光明媚》。现在无关爱情歌越来越少，一旦找到就如获至宝。何必想那么多有的没的，在午后的阳光，听着海水的潮声懒懒睡去，就是别样的满足了。</p><p>44、<b>安室奈美惠《</b><b>Hot Girls》</b></p><p>我对安室奈美惠一直不感冒，当然她的御姐气场我是很欣赏的，比起滨崎步品味要好很多。去年的这个时候在音悦台看到了这首歌的MV，当时心里惊叹不愧是女王，那个范儿，啧啧，身高不是问题！
+《Hot Girls》其实是一首英文歌，中心思想就是“Hot girls make the world go round.”赞。</p><p>45、<b>ARASHI岚《Lotus》</b></p><p>99年出道的日本五人男子组合，少年快变大叔咯！2011年的这首歌是由相葉雅紀主演的日剧『王牌酒保』主题曲！话说这部日剧当时我好喜欢啊，日本的领域主题电视剧都做得很好。看完了我有一段时间还迷上了鸡尾酒，去图书馆借书研究神马六大基酒、四种基本调制方法五种辅助方法，哎，热情就像一阵风~~</p><p>46、<b>坂诘美纱子《きっと大丈夫》</b></p><p>日剧《真我霓裳》的主题曲。这部剧就是一时装剧，挺励志的。这部日剧人物、剧情都有嫌疑翻版美国电影《穿普拉达的女王》，只是把背景设置到了日本银座的老式百货店，讲述了爱好时尚的女人间的斗争和成长。女主角是模特出身的香里奈。《きっと大丈夫》以钢琴演奏作为歌曲的背景乐，再融入鲜明的R&amp;B风格，追求自我又充满时尚感，good~~</p><p>47、<b>橘红色乐团《慢歌》</b></p><p>以前有一个橘红色乐团，主唱岳夏现在还是小有名气，貌似是单飞了。他们的《期待》《慢歌》《幸福微风》都很好听，尤其是《慢歌》，真的就是……慢歌（囧）。岳夏的声音就跟现下那么多小清新女声一样，细细甜甜，有小忧伤有小欢喜。但有时候，如果你就想听一首单纯的慢歌，或许这首歌是一个好选择。</p><p>48、<b>徐佳莹《哼情歌》</b></p><p>徐佳莹的《身骑白马》估计很多人都听过，不过我最喜欢的还是这首《哼情歌》。貌似最近总是再推荐伤感的歌……不过深夜DJ，不都是各种疗伤时刻么，难道会有人想听high歌然后在床上像疯子一样乱跳？ps:歌词有没有很伤感很戳心！？</p><p>49、<b>汪苏泷《停止跳动》</b></p><p>汪苏泷是个在网络上很红，现实中没有多少人知道的歌手，年龄比我还小。我是因为一首《桃花扇》喜欢上他的声音的。其实细细听来，觉得他跟一般的网络热门歌手不太一样，除了唱功很好，发声也算专业。</p><p>50、<b>严爵</b><b>&amp;刘若英《没有旋律配得上你》</b></p><p>      我特别喜欢男女对唱的曲子，因为分声部或者唱到和声都特别美。而合唱的曲子又最考验歌手的默契和风度，最重要的是，有的合唱只是例行公事完美无瑕的合唱，有的则是洋溢着满满的情感，缓慢但是深深打动哪怕是最冷最硬的心肠。这首歌虽然一开始就提到了“恋爱”，但是我觉得切换到友情、亲情都是无碍的。在我还上大学的时候，那天突然接到和我感情最好的奶奶去世的消息，我匆匆请假赶深夜的班车回家乡，一路瓢泼大雨，车窗外暗黑孤寂，而我循环听这首歌听到泣不成声。</p><p>     是的，唯有到最后的最后，才迟到地明白，没有旋律配得上你。</p><br><p>待续。。。。。。。。</p><p><u>————————————————————————————————————————</u></p><p>10.24.补充：</p><p>51、<b>戴佩妮《你不一样》</b></p><p>这是戴佩妮09年专辑《我就是这样的女生》专辑里的一首歌，其实我就是通过一首非常美妙的主打曲《我就是这样的女生》知道戴佩妮的。戴佩妮这个马来西亚女歌手其实也不是有多大红大紫，但是死忠fans很多，音色属于有特色能辨认的那种（好浅白的形容……）。我从来不会专门去期待她出歌，但是偶尔想起这个人去搜搜或者胡乱听一下，都会有惊喜之作。我喜欢的这首歌也是有情境的：大学时上完晚自习或者从图书馆走回宿舍的途中，夏虫低鸣，夜色温柔，一边看着树影碎隙之中的一轮明月，耳机中必然放这首歌。无它，应景而已。如今回首看来，小清新真是一种病。</p><p>52、<b>严爵《拿你的意志力》</b></p><p>小私心想多推荐严爵的歌~~~  同样是无关爱情之歌。这首歌的说唱部分写的很好，但是还好不会太过含糊不清。听这首歌我想起很多坊间名言，比如“什么都有得救，就是懒没得救”、“除了欲望，什么都能抵抗”巴拉巴拉的，其实与其听各种教条，还不如听轻松的歌来矫正世界观，比如以前周杰伦的一首《听妈妈的话》让多少叛逆期的孩子放下叛逆的屠刀立地成佛……？我承认个人绝对没有什么意志力，最多有死不悔改的精神（囧）。不知道到严爵这首歌能不能戳中你呢~？</p><p>53、<b>韦礼安《还是会》</b></p><p>这首歌是电视剧《我可能不会爱你》的主题曲（前年这部剧真的是超火）。韦礼安是87年的台湾新人男歌手，也是台湾最常见的“温暖系声线”。不过说真的我对他的声音实在是记不太住，因为感觉音色没什么特色。这首歌倒是很有典型的台湾情歌feel,非常细腻的铺垫，特别缠绵的爱意，就像是心脏变成了盘丝洞，密密麻麻绞着的都是溺死人的温柔，歌词又很白文，是男生K歌的好选择。PS:此剧另一首插曲Aggie的《旋转门》同样不可错过，里面有句歌词写得好：</p><p>“放任热泪围困住心酸/想说成熟/要用多少领悟交换"</p><p>54、<b>严爵《困在台北》</b></p><p>这首歌是严爵自己的故事、自己的经历，但同时也是千千万万所以独自奋斗的好青年的故事。有多少人敢于不顾劝阻坚持理想，又有多少人坚信自己总有一天能出人头地；有多少人能做出选择而永不后悔，又有多少人抵挡得住放下一切轻松的诱惑？年轻的最大优势就是有犯错的资本，在沙漠挖了99个深坑终于放弃的人永远不知道其实第100个深坑就会冒出甘甜的泉水。除了等待，更要坚持。</p><p>自信不是别人给的，是自己挣的。</p><p>献给那些深夜还在加班、假期还在出差、为工作牺牲了生活、被现实浇灭了理想的骚年。让这首正能量之歌陪你熬过漫漫长夜吧！</p><p>55、<b>戴佩妮《</b><b>Las Ramblas》</b></p><p>这首歌和《你不一样》是同一张专辑的，是一首“度假风”的曲子，歌名貌似是西班牙巴塞罗那的一条街道。我特别不喜欢很多书里鼓吹的“辞职去旅行”这种害人的观念，但是绝对赞成年轻的时候尽量走多一些地方。比起名山大川江河湖海，我更喜欢老城古镇，走入大街小巷去体会另一个地方生活的烟火味。这首歌比较洋气，异域风情的西班牙~说真的，讲旅行的歌貌似很少，别跟我提陈绮贞那首被唱烂了的《旅行的意义》！</p><p>再不济，穿件白T恤，戴一顶棒球帽，从一个安静的站台乘一辆空荡荡的公交车，晃悠悠无目的漫游这个城市，也是一种轻薄的执念了。</p><p>56、<b>四个朋友《因为有你》</b></p><p>你是我的音符  我是你的旋律</p><p>原来命中注定</p><p>关于心的距离  就像住在隔壁   </p><p>我肯定</p><p>当我迷失方向 你总在原地</p><p>让我休息停靠 等太阳升起</p><p>因为有你在一起</p><p>青春像一场游戏</p><p>你哭的伤心</p><p>你等的坚定</p><p>眼神的秘密是心有灵犀</p><p>因为有你在一起</p><p>人生有不同意义</p><p>我不离不弃</p><p>你情义相挺</p><p>在大风雨也能走下去</p><p>从来不曾怀疑</p><p>世界存在默契</p><p>你是最好的证明</p><p>每次分享倾听</p><p>心情上的插曲</p><p>像旅行</p><p>当我迷失方向 你总在原地</p><p>让我休息停靠 等太阳升起</p><p>因为有你在一起</p><p>青春像一场游戏</p><p>你哭的伤心</p><p>你笑的坚定</p><p>眼神的秘密是心有灵犀</p><p>因为有你在一起</p><p>人生有不同意义</p><p>我不离不弃</p><p>你情义相挺</p><p>在大风雨也能走下去</p><p>57、<b>分岛花音</b><b> 《still doll》《黑い鸟笼 》</b></p><p>88年的日本妹子，既是歌手和大提琴手，也是画家、词曲家，十分全能。自幼便受喜爱音乐的父母熏陶，3岁起开始学习大提琴，最牛的是她是一边拉大提琴一边唱的！08年凭一曲《吸血鬼骑士》的主题曲《still doll》出道，被称作“巴洛克公主”“大提琴精灵”。她的歌给人的感觉就是：欧式的华丽、哥特、洛丽塔，犹如不小心闯进了古堡。她的声音特别华丽明亮，高音很让人惊艳，并不是玩票的花架子。在安静的夜晚戴上音效很好的耳机听她的这两首歌，真的很有剧情感。想当年我特别迷《吸血鬼骑士》这部漫画，说真的，后来看到美剧《吸血鬼日记》，我还以为是抄袭人家的……</p><p>58、<b>江南诚《尘劫》</b></p><p>久违的古风回归。我就是喜欢听江湖味特别浓重的歌，又要厮杀又要风流。最近还在检讨自己逛街时一看见“拿破仑帝国风外套”“颓废感皮夹克”“军绿色连帽马甲”“带肩章立领大衣”就兴奋得跟打了鸡血似的眼冒绿光，活该做不了软妹子……转回正题来，江南诚是谁？不知道。反正此人被称男神，女粉丝众多，声音是很美妙，谁家少年足风流，黄莺嗓！《尘劫》这首歌，歌词写得不算好，匠气太重，但是的确与旋律很契合，尤其是高潮部分，华丽的男声配上神来之笔的敲击节奏，好听死了！</p><p>其实，拿下完美主义者不是没有方法——只要最好的部分足够动人。</p><p>59、<b>久保田利伸《</b><b>LOVE RAIN ～恋の雨～》</b></p><p>久保田利伸，肤色黝黑的日本大叔级男歌手，影响力甚广。他的音色不像其他日本歌者，怎么说呢，感觉有点压嗓，但是又很流畅。这首歌是2010年富士电视台邀请他替木村拓哉和林志玲主演的日剧《月之恋人》打造的主题曲。一直觉得日剧和韩剧特别重视电视剧的主题曲，而且量身订造的主题曲和剧情的气质非常契合。一般来说日剧都放了好多集了，但是主题曲EP还无处可听无处可下载是再常见不过的事，因为当大家求而不得的心理一旦被吊起来，正式发布的时候就能一炮而红。</p><p>这首曲子旋律很吸引人，尤其是前奏。日本歌曲的前奏都特别好听，先声夺人，再加上高潮部分容易跟唱的抒情旋律，很容易把人带进一种故事性的想象。大部分中文流行歌都比较直接就抒情了（除了周董02年的专辑《八度空间》，里面的歌有故事有画面有想象力更有情感，大赞！），或者前奏铺垫太冗长，我一般听了20秒还不能抓住我的耳朵就会不耐烦地切歌，哎真粗暴啊！</p><p>60、<b>青山黛玛</b><b>&amp;Soulja《留在我身边》</b></p><p>青山黛玛，这位拥有特立尼达和多巴哥与日本混血肤色黝黑的的87年妹子，2008年一开春，与嘻哈歌手SoulJa合作的《留在我身边》单曲，让青山黛玛一举成为新世代歌姬，被日本媒体封为“惊异歌姬”，日本街头随处皆可听到她的歌声，可以说全日本甚至于全亚洲一炮而红。此单曲售出超过45万张，为女艺人最高销量单曲，更是吉尼斯世界纪录大全的日本最高销量下载单曲。总而言之，这首歌就是08年日本最红的歌曲，木有之一。</p><p>这首歌是男女声对唱，而且分为男生版和女生版，当然是女生版更加受欢迎。牙买加出身的雷鬼音乐的大师SLY＆ROBBIE翻唱这首歌，英文歌名叫做《HURRY HOME》，收录在专辑《AMAZING》中，并且该张专辑获得了第51届格莱美奖包括“年度最佳专辑”在内的6个部门的提名。歌词我懒得去研究了，但是曲调的确是让人难忘，你觉得呢？</p><p>61、<b>jack johnson《better
+together》</b></p><p>“Jack Johnson擅长创作清新而自然的音乐，简单的空心吉他搭配他温煦柔和的嗓音，让人感觉轻松而舒适，感觉像他的家乡夏威夷的阳光和沙滩一样……”——
+权威音乐网站AMG</p><p>这首歌是他06年专辑《In
+Between Dreams》里面的代表歌曲。他在这张专辑用大海般的歌声加上纯熟的吉他弹奏，创作出一首接一首轻松惬意、混融民谣、蓝调、雷鬼和Bossa Nova的清新作品。简单却完美的专辑创作，在没有商业广告的加持下，《In Between Dreams》在不到2个月的发行后在全球默默卖出200万张。Jack Johnson的声音其实是当下非常容易讨女性喜欢的那种嗓子，带点低沉的大叔音，时轻时缓，娓娓道来，仿佛你能感觉得到唱歌人的那种满不在乎边弹边唱的悠然自得。其中歌词”Hey now, and when I wake up, you look so pretty sleeping next to me“真的能用中文写出各种缠绵缱绻~</p><p>62、<b>angela ammons《someday soon》</b></p><p>这位angela ammons我在第五夜的时候推荐过她的一首歌，这里再推荐一首《someday soon》。歌词同样特别有画面感，一开头歌词就跟拍MV似的，类似于”你的手抚在我脸颊上轻轻替我擦拭掉眼泪，让我再微笑一次“……哇哇那种剧情感瞬间就来了，听歌的人马上就能入戏诶！其实我发现越是甜美的嗓子越是不能装可爱去唱那些活泼跳跃的曲子，就应该往伤感系或者潇洒系发展。用安静的忧伤唱无非又是此情可鉴求你别走之类的老调子，比撕心裂肺要让人好接受多了。</p><p>63、<b>Alyson Michalka《Brand New
+Day》</b></p><p>她是美剧《hellcats》的女主角，但是同时她唱歌也很好听。剧里她唱这首歌时是在一个牛仔俱乐部的小舞台上边弹边唱，当唱到后面快节奏的部分时全场人一起击掌而歌，气氛好极了。其实边弹吉他边唱能让唱的人和听的人都更加放松，我很喜欢的韩国萌妹子IU也能非常娴熟地用吉他自弹自唱。也有很多人能边弹钢琴边唱歌，当然我认为更牛的就是之前推荐的分岛花音能边拉大提琴边唱歌。</p><p>这首歌的音调是层层升高的，Alyson
+Michalka的气息也很足，该达到的音高该换的气息都很轻易做到了。作为一个演员，能显露出这样的水准其实真的很了不起了。唱而优则演，其实演而优则唱的难度更高，因为在唱歌这方面，专业和非专业的差距真的是巨大的，你看那么多的选秀节目就知道了。因此我想起那句话——</p><p>     我只有非常努力，才能看起来毫不费力。</p><p>     以上。</p><p>64、<b>marie digby《better off
+alone》</b></p><p>83年的美国女歌手，07年在YouTube上翻唱Rihanna当时大受欢迎的单曲《Umbrella》而虏获大批粉丝。这是她《Unfold》专辑的歌。marie digby母亲是日本人，父亲则是爱尔兰后裔的美国人，她自己是土生土长的洛杉矶人，当然是混血儿，所以后来她还出了一张日语专辑！太牛了。。。</p><p>长得甜，笑容美，还讨喜，再加上一把迷死人的好嗓子，但貌似一直是不温不火红不起来。这让我想起了最近参加《中国好声音》的姚贝娜，青歌赛冠军+刘欢的得意弟子+甄嬛传主题曲，还跑来参加选秀。其实她各方面都没有什么可挑剔的，就是没有明星的那种吸引力——是气场也是磁场，更是一种说不清楚的神秘感，我不会对她有任何好奇，也不会想探求她、追随她，尽管她唱得很完美。</p><p>很多时候就是这样，你擅长的，不一定是你适合的。你喜欢那个的人，也不一定是适合你的人。</p><p>65、<b>AKIKO菊地晶子《I miss
+you》&amp;《do you know》</b></p><p>菊地晶子是日本的爵士女伶实力创作型歌手 ，也是和小野丽莎齐名的日本jazz女歌手。她18歲時聽了爵士天后Ella
+Fitzgerald及Sarah Vaughan的歌曲後，就立志要走爵士演唱的路線；大學時開始在一些爵士Club駐唱，並在演唱中融合了其他電子音樂的元素以及其他如R&amp;B的味道，使得演唱起來別有一番風味。她的歌声活泼甜蜜又有磁性。豆瓣上很多人大爱她的《I miss you》，据说很多人愿意一直听这首歌到天亮……嗯，肯定是融合了自己对“那个人”的思念之情才能做到这样吧。</p><p>另外《do you know》不比《I miss you》差，都是出于她的同一张专辑《collage》。</p><p>不管怎样，有些歌适合怀念，更多的歌则适合思念呢。</p><p>66、<b>侯湘婷《一起去巴黎》</b></p><p>82年台湾玉女歌手，这首由陈绮贞作词的《一起去巴黎》是侯湘婷的第一首BASSA NOVA，收在01年专辑《爱之旅》。</p><p>其实侯湘婷的嗓音真的还蛮像陈绮贞的，轻轻细细，甜甜软软，台湾女孩子的声音仿佛天生就是这样，吹一口气都担心会散了，但是又让人怜爱得紧。</p><p>一起去巴黎，这个歌名就仿佛已经是一个故事，而且一定是带点泪的哀伤故事，一个仿佛是真实的故事。</p><p>侯湘婷已经和捷安特老董27岁外孙杨孟学结婚了，嫁入豪门。不知道当初她唱着想和他“一起去巴黎”的那个男生，是否已经只在她记忆的时光中留下一个剪影，消失不见了呢？</p><p>这首歌不想放歌词，因为那种天真的甜蜜不需看，已满溢。  </p><p>67、<b>Donna Lewis《Harvest Moon》</b></p><p>一首非常符合深夜系的歌，Donna
+Lewis的声音宁静、臃懒，水一样的温柔，好像是躺在你怀里，轻轻地向你诉说心事一般（是一种童真的甜带点沙哑的奇特嗓音）。这可是98年的老歌啊！完全听不出来好吗？？！！Donna Lewis现在都有40岁了，但是听听她当时的声音，简直太嫩了诶。她和Richard Marx还有一首经典的情歌对唱《At The Beginning》，也完全听不出来是老歌，真想给他们大喊“青春不败”“历久弥新”之类奇怪的口号……</p><p>68、emilia《like
+chocolate》&amp;《kiss by kiss》
+</p><p>DJ推荐的第一位瑞典女歌手emilia，很多人听过这首耳熟能详的《Big Big World》，这首歌也是这张专辑中的其中一首。《like chocolate》这首歌其实歌词挺白痴的（我都不好意思放歌词），但是就像我之前说的，人在心情好得想扭来扭去的时候，是不想分出一丁点脑细胞来听歌词是个什么意思的，最好都是口水句子重复重复再重复。那么这首歌就是我当时对一类歌挑出来的好选择。《kiss by kiss》
+的歌词也好不到哪里去，勉强正常那么一点，不过，这两首歌的旋律我很喜欢，就是少女心事小爱情的那些梗，不过真的是具有不分种族的全球通魅力啊！  </p><p>69、<b>Ｎｅ－Ｙｏ《</b><b> so sick》</b></p><p>Ne-Yo原名Shaffer C. Smith，效仿《黑客帝国》影片里男主角的名字Neo给自己起了一个NE-YO的艺名，出生于美国阿肯色州一个音乐世家，是美国的流行音乐和节奏布鲁斯创作型歌手、唱片制作人。《So Sick》是Ne-Yo首张个人专辑《In My Own Words》的主打单曲，夺得了Billboard Hot 100单曲榜的冠军。</p><p>《so sick》这首歌是我一直很喜欢的慢拍节奏歌曲，同样有着非常出色的前奏，不愧是冠军单曲，而且黑人天生的节奏和乐感等天赋真的很出色。
+这首歌歌词挺长，只摘选了我觉得不错的：</p><p>And I’m so sick
+of love songs</p><p>So tired of
+tears</p><p>So done with
+wishing you were still here</p><p>Said I’m so sick
+of love songs so sad and slow</p><p>So why can’t I
+turn off the radio?</p><p>Gotta fix that
+calender I have</p><p>That’s marked
+July 15th</p><p>Because since
+there’s no more you</p><p>There’s no more
+anniversary</p><p>I’m so fed up
+with my thoughts of you</p><p>And your memory</p><p>And how every
+song reminds me</p><p>Of what used to
+be</p><p>That’s the
+reason I’m so sick of love songs</p><p>So tired of
+tears</p><p>So done with
+wishing you were still here</p><p>Said I’m so sick
+of love songs so sad and slow</p><p>So why can’t I
+turn off the radio?</p><p>70、<b>marie digby《fool》</b></p><p>《fool》这首歌好歹当年曾经让我听得太入迷了坐车坐过了站，就酱紫。</p><p>PS：请不要自动把这首歌的歌名翻译成《蠢》。</p><p>71、<b>Brokedown Cadillac《Can You Hear
+Me》</b></p><p>什么样的歌才是冷门的歌？有人说：QQ音乐上找不到的歌。</p><p>OK，那么今天就来介绍一首冷门的歌。Brokedown Cadillac 是一支美国乡村音乐团体，由女演员 Corri English 担任主唱。《Can You Hear Me》同样是美剧《hellcats》的插曲。说实话，这首歌的高潮部分听着真让人心酸，姑娘你难道是他眼中的隐形人么……  </p><p>72、<b>Ronan Keating &amp;
+Kate Rusby 《All Over Again》</b></p><p>这首歌我心中的最佳版本是Ronan
+Keating和Kate Rusby合唱的，真的跟美妙。有些好歌不需要多费唇舌的推荐，大抵就是这样的意思。</p><p>73、<b>hilary duff《now you know》</b></p><p>这位是好莱坞的甜心，早期好多迪士尼和欧美校园青春电影是她演的，还有最近gossip girl里的角色，也让人印象蛮深刻。唱歌也很不错，虽然不是太惊艳，但是辨识度还是有的。最喜欢她的这首《now you know》。  </p><p>74、<b>高恺蔚《</b><b>are you with me》</b></p><p>这首歌是电影《小时代》的插曲，就是四姐妹光着脚在高架上奔跑的那个片段。昨天看《一站到底》，是清华和北大专场PK，其中两个人PK超牛，简直是神一样的存在，跟精准程序一样变态什么离谱的问题都答得出来
+，结果最后清华的那位就在一道题给卡住然后憋了半天落败。这道题是：</p><p>“请问郭敬明导演的电影《小时代》监制是号称“台湾偶像剧之母”的谁？”   </p><p>主持人问他的对手知道答案是谁吗？那位穿衬衫搭红色针织衫的北大帅哥淡定一笑，答：</p><p> “知道啊，柴智屏嘛。”  </p><p> 。。。。。。。。</p><p> 哈哈哈哈哈哈哈哈哈我当时就笑翻在沙发上了哈哈哈哈哈哈哈哈</p><p>希望清华的精英汲取教训 ，轻视小四老师是会付出代价的嘎嘎嘎T^T</p><p>75、<b>katie melua《shy boy</b><b>》。</b>你的脑海里，记起了哪一个shy boy?</p><p>76、 <b>natalie imbruglia</b><b>《 slow down</b><b>》。</b>生活的步伐太过匆忙的时候，记得听一听这首歌。</p><p>77、<b>kelly sweet《Raincoat</b><b>》</b>有些忧郁，是因为自己不肯甩掉情绪的雨衣。所以，其实我更加喜欢HIGH 歌……</p><p>78、<b>Nelly 《Just A Dream》</b></p><p>这位黑人歌手Nelly号称美国饶舌嘻哈新霸主，这首歌来自他2010年的专辑《5.0》，是《gossip girl 》的插曲，后来变成了他的代表作品。Jim Jonsin操刀的这首主打歌缔造了他个人生涯数位下载榜销量最佳作品，直奔iTunes冠军+Billboard Top3。</p><p>为什么喜欢这首歌？因为够特别，我第一次听见如此嘻哈饶舌rap说唱兼具的“深情系”歌曲，要知道歌词可是非常正统的路子，换成情歌派的歌手肯定搞得缠绵悱恻，偏偏被这位黑人歌手演绎得有节奏有霸气，还该死得好听。果然，《gossip girl 》这部剧剧情再烂，选曲子的眼光那是没得说的。enjoy it ~</p><p>79、<b>Lisa Hannigan《Sea song》</b></p><p>Lisa Hannigan是81年的爱尔兰妹子，很低调的一位优质美女，资料不多，这首歌来自她08年的专辑《Sea Sew》。同样是一首适合睡前聆听的歌，Lisa 的歌声很适合讲故事，仿佛在和你交谈，娓娓道来。安静的女声很多，想要突破实在很难。坚持理想坚持创作坚持小众路线都没有错，可能很多人觉得如果不红能保持歌声的纯净，会自私地希望这样的歌手就这样安安静静唱歌给懂你的优质粉丝就好。是么？</p><p>80、<b>谭杰希</b><b> 快乐的时光</b></p><p>我们都在自己的时光里，扮演着属于自己的《青春派》。</p><p>电影《青春派》的，让我想起了当年追《十八岁的天空》的年少时光。嗯，谁都不能否认，相比乏味而小心翼翼的现在，那是一段快乐的时光。  </p><p>81、<b>someday we'll know</b></p><p>来一首我最爱的情歌对唱之一~</p><p>听腻了《珊瑚海》《傻笑》之类的情歌对唱，最希望能在KTV听到这样好温油的合唱。感受一下→_→  </p><p>82、<b>sheryl crow 《 i know why》</b></p><p>这位已经年过五旬，自美国密苏里州的美国摇滚女歌手Sheryl Crow，
+全球唱片销量突破5000万张，获得9项格莱美大奖，是美国的国民摇滚天后。人家的歌唱过伊拉克战争、唱过卡特琳娜飓风、唱过沃尔玛超市持枪杀人事件、唱过国际石油争端、唱过邻里乱搞，类似题材，你在华语歌曲里见过吗？</p><p>推荐的这首歌来自她2005年的专辑《野花（Wildflowers）》。专辑里那种绝妙的幽暗奇异气氛有一种相当舒适、具有人情味又充满真挚感情的风味。专辑的开场歌曲就是这首《I Know Why》，她在这首歌探讨着一些曾经受到爱情创伤的人们因为害怕再度失去而拒绝敞开胸怀去接受另一份感情的心态。说起来，这类人真不少诶……</p><p>Sheryl的嗓音不属于Shirley Manson那种可以嘶吼的类型，是沙哑却透着细腻的感觉。她的歌非常耐听，你总能隔了一年半载还会有翻出来重新回味的冲动。诚挚推荐给你！  </p><p>83、<b>sheryl crow 《The First
+Cut Is the Deepest》</b></p><p>是的，还是sheryl
+crow ，不过这不是她的歌，是她翻唱的歌，翻译成中文是叫《第一次伤害最深》，来自她的第一张精选《The Very Best Of Sheryl Crow》。          </p><p>来说说这首歌的渊源。《The First
+Cut Is the Deepest》是二十世纪七十年代英国民谣摇滚歌手Cat Stevens的一首原创作品，收录在个人第二张专辑《New Masters》中，美国歌手P.P. Arnold于1967年5月首唱，并将这首歌成功打入UK Singles Chart的前20名。之后Keith Hampshire(1973年)、Rod Stewart(1977年) 、Sheryl Crow(2003年)都翻唱过这首歌，并打入US Billboard Hot 100或UK Singles Chart的前20位。上一季《中国好声音》实力逆天的选手金池也翻唱了这首歌。</p><p>这首歌旋律很舒扬，情绪很忧伤，适合所有初恋OVER或者被甩的伤心时刻。</p><p>84、<b>轻松的小情歌</b><b>roy kim 《bom bom bom》</b></p><p>温暖声线，调皮的口哨声，松快的吉他~  你会愿意听这样一首小情歌，即使搞不懂歌词是什么。。。  </p>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="4640912-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2014-03-18" target="_blank" href="/question/22953113/answer/23538356">编辑于 2014-10-24</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>20 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div id="zh-question-collapsed-link" class="zu-question-collap-title" style="display:none" >
+<a href="javascript:;" name="expand" class="zg-link-gray" id="zh-question-collapsed-switcher">
+<span id="zh-question-collapsed-num">14</span> 个回答被折叠
+</a>
+（<a target="_blank" href="/question/20120168" class="zg-link-gray">为什么？</a>）
+</div>
+<div id="zh-question-collapsed-wrap" class="zh-question-answer-wrapper" style="display:none"></div>
+<a name="draft"></a>
+<div id="zh-question-answer-form-wrap" class="zh-question-answer-form-wrap">
+<div class="zm-editable-tip"></div>
+<div class="zm-editable-content"></div>
+</div>
+<!-- 版权演示 -->
+
+<script type="text/x-template" id="copyright-demo-template">
+<article>
+
+<section>
+<p class="copyright-demo-title"> 这是你的回答正文 </p>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section>
+<p class="copyright-demo-title"> 当其他人想复制你的一段回答 </p>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region1">
+<span class="copyright-ico-indicator" id="copyright-demo-indicator"></span>
+</div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region2"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region3"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region4"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section id="copyright-demo-frame3">
+<p class="copyright-demo-title"> 复制将受限，同时会弹出提醒 </p>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region"></div>
+<span class="copyright-ico-pointer copyright-demo-pointer"></span>
+</section>
+</article>
+</script>
+
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="1362055">关注问题</button>
+
+30175
+人关注该问题
+
+</div>
+</div>
+
+
+<div class="shameimaru-placeholder" data-loc="question_up" data-params='{&quot;question_token&quot;: 22953113}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix" data-za-module="RelatedQuestions">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/25920552" data-id="2551002">
+你最喜欢的一首外文歌曲是什么？
+</a> <span class="num">2356 个回答</span><meta itemprop="followerCount" content="13996" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/24868012" data-id="2129178">
+有哪些歌词叙事性很强的歌曲？
+</a> <span class="num">1809 个回答</span><meta itemprop="followerCount" content="5062" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/30559992" data-id="4406423">
+你最想推荐哪首粤语歌？
+</a> <span class="num">2154 个回答</span><meta itemprop="followerCount" content="8615" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/21778055" data-id="892194">
+有哪些令人听到就心情大好的歌？
+</a> <span class="num">1780 个回答</span><meta itemprop="followerCount" content="25015" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/30748187" data-id="4481590">
+你听过最伤怀，一听到就难以自已，无法自拔的歌是什么？
+</a> <span class="num">2598 个回答</span><meta itemprop="followerCount" content="11805" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/20033281" data-id="193301">
+哪些歌词唯美如诗？
+</a> <span class="num">1156 个回答</span><meta itemprop="followerCount" content="9953" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/27389014" data-id="3138481">
+有哪些歌曲，你根本不知道歌词在唱什么，但是却听懂了，而不能自已？
+</a> <span class="num">646 个回答</span><meta itemprop="followerCount" content="5097" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/30983991" data-id="4576138">
+有哪些有故事的歌？
+</a> <span class="num">1159 个回答</span><meta itemprop="followerCount" content="14084" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/28747093" data-id="3681762">
+有哪些歌曲色气满满？
+</a> <span class="num">555 个回答</span><meta itemprop="followerCount" content="3602" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/30388823" data-id="4337866">
+有哪些歌词很虐或是歌词有剧情向的歌？
+</a> <span class="num">452 个回答</span><meta itemprop="followerCount" content="1561" />
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div class="shameimaru-placeholder" data-loc="question_down" data-params='{&quot;question_token&quot;: 22953113}'></div>
+
+</div>
+
+
+</div>
+
+
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1467125828000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.7b207896.js","Community":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.d985f52b.js","common":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.33e6b712.js","CommentApp":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.4e7d38b4.js"}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","editPermission":false,"qid":1362055,"askAboutMember":0,"isEditLocked":false,"detailEditReasonRequired":true,"isAnon":0,"showInvitePanel":false,"isOrg":false,"isLocked":0,"urlToken":22953113}</script>
+<script type="text/json" class="json-inline" data-name="current_question_owner">false</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+<script type="text/json" class="json-inline" data-name="my_answer">{}</script>
+<script type="text/json" class="json-inline" data-name="current_question_bio">{"selected_bio":null,"type":null,"value":""}</script>
+
+<script type="text/json" class="json-inline" data-name="redirect_to">""</script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/base.445759cc.js"></script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/common.390500ab.js"></script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.74f7b874.js" async></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/page-main.d0f1adb1.js"></script>
+<meta name="entry" content="ZH.entrySQ" data-module-id="page-main">
+
+<script type="text/zscript" znonce="511b242cc8594dc892f00a647656f77e"></script>
+
+<input type="hidden" name="_xsrf" value="ebb958e54e4d45d38e817fd10f3d2b20"/>
+</body>
+</html>

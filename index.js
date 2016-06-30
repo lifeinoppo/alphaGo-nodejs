@@ -1,6 +1,8 @@
 var http = require('http'),
     wechat = require('node-wechat')("thisisonesimpletoken");
 
+var MusicHandle = require("./music/bias/index.js");
+
 http.createServer(function (req, res) {
   //first check token, make sure the communication protocol meets standard
   wechat.checkSignature(req, res);
@@ -71,13 +73,34 @@ http.createServer(function (req, res) {
   });
 
   wechat.link(function (data) {
-    var msg = {
-      FromUserName : data.ToUserName,
-      ToUserName : data.FromUserName,
-      //MsgType : "text",
-      Content : " hello linkage "
+
+    var result_content = MusicHandle.getCache();
+    if(result_content.length <10 ){
+	result_content = "小帅还在实作中，要不客官再等等？  再发送一次可好";
+
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+        Content : result_content                                                                                                            
+        }                                                                                                                                          
+        wechat.send(msg); 
+    	MusicHandle.handle(data.Url,data.ToUserName,data.FromUserName);
     }
-    wechat.send(msg);
+    else{
+        
+       console.log("content is : "+result_content);
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+        Content : result_content                                                                                                            
+        }                                                                                                                                          
+        wechat.send(msg); 
+    }
+    
+	
+
   });
 
   wechat.event(function (data) {

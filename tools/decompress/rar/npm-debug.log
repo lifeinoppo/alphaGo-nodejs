@@ -1,0 +1,1018 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'node-rar' ]
+2 info using npm@3.9.5
+3 info using node@v0.10.33
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData node-rar
+8 silly fetchNamedPackageData node-rar
+9 silly mapToRegistry name node-rar
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry http://registry.cnpmjs.org/
+12 silly mapToRegistry data { raw: 'node-rar',
+12 silly mapToRegistry   scope: null,
+12 silly mapToRegistry   name: 'node-rar',
+12 silly mapToRegistry   rawSpec: '',
+12 silly mapToRegistry   spec: 'latest',
+12 silly mapToRegistry   type: 'tag' }
+13 silly mapToRegistry uri http://registry.cnpmjs.org/node-rar
+14 verbose request uri http://registry.cnpmjs.org/node-rar
+15 verbose request no auth needed
+16 info attempt registry request try #1 at 14:09:58
+17 verbose request id 91fed7b2b0acd59e
+18 http request GET http://registry.cnpmjs.org/node-rar
+19 http 200 http://registry.cnpmjs.org/node-rar
+20 verbose headers { server: 'nginx/1.4.6 (Ubuntu)',
+20 verbose headers   date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+20 verbose headers   'content-type': 'application/json; charset=utf-8',
+20 verbose headers   'transfer-encoding': 'chunked',
+20 verbose headers   connection: 'keep-alive',
+20 verbose headers   'x-readtime': '9',
+20 verbose headers   'strict-transport-security': 'max-age=15768000',
+20 verbose headers   'content-encoding': 'gzip' }
+21 silly get cb [ 200,
+21 silly get   { server: 'nginx/1.4.6 (Ubuntu)',
+21 silly get     date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+21 silly get     'content-type': 'application/json; charset=utf-8',
+21 silly get     'transfer-encoding': 'chunked',
+21 silly get     connection: 'keep-alive',
+21 silly get     'x-readtime': '9',
+21 silly get     'strict-transport-security': 'max-age=15768000',
+21 silly get     'content-encoding': 'gzip' } ]
+22 verbose get saving node-rar to /root/.npm/registry.cnpmjs.org/node-rar/.cache.json
+23 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+24 silly install normalizeTree
+25 silly loadCurrentTree Finishing
+26 silly loadIdealTree Starting
+27 silly install loadIdealTree
+28 silly cloneCurrentTree Starting
+29 silly install cloneCurrentTreeToIdealTree
+30 silly cloneCurrentTree Finishing
+31 silly loadShrinkwrap Starting
+32 silly install loadShrinkwrap
+33 silly loadShrinkwrap Finishing
+34 silly loadAllDepsIntoIdealTree Starting
+35 silly install loadAllDepsIntoIdealTree
+36 silly resolveWithNewModule node-rar@0.0.2 checking installable status
+37 silly cache add args [ 'node-rar', null ]
+38 verbose cache add spec node-rar
+39 silly cache add parsed spec { raw: 'node-rar',
+39 silly cache add   scope: null,
+39 silly cache add   name: 'node-rar',
+39 silly cache add   rawSpec: '',
+39 silly cache add   spec: 'latest',
+39 silly cache add   type: 'tag' }
+40 silly addNamed node-rar@latest
+41 verbose addNamed "latest" is being treated as a dist-tag for node-rar
+42 info addNameTag [ 'node-rar', 'latest' ]
+43 silly mapToRegistry name node-rar
+44 silly mapToRegistry using default registry
+45 silly mapToRegistry registry http://registry.cnpmjs.org/
+46 silly mapToRegistry data { raw: 'node-rar',
+46 silly mapToRegistry   scope: null,
+46 silly mapToRegistry   name: 'node-rar',
+46 silly mapToRegistry   rawSpec: '',
+46 silly mapToRegistry   spec: 'latest',
+46 silly mapToRegistry   type: 'tag' }
+47 silly mapToRegistry uri http://registry.cnpmjs.org/node-rar
+48 verbose addNameTag registry:http://registry.cnpmjs.org/node-rar not in flight; fetching
+49 verbose get http://registry.cnpmjs.org/node-rar not expired, no request
+50 silly addNameTag next cb for node-rar with tag latest
+51 silly addNamed node-rar@0.0.2
+52 verbose addNamed "0.0.2" is a plain semver version for node-rar
+53 silly cache afterAdd node-rar@0.0.2
+54 verbose afterAdd /root/.npm/node-rar/0.0.2/package/package.json not in flight; writing
+55 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+56 verbose afterAdd /root/.npm/node-rar/0.0.2/package/package.json written
+57 silly fetchNamedPackageData bindings
+58 silly mapToRegistry name bindings
+59 silly mapToRegistry using default registry
+60 silly mapToRegistry registry http://registry.cnpmjs.org/
+61 silly mapToRegistry data { raw: 'bindings',
+61 silly mapToRegistry   scope: null,
+61 silly mapToRegistry   name: 'bindings',
+61 silly mapToRegistry   rawSpec: '',
+61 silly mapToRegistry   spec: 'latest',
+61 silly mapToRegistry   type: 'tag' }
+62 silly mapToRegistry uri http://registry.cnpmjs.org/bindings
+63 silly fetchNamedPackageData nan
+64 silly mapToRegistry name nan
+65 silly mapToRegistry using default registry
+66 silly mapToRegistry registry http://registry.cnpmjs.org/
+67 silly mapToRegistry data { raw: 'nan',
+67 silly mapToRegistry   scope: null,
+67 silly mapToRegistry   name: 'nan',
+67 silly mapToRegistry   rawSpec: '',
+67 silly mapToRegistry   spec: 'latest',
+67 silly mapToRegistry   type: 'tag' }
+68 silly mapToRegistry uri http://registry.cnpmjs.org/nan
+69 verbose request uri http://registry.cnpmjs.org/bindings
+70 verbose request no auth needed
+71 info attempt registry request try #1 at 14:09:58
+72 http request GET http://registry.cnpmjs.org/bindings
+73 verbose request uri http://registry.cnpmjs.org/nan
+74 verbose request no auth needed
+75 info attempt registry request try #1 at 14:09:58
+76 http request GET http://registry.cnpmjs.org/nan
+77 http 200 http://registry.cnpmjs.org/nan
+78 verbose headers { server: 'nginx/1.4.6 (Ubuntu)',
+78 verbose headers   date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+78 verbose headers   'content-type': 'application/json; charset=utf-8',
+78 verbose headers   'transfer-encoding': 'chunked',
+78 verbose headers   connection: 'keep-alive',
+78 verbose headers   'x-readtime': '78',
+78 verbose headers   'strict-transport-security': 'max-age=15768000',
+78 verbose headers   'content-encoding': 'gzip' }
+79 silly get cb [ 200,
+79 silly get   { server: 'nginx/1.4.6 (Ubuntu)',
+79 silly get     date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+79 silly get     'content-type': 'application/json; charset=utf-8',
+79 silly get     'transfer-encoding': 'chunked',
+79 silly get     connection: 'keep-alive',
+79 silly get     'x-readtime': '78',
+79 silly get     'strict-transport-security': 'max-age=15768000',
+79 silly get     'content-encoding': 'gzip' } ]
+80 verbose get saving nan to /root/.npm/registry.cnpmjs.org/nan/.cache.json
+81 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+82 http 200 http://registry.cnpmjs.org/bindings
+83 verbose headers { server: 'nginx/1.4.6 (Ubuntu)',
+83 verbose headers   date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+83 verbose headers   'content-type': 'application/json; charset=utf-8',
+83 verbose headers   'transfer-encoding': 'chunked',
+83 verbose headers   connection: 'keep-alive',
+83 verbose headers   'x-readtime': '16',
+83 verbose headers   'strict-transport-security': 'max-age=15768000',
+83 verbose headers   'content-encoding': 'gzip' }
+84 silly get cb [ 200,
+84 silly get   { server: 'nginx/1.4.6 (Ubuntu)',
+84 silly get     date: 'Fri, 24 Jun 2016 14:09:58 GMT',
+84 silly get     'content-type': 'application/json; charset=utf-8',
+84 silly get     'transfer-encoding': 'chunked',
+84 silly get     connection: 'keep-alive',
+84 silly get     'x-readtime': '16',
+84 silly get     'strict-transport-security': 'max-age=15768000',
+84 silly get     'content-encoding': 'gzip' } ]
+85 verbose get saving bindings to /root/.npm/registry.cnpmjs.org/bindings/.cache.json
+86 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+87 silly resolveWithNewModule nan@1.9.0 checking installable status
+88 silly cache add args [ 'nan@^1.3.0', null ]
+89 verbose cache add spec nan@^1.3.0
+90 silly cache add parsed spec { raw: 'nan@^1.3.0',
+90 silly cache add   scope: null,
+90 silly cache add   name: 'nan',
+90 silly cache add   rawSpec: '^1.3.0',
+90 silly cache add   spec: '>=1.3.0 <2.0.0',
+90 silly cache add   type: 'range' }
+91 silly addNamed nan@>=1.3.0 <2.0.0
+92 verbose addNamed ">=1.3.0 <2.0.0" is a valid semver range for nan
+93 silly addNameRange { name: 'nan', range: '>=1.3.0 <2.0.0', hasData: false }
+94 silly mapToRegistry name nan
+95 silly mapToRegistry using default registry
+96 silly mapToRegistry registry http://registry.cnpmjs.org/
+97 silly mapToRegistry data { raw: 'nan',
+97 silly mapToRegistry   scope: null,
+97 silly mapToRegistry   name: 'nan',
+97 silly mapToRegistry   rawSpec: '',
+97 silly mapToRegistry   spec: 'latest',
+97 silly mapToRegistry   type: 'tag' }
+98 silly mapToRegistry uri http://registry.cnpmjs.org/nan
+99 verbose addNameRange registry:http://registry.cnpmjs.org/nan not in flight; fetching
+100 verbose get http://registry.cnpmjs.org/nan not expired, no request
+101 silly addNameRange number 2 { name: 'nan', range: '>=1.3.0 <2.0.0', hasData: true }
+102 silly addNameRange versions [ 'nan',
+102 silly addNameRange   [ '2.3.5',
+102 silly addNameRange     '2.3.4',
+102 silly addNameRange     '2.3.3',
+102 silly addNameRange     '2.3.2',
+102 silly addNameRange     '2.3.1',
+102 silly addNameRange     '2.3.0',
+102 silly addNameRange     '2.2.1',
+102 silly addNameRange     '2.2.0',
+102 silly addNameRange     '2.1.0',
+102 silly addNameRange     '2.0.9',
+102 silly addNameRange     '2.0.8',
+102 silly addNameRange     '2.0.7',
+102 silly addNameRange     '2.0.6',
+102 silly addNameRange     '2.0.5',
+102 silly addNameRange     '2.0.4',
+102 silly addNameRange     '2.0.3',
+102 silly addNameRange     '2.0.2',
+102 silly addNameRange     '2.0.1',
+102 silly addNameRange     '2.0.0',
+102 silly addNameRange     '1.9.0',
+102 silly addNameRange     '1.8.4',
+102 silly addNameRange     '1.8.3',
+102 silly addNameRange     '1.8.2',
+102 silly addNameRange     '1.8.1',
+102 silly addNameRange     '1.8.0',
+102 silly addNameRange     '1.7.0',
+102 silly addNameRange     '1.6.2',
+102 silly addNameRange     '1.6.1',
+102 silly addNameRange     '1.5.3',
+102 silly addNameRange     '1.6.0',
+102 silly addNameRange     '1.5.2',
+102 silly addNameRange     '1.5.1',
+102 silly addNameRange     '1.4.3',
+102 silly addNameRange     '1.4.2',
+102 silly addNameRange     '1.5.0',
+102 silly addNameRange     '1.4.1',
+102 silly addNameRange     '1.4.0',
+102 silly addNameRange     '1.3.0',
+102 silly addNameRange     '1.2.0',
+102 silly addNameRange     '1.1.2',
+102 silly addNameRange     '1.1.1',
+102 silly addNameRange     '1.1.0',
+102 silly addNameRange     '1.0.0',
+102 silly addNameRange     '0.8.0',
+102 silly addNameRange     '0.7.1',
+102 silly addNameRange     '0.7.0',
+102 silly addNameRange     '0.6.0',
+102 silly addNameRange     '0.5.2',
+102 silly addNameRange     '0.5.1',
+102 silly addNameRange     '0.5.0',
+102 silly addNameRange     '0.4.4',
+102 silly addNameRange     '0.4.3',
+102 silly addNameRange     '0.4.2',
+102 silly addNameRange     '0.4.1',
+102 silly addNameRange     '0.4.0',
+102 silly addNameRange     '0.3.2',
+102 silly addNameRange     '0.3.1',
+102 silly addNameRange     '0.3.0',
+102 silly addNameRange     '0.3.0-wip2',
+102 silly addNameRange     '0.3.0-wip' ] ]
+103 silly addNamed nan@1.9.0
+104 verbose addNamed "1.9.0" is a plain semver version for nan
+105 silly resolveWithNewModule bindings@1.2.1 checking installable status
+106 silly cache add args [ 'bindings@^1.2.1', null ]
+107 verbose cache add spec bindings@^1.2.1
+108 silly cache add parsed spec { raw: 'bindings@^1.2.1',
+108 silly cache add   scope: null,
+108 silly cache add   name: 'bindings',
+108 silly cache add   rawSpec: '^1.2.1',
+108 silly cache add   spec: '>=1.2.1 <2.0.0',
+108 silly cache add   type: 'range' }
+109 silly addNamed bindings@>=1.2.1 <2.0.0
+110 verbose addNamed ">=1.2.1 <2.0.0" is a valid semver range for bindings
+111 silly addNameRange { name: 'bindings', range: '>=1.2.1 <2.0.0', hasData: false }
+112 silly mapToRegistry name bindings
+113 silly mapToRegistry using default registry
+114 silly mapToRegistry registry http://registry.cnpmjs.org/
+115 silly mapToRegistry data { raw: 'bindings',
+115 silly mapToRegistry   scope: null,
+115 silly mapToRegistry   name: 'bindings',
+115 silly mapToRegistry   rawSpec: '',
+115 silly mapToRegistry   spec: 'latest',
+115 silly mapToRegistry   type: 'tag' }
+116 silly mapToRegistry uri http://registry.cnpmjs.org/bindings
+117 verbose addNameRange registry:http://registry.cnpmjs.org/bindings not in flight; fetching
+118 silly cache afterAdd nan@1.9.0
+119 verbose afterAdd /root/.npm/nan/1.9.0/package/package.json not in flight; writing
+120 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+121 verbose get http://registry.cnpmjs.org/bindings not expired, no request
+122 silly addNameRange number 2 { name: 'bindings', range: '>=1.2.1 <2.0.0', hasData: true }
+123 silly addNameRange versions [ 'bindings',
+123 silly addNameRange   [ '1.2.1',
+123 silly addNameRange     '1.2.0',
+123 silly addNameRange     '1.1.1',
+123 silly addNameRange     '1.1.0',
+123 silly addNameRange     '1.0.0',
+123 silly addNameRange     '0.4.0',
+123 silly addNameRange     '0.3.0',
+123 silly addNameRange     '0.2.4',
+123 silly addNameRange     '0.2.3',
+123 silly addNameRange     '0.2.2',
+123 silly addNameRange     '0.2.1',
+123 silly addNameRange     '0.2.0',
+123 silly addNameRange     '0.1.1',
+123 silly addNameRange     '0.1.0',
+123 silly addNameRange     '0.0.1' ] ]
+124 silly addNamed bindings@1.2.1
+125 verbose addNamed "1.2.1" is a plain semver version for bindings
+126 verbose afterAdd /root/.npm/nan/1.9.0/package/package.json written
+127 silly cache afterAdd bindings@1.2.1
+128 verbose afterAdd /root/.npm/bindings/1.2.1/package/package.json not in flight; writing
+129 verbose correctMkdir /root/.npm correctMkdir not in flight; initializing
+130 verbose afterAdd /root/.npm/bindings/1.2.1/package/package.json written
+131 silly loadAllDepsIntoIdealTree Finishing
+132 silly idealTree:prePrune rar@1.0.0
+132 silly idealTree:prePrune +-- bindings@1.2.1
+132 silly idealTree:prePrune +-- nan@1.9.0
+132 silly idealTree:prePrune `-- node-rar@0.0.2
+133 silly loadIdealTree Finishing
+134 silly currentTree rar@1.0.0
+135 silly idealTree rar@1.0.0
+135 silly idealTree +-- bindings@1.2.1
+135 silly idealTree +-- nan@1.9.0
+135 silly idealTree `-- node-rar@0.0.2
+136 silly generateActionsToTake Starting
+137 silly install generateActionsToTake
+138 silly generateActionsToTake Finishing
+139 silly diffTrees action count 3
+140 silly diffTrees add bindings@1.2.1
+141 silly diffTrees add nan@1.9.0
+142 silly diffTrees add node-rar@0.0.2
+143 silly decomposeActions action count 24
+144 silly decomposeActions fetch bindings@1.2.1
+145 silly decomposeActions extract bindings@1.2.1
+146 silly decomposeActions test bindings@1.2.1
+147 silly decomposeActions preinstall bindings@1.2.1
+148 silly decomposeActions build bindings@1.2.1
+149 silly decomposeActions install bindings@1.2.1
+150 silly decomposeActions postinstall bindings@1.2.1
+151 silly decomposeActions finalize bindings@1.2.1
+152 silly decomposeActions fetch nan@1.9.0
+153 silly decomposeActions extract nan@1.9.0
+154 silly decomposeActions test nan@1.9.0
+155 silly decomposeActions preinstall nan@1.9.0
+156 silly decomposeActions build nan@1.9.0
+157 silly decomposeActions install nan@1.9.0
+158 silly decomposeActions postinstall nan@1.9.0
+159 silly decomposeActions finalize nan@1.9.0
+160 silly decomposeActions fetch node-rar@0.0.2
+161 silly decomposeActions extract node-rar@0.0.2
+162 silly decomposeActions test node-rar@0.0.2
+163 silly decomposeActions preinstall node-rar@0.0.2
+164 silly decomposeActions build node-rar@0.0.2
+165 silly decomposeActions install node-rar@0.0.2
+166 silly decomposeActions postinstall node-rar@0.0.2
+167 silly decomposeActions finalize node-rar@0.0.2
+168 silly executeActions Starting
+169 silly install executeActions
+170 silly doSerial global-install 0
+171 silly doParallel fetch 3
+172 verbose correctMkdir /root/.npm/_locks correctMkdir not in flight; initializing
+173 verbose lock using /root/.npm/_locks/staging-94ae6fe31a8c2fd5.lock for /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging
+174 silly doParallel extract 3
+175 silly extract bindings@1.2.1
+176 silly extract nan@1.9.0
+177 silly extract node-rar@0.0.2
+178 verbose unbuild node_modules/.staging/bindings-68db23d5
+179 verbose unbuild node_modules/.staging/nan-3253a4ad
+180 verbose unbuild node_modules/.staging/node-rar-81c7d21c
+181 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5 is being purged from base /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar
+182 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5
+183 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad is being purged from base /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar
+184 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad
+185 verbose tar unpack /root/.npm/bindings/1.2.1/package.tgz
+186 verbose tar unpacking to /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5
+187 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5 is being purged
+188 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5
+189 verbose tar unpack /root/.npm/nan/1.9.0/package.tgz
+190 verbose tar unpacking to /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad
+191 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad is being purged
+192 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad
+193 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c is being purged from base /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar
+194 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c
+195 silly gunzTarPerm modes [ '755', '644' ]
+196 silly gunzTarPerm modes [ '755', '644' ]
+197 verbose tar unpack /root/.npm/node-rar/0.0.2/package.tgz
+198 verbose tar unpacking to /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c
+199 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c is being purged
+200 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c
+201 silly gunzTarPerm modes [ '755', '644' ]
+202 silly gunzTarPerm extractEntry package.json
+203 silly gunzTarPerm extractEntry package.json
+204 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+205 silly gunzTarPerm extractEntry package.json
+206 silly gunzTarPerm extractEntry README.md
+207 silly gunzTarPerm extractEntry bindings.js
+208 silly gunzTarPerm extractEntry README.md
+209 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+210 silly gunzTarPerm extractEntry include_dirs.js
+211 silly gunzTarPerm modified mode [ 'include_dirs.js', 436, 420 ]
+212 silly gunzTarPerm extractEntry .npmignore
+213 silly gunzTarPerm extractEntry README.md
+214 silly gunzTarPerm extractEntry LICENSE.md
+215 silly gunzTarPerm modified mode [ 'LICENSE.md', 436, 420 ]
+216 silly gunzTarPerm extractEntry .dntrc
+217 silly gunzTarPerm modified mode [ '.dntrc', 436, 420 ]
+218 silly gunzTarPerm extractEntry appveyor.yml
+219 silly gunzTarPerm modified mode [ 'appveyor.yml', 436, 420 ]
+220 silly gunzTarPerm extractEntry LICENSE
+221 silly gunzTarPerm extractEntry Gruntfile.js
+222 silly gunzTarPerm extractEntry cli.js
+223 silly gunzTarPerm extractEntry .yo-rc.json
+224 silly gunzTarPerm extractEntry binding.gyp
+225 silly gunzTarPerm extractEntry vendor/unrar/qopen.cpp
+226 silly gunzTarPerm extractEntry vendor/unrar/UnRAR.vcproj
+227 silly gunzTarPerm extractEntry nan.h
+228 silly gunzTarPerm modified mode [ 'nan.h', 436, 420 ]
+229 silly gunzTarPerm extractEntry vendor/unrar/acknow.txt
+230 silly gunzTarPerm extractEntry vendor/unrar/arccmt.cpp
+231 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5/node_modules is being purged
+232 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5/node_modules
+233 silly gunzTarPerm extractEntry vendor/unrar/archive.cpp
+234 silly gunzTarPerm extractEntry vendor/unrar/archive.hpp
+235 silly gunzTarPerm extractEntry vendor/unrar/arcread.cpp
+236 silly gunzTarPerm extractEntry vendor/unrar/array.hpp
+237 silly gunzTarPerm extractEntry vendor/unrar/blake2s.cpp
+238 silly gunzTarPerm extractEntry vendor/unrar/blake2s.hpp
+239 silly gunzTarPerm extractEntry nan_implementation_12_inl.h
+240 silly gunzTarPerm modified mode [ 'nan_implementation_12_inl.h', 436, 420 ]
+241 silly gunzTarPerm extractEntry vendor/unrar/blake2s_sse.cpp
+242 silly gunzTarPerm extractEntry vendor/unrar/blake2sp.cpp
+243 silly gunzTarPerm extractEntry nan_implementation_pre_12_inl.h
+244 silly gunzTarPerm modified mode [ 'nan_implementation_pre_12_inl.h', 436, 420 ]
+245 silly gunzTarPerm extractEntry nan_new.h
+246 silly gunzTarPerm modified mode [ 'nan_new.h', 436, 420 ]
+247 silly gunzTarPerm extractEntry nan_string_bytes.h
+248 silly gunzTarPerm modified mode [ 'nan_string_bytes.h', 436, 420 ]
+249 silly gunzTarPerm extractEntry vendor/unrar/cmddata.cpp
+250 silly gunzTarPerm extractEntry vendor/unrar/cmddata.hpp
+251 silly gunzTarPerm extractEntry CHANGELOG.md
+252 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 420 ]
+253 silly gunzTarPerm extractEntry tools/node_modules/commander/package.json
+254 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/package.json', 436, 420 ]
+255 silly gunzTarPerm extractEntry tools/node_modules/commander/LICENSE
+256 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/LICENSE', 436, 420 ]
+257 silly gunzTarPerm extractEntry tools/node_modules/commander/index.js
+258 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/index.js', 436, 420 ]
+259 silly gunzTarPerm extractEntry vendor/unrar/coder.cpp
+260 silly gunzTarPerm extractEntry vendor/unrar/coder.hpp
+261 silly gunzTarPerm extractEntry tools/node_modules/commander/History.md
+262 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/History.md', 436, 420 ]
+263 silly gunzTarPerm extractEntry tools/node_modules/commander/Readme.md
+264 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/Readme.md', 436, 420 ]
+265 silly gunzTarPerm extractEntry vendor/unrar/compress.hpp
+266 silly gunzTarPerm extractEntry vendor/unrar/consio.cpp
+267 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/package.json
+268 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/package.json',
+268 silly gunzTarPerm   436,
+268 silly gunzTarPerm   420 ]
+269 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.npmignore
+270 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.npmignore',
+270 silly gunzTarPerm   436,
+270 silly gunzTarPerm   420 ]
+271 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/README.md
+272 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/README.md',
+272 silly gunzTarPerm   436,
+272 silly gunzTarPerm   420 ]
+273 silly gunzTarPerm extractEntry vendor/unrar/consio.hpp
+274 silly gunzTarPerm extractEntry vendor/unrar/crc.cpp
+275 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/LICENSE
+276 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/LICENSE',
+276 silly gunzTarPerm   436,
+276 silly gunzTarPerm   420 ]
+277 silly gunzTarPerm extractEntry vendor/unrar/crc.hpp
+278 silly gunzTarPerm extractEntry vendor/unrar/crypt.cpp
+279 silly gunzTarPerm extractEntry vendor/unrar/crypt.hpp
+280 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/index.js
+281 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/index.js',
+281 silly gunzTarPerm   436,
+281 silly gunzTarPerm   420 ]
+282 silly gunzTarPerm extractEntry vendor/unrar/crypt1.cpp
+283 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml
+284 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml',
+284 silly gunzTarPerm   436,
+284 silly gunzTarPerm   420 ]
+285 silly gunzTarPerm extractEntry vendor/unrar/crypt2.cpp
+286 silly gunzTarPerm extractEntry vendor/unrar/crypt3.cpp
+287 silly gunzTarPerm extractEntry vendor/unrar/crypt5.cpp
+288 silly gunzTarPerm extractEntry tools/node_modules/glob/package.json
+289 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/package.json', 436, 420 ]
+290 silly gunzTarPerm extractEntry vendor/unrar/dll.cpp
+291 silly gunzTarPerm extractEntry vendor/unrar/dll.def
+292 silly gunzTarPerm extractEntry tools/node_modules/glob/README.md
+293 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/README.md', 436, 420 ]
+294 silly gunzTarPerm extractEntry tools/node_modules/glob/LICENSE
+295 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/LICENSE', 436, 420 ]
+296 silly gunzTarPerm extractEntry vendor/unrar/dll.hpp
+297 silly gunzTarPerm extractEntry vendor/unrar/dll.rc
+298 silly gunzTarPerm extractEntry vendor/unrar/encname.cpp
+299 silly gunzTarPerm extractEntry vendor/unrar/encname.hpp
+300 silly gunzTarPerm extractEntry tools/node_modules/glob/common.js
+301 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/common.js', 436, 420 ]
+302 silly gunzTarPerm extractEntry tools/node_modules/glob/glob.js
+303 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/glob.js', 436, 420 ]
+304 silly gunzTarPerm extractEntry vendor/unrar/errhnd.cpp
+305 silly gunzTarPerm extractEntry vendor/unrar/errhnd.hpp
+306 silly gunzTarPerm extractEntry vendor/unrar/extinfo.cpp
+307 silly gunzTarPerm extractEntry vendor/unrar/extinfo.hpp
+308 silly gunzTarPerm extractEntry vendor/unrar/extract.cpp
+309 silly gunzTarPerm extractEntry tools/node_modules/glob/sync.js
+310 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/sync.js', 436, 420 ]
+311 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/package.json
+312 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/package.json',
+312 silly gunzTarPerm   436,
+312 silly gunzTarPerm   420 ]
+313 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/README.md
+314 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/README.md',
+314 silly gunzTarPerm   436,
+314 silly gunzTarPerm   420 ]
+315 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/LICENSE
+316 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/LICENSE',
+316 silly gunzTarPerm   436,
+316 silly gunzTarPerm   420 ]
+317 silly gunzTarPerm extractEntry vendor/unrar/extract.hpp
+318 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/inflight.js
+319 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/inflight.js',
+319 silly gunzTarPerm   436,
+319 silly gunzTarPerm   420 ]
+320 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/test.js
+321 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/test.js',
+321 silly gunzTarPerm   436,
+321 silly gunzTarPerm   420 ]
+322 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/.eslintrc
+323 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/.eslintrc',
+323 silly gunzTarPerm   436,
+323 silly gunzTarPerm   420 ]
+324 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json
+325 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json',
+325 silly gunzTarPerm   436,
+325 silly gunzTarPerm   420 ]
+326 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md
+327 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md',
+327 silly gunzTarPerm   436,
+327 silly gunzTarPerm   420 ]
+328 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE
+329 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE',
+329 silly gunzTarPerm   436,
+329 silly gunzTarPerm   420 ]
+330 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js
+331 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js',
+331 silly gunzTarPerm   436,
+331 silly gunzTarPerm   420 ]
+332 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js
+333 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js',
+333 silly gunzTarPerm   436,
+333 silly gunzTarPerm   420 ]
+334 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/package.json
+335 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/package.json',
+335 silly gunzTarPerm   436,
+335 silly gunzTarPerm   420 ]
+336 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/README.md
+337 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/README.md',
+337 silly gunzTarPerm   436,
+337 silly gunzTarPerm   420 ]
+338 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/LICENSE
+339 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/LICENSE',
+339 silly gunzTarPerm   436,
+339 silly gunzTarPerm   420 ]
+340 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits.js
+341 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits.js',
+341 silly gunzTarPerm   436,
+341 silly gunzTarPerm   420 ]
+342 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits_browser.js
+343 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits_browser.js',
+343 silly gunzTarPerm   436,
+343 silly gunzTarPerm   420 ]
+344 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/test.js
+345 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/test.js',
+345 silly gunzTarPerm   436,
+345 silly gunzTarPerm   420 ]
+346 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/package.json
+347 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/package.json',
+347 silly gunzTarPerm   436,
+347 silly gunzTarPerm   420 ]
+348 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/README.md
+349 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/README.md',
+349 silly gunzTarPerm   436,
+349 silly gunzTarPerm   420 ]
+350 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/LICENSE
+351 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/LICENSE',
+351 silly gunzTarPerm   436,
+351 silly gunzTarPerm   420 ]
+352 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/browser.js
+353 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/browser.js',
+353 silly gunzTarPerm   436,
+353 silly gunzTarPerm   420 ]
+354 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/minimatch.js
+355 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/minimatch.js',
+355 silly gunzTarPerm   436,
+355 silly gunzTarPerm   420 ]
+356 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json
+357 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json',
+357 silly gunzTarPerm   436,
+357 silly gunzTarPerm   420 ]
+358 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore
+359 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore',
+359 silly gunzTarPerm   436,
+359 silly gunzTarPerm   420 ]
+360 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md
+361 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md',
+361 silly gunzTarPerm   436,
+361 silly gunzTarPerm   420 ]
+362 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js
+363 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js',
+363 silly gunzTarPerm   436,
+363 silly gunzTarPerm   420 ]
+364 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js
+365 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js',
+365 silly gunzTarPerm   436,
+365 silly gunzTarPerm   420 ]
+366 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml
+367 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml',
+367 silly gunzTarPerm   436,
+367 silly gunzTarPerm   420 ]
+368 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js
+369 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js',
+369 silly gunzTarPerm   436,
+369 silly gunzTarPerm   420 ]
+370 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js
+371 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js',
+371 silly gunzTarPerm   436,
+371 silly gunzTarPerm   420 ]
+372 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js
+373 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js',
+373 silly gunzTarPerm   436,
+373 silly gunzTarPerm   420 ]
+374 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js
+375 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js',
+375 silly gunzTarPerm   436,
+375 silly gunzTarPerm   420 ]
+376 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js
+377 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js',
+377 silly gunzTarPerm   436,
+377 silly gunzTarPerm   420 ]
+378 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js
+379 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js',
+379 silly gunzTarPerm   436,
+379 silly gunzTarPerm   420 ]
+380 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js
+381 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js',
+381 silly gunzTarPerm   436,
+381 silly gunzTarPerm   420 ]
+382 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js
+383 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js',
+383 silly gunzTarPerm   436,
+383 silly gunzTarPerm   420 ]
+384 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js
+385 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js',
+385 silly gunzTarPerm   436,
+385 silly gunzTarPerm   420 ]
+386 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt
+387 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt',
+387 silly gunzTarPerm   436,
+387 silly gunzTarPerm   420 ]
+388 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh
+389 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh',
+389 silly gunzTarPerm   436,
+389 silly gunzTarPerm   420 ]
+390 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt
+391 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt',
+391 silly gunzTarPerm   436,
+391 silly gunzTarPerm   420 ]
+392 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json
+393 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json',
+393 silly gunzTarPerm   436,
+393 silly gunzTarPerm   420 ]
+394 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore
+395 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore',
+395 silly gunzTarPerm   436,
+395 silly gunzTarPerm   420 ]
+396 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md
+397 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md',
+397 silly gunzTarPerm   436,
+397 silly gunzTarPerm   420 ]
+398 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js
+399 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js',
+399 silly gunzTarPerm   436,
+399 silly gunzTarPerm   420 ]
+400 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js
+401 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js',
+401 silly gunzTarPerm   436,
+401 silly gunzTarPerm   420 ]
+402 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml
+403 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml',
+403 silly gunzTarPerm   436,
+403 silly gunzTarPerm   420 ]
+404 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile
+405 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile',
+405 silly gunzTarPerm   436,
+405 silly gunzTarPerm   420 ]
+406 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js
+407 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js',
+407 silly gunzTarPerm   436,
+407 silly gunzTarPerm   420 ]
+408 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json
+409 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json',
+409 silly gunzTarPerm   436,
+409 silly gunzTarPerm   420 ]
+410 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE
+411 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE',
+411 silly gunzTarPerm   436,
+411 silly gunzTarPerm   420 ]
+412 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js
+413 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js',
+413 silly gunzTarPerm   436,
+413 silly gunzTarPerm   420 ]
+414 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml
+415 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml',
+415 silly gunzTarPerm   436,
+415 silly gunzTarPerm   420 ]
+416 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown
+417 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown',
+417 silly gunzTarPerm   436,
+417 silly gunzTarPerm   420 ]
+418 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js
+419 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js',
+419 silly gunzTarPerm   436,
+419 silly gunzTarPerm   420 ]
+420 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js
+421 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js',
+421 silly gunzTarPerm   436,
+421 silly gunzTarPerm   420 ]
+422 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/package.json
+423 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/package.json',
+423 silly gunzTarPerm   436,
+423 silly gunzTarPerm   420 ]
+424 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/README.md
+425 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/README.md',
+425 silly gunzTarPerm   436,
+425 silly gunzTarPerm   420 ]
+426 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/LICENSE
+427 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/LICENSE', 436, 420 ]
+428 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/once.js
+429 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/once.js', 436, 420 ]
+430 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/test/once.js
+431 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/test/once.js',
+431 silly gunzTarPerm   436,
+431 silly gunzTarPerm   420 ]
+432 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json
+433 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json',
+433 silly gunzTarPerm   436,
+433 silly gunzTarPerm   420 ]
+434 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md
+435 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md',
+435 silly gunzTarPerm   436,
+435 silly gunzTarPerm   420 ]
+436 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE
+437 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE',
+437 silly gunzTarPerm   436,
+437 silly gunzTarPerm   420 ]
+438 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js
+439 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js',
+439 silly gunzTarPerm   436,
+439 silly gunzTarPerm   420 ]
+440 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js
+441 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js',
+441 silly gunzTarPerm   436,
+441 silly gunzTarPerm   420 ]
+442 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/package.json
+443 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/package.json',
+443 silly gunzTarPerm   436,
+443 silly gunzTarPerm   420 ]
+444 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/index.js
+445 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/index.js',
+445 silly gunzTarPerm   436,
+445 silly gunzTarPerm   420 ]
+446 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/license
+447 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/license',
+447 silly gunzTarPerm   436,
+447 silly gunzTarPerm   420 ]
+448 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/readme.md
+449 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/readme.md',
+449 silly gunzTarPerm   436,
+449 silly gunzTarPerm   420 ]
+450 silly gunzTarPerm extractEntry vendor/unrar/filcreat.cpp
+451 silly gunzTarPerm extractEntry vendor/unrar/filcreat.hpp
+452 silly gunzTarPerm extractEntry vendor/unrar/file.cpp
+453 silly gunzTarPerm extractEntry vendor/unrar/file.hpp
+454 silly gunzTarPerm extractEntry vendor/unrar/filefn.cpp
+455 silly gunzTarPerm extractEntry vendor/unrar/filefn.hpp
+456 silly gunzTarPerm extractEntry vendor/unrar/filestr.cpp
+457 silly gunzTarPerm extractEntry vendor/unrar/filestr.hpp
+458 silly gunzTarPerm extractEntry vendor/unrar/find.cpp
+459 silly gunzTarPerm extractEntry vendor/unrar/find.hpp
+460 silly gunzTarPerm extractEntry vendor/unrar/getbits.cpp
+461 silly gunzTarPerm extractEntry vendor/unrar/getbits.hpp
+462 silly gunzTarPerm extractEntry vendor/unrar/global.cpp
+463 silly gunzTarPerm extractEntry vendor/unrar/global.hpp
+464 silly gunzTarPerm extractEntry vendor/unrar/hardlinks.cpp
+465 silly gunzTarPerm extractEntry vendor/unrar/hash.cpp
+466 silly gunzTarPerm extractEntry vendor/unrar/hash.hpp
+467 silly gunzTarPerm extractEntry vendor/unrar/headers.cpp
+468 silly gunzTarPerm extractEntry vendor/unrar/headers.hpp
+469 silly gunzTarPerm extractEntry vendor/unrar/headers5.hpp
+470 silly gunzTarPerm extractEntry vendor/unrar/isnt.cpp
+471 silly gunzTarPerm extractEntry vendor/unrar/isnt.hpp
+472 silly gunzTarPerm extractEntry vendor/unrar/license.txt
+473 silly gunzTarPerm extractEntry vendor/unrar/list.cpp
+474 silly gunzTarPerm extractEntry vendor/unrar/list.hpp
+475 silly gunzTarPerm extractEntry vendor/unrar/loclang.hpp
+476 silly gunzTarPerm extractEntry vendor/unrar/log.cpp
+477 silly gunzTarPerm extractEntry vendor/unrar/log.hpp
+478 silly gunzTarPerm extractEntry vendor/unrar/makefile
+479 silly gunzTarPerm extractEntry vendor/unrar/match.cpp
+480 silly gunzTarPerm extractEntry vendor/unrar/match.hpp
+481 silly gunzTarPerm extractEntry vendor/unrar/model.cpp
+482 silly gunzTarPerm extractEntry vendor/unrar/model.hpp
+483 silly gunzTarPerm extractEntry vendor/unrar/msc.dep
+484 silly gunzTarPerm extractEntry vendor/unrar/options.cpp
+485 silly gunzTarPerm extractEntry vendor/unrar/options.hpp
+486 silly gunzTarPerm extractEntry vendor/unrar/os.hpp
+487 silly gunzTarPerm extractEntry vendor/unrar/pathfn.cpp
+488 silly gunzTarPerm extractEntry vendor/unrar/pathfn.hpp
+489 silly gunzTarPerm extractEntry vendor/unrar/UnRARDll.vcproj
+490 silly gunzTarPerm extractEntry vendor/unrar/qopen.hpp
+491 silly gunzTarPerm extractEntry vendor/unrar/rar.cpp
+492 silly gunzTarPerm extractEntry vendor/unrar/rar.hpp
+493 silly gunzTarPerm extractEntry vendor/unrar/rardefs.hpp
+494 silly gunzTarPerm extractEntry vendor/unrar/rarlang.hpp
+495 silly gunzTarPerm extractEntry vendor/unrar/raros.hpp
+496 silly gunzTarPerm extractEntry vendor/unrar/rarpch.cpp
+497 silly gunzTarPerm extractEntry vendor/unrar/rartypes.hpp
+498 silly gunzTarPerm extractEntry vendor/unrar/rarvm.cpp
+499 silly gunzTarPerm extractEntry vendor/unrar/rarvm.hpp
+500 silly gunzTarPerm extractEntry vendor/unrar/rarvmtbl.cpp
+501 silly gunzTarPerm extractEntry vendor/unrar/rawread.cpp
+502 silly gunzTarPerm extractEntry vendor/unrar/rawread.hpp
+503 silly gunzTarPerm extractEntry vendor/unrar/rdwrfn.cpp
+504 silly gunzTarPerm extractEntry vendor/unrar/rdwrfn.hpp
+505 silly gunzTarPerm extractEntry vendor/unrar/readme.txt
+506 silly gunzTarPerm extractEntry vendor/unrar/recvol.cpp
+507 silly gunzTarPerm extractEntry vendor/unrar/recvol.hpp
+508 silly gunzTarPerm extractEntry vendor/unrar/recvol3.cpp
+509 silly gunzTarPerm extractEntry vendor/unrar/recvol5.cpp
+510 silly gunzTarPerm extractEntry vendor/unrar/resource.cpp
+511 silly gunzTarPerm extractEntry vendor/unrar/resource.hpp
+512 silly gunzTarPerm extractEntry vendor/unrar/rijndael.cpp
+513 silly gunzTarPerm extractEntry vendor/unrar/rijndael.hpp
+514 silly gunzTarPerm extractEntry vendor/unrar/rs.cpp
+515 silly gunzTarPerm extractEntry vendor/unrar/rs.hpp
+516 silly gunzTarPerm extractEntry vendor/unrar/rs16.cpp
+517 silly gunzTarPerm extractEntry vendor/unrar/rs16.hpp
+518 silly gunzTarPerm extractEntry vendor/unrar/savepos.hpp
+519 silly gunzTarPerm extractEntry vendor/unrar/scantree.cpp
+520 silly gunzTarPerm extractEntry vendor/unrar/scantree.hpp
+521 silly gunzTarPerm extractEntry vendor/unrar/secpassword.cpp
+522 silly gunzTarPerm extractEntry vendor/unrar/secpassword.hpp
+523 silly gunzTarPerm extractEntry vendor/unrar/sha1.cpp
+524 silly gunzTarPerm extractEntry vendor/unrar/sha1.hpp
+525 silly gunzTarPerm extractEntry vendor/unrar/sha256.cpp
+526 silly gunzTarPerm extractEntry vendor/unrar/sha256.hpp
+527 silly gunzTarPerm extractEntry vendor/unrar/smallfn.cpp
+528 silly gunzTarPerm extractEntry vendor/unrar/smallfn.hpp
+529 silly gunzTarPerm extractEntry vendor/unrar/strfn.cpp
+530 silly gunzTarPerm extractEntry vendor/unrar/strfn.hpp
+531 silly gunzTarPerm extractEntry vendor/unrar/strlist.cpp
+532 silly gunzTarPerm extractEntry vendor/unrar/strlist.hpp
+533 silly gunzTarPerm extractEntry vendor/unrar/suballoc.cpp
+534 silly gunzTarPerm extractEntry vendor/unrar/suballoc.hpp
+535 silly gunzTarPerm extractEntry vendor/unrar/system.cpp
+536 silly gunzTarPerm extractEntry vendor/unrar/system.hpp
+537 silly gunzTarPerm extractEntry vendor/unrar/threadmisc.cpp
+538 silly gunzTarPerm extractEntry vendor/unrar/threadpool.cpp
+539 silly gunzTarPerm extractEntry vendor/unrar/threadpool.hpp
+540 silly gunzTarPerm extractEntry vendor/unrar/timefn.cpp
+541 silly gunzTarPerm extractEntry vendor/unrar/timefn.hpp
+542 silly gunzTarPerm extractEntry vendor/unrar/ui.cpp
+543 silly gunzTarPerm extractEntry vendor/unrar/ui.hpp
+544 silly gunzTarPerm extractEntry vendor/unrar/uicommon.cpp
+545 silly gunzTarPerm extractEntry vendor/unrar/uiconsole.cpp
+546 silly gunzTarPerm extractEntry vendor/unrar/uisilent.cpp
+547 silly gunzTarPerm extractEntry vendor/unrar/ulinks.cpp
+548 silly gunzTarPerm extractEntry vendor/unrar/ulinks.hpp
+549 silly gunzTarPerm extractEntry vendor/unrar/unicode.cpp
+550 silly gunzTarPerm extractEntry vendor/unrar/unicode.hpp
+551 silly gunzTarPerm extractEntry vendor/unrar/unpack.cpp
+552 silly gunzTarPerm extractEntry vendor/unrar/unpack.hpp
+553 silly gunzTarPerm extractEntry vendor/unrar/unpack15.cpp
+554 silly gunzTarPerm extractEntry vendor/unrar/unpack20.cpp
+555 silly gunzTarPerm extractEntry vendor/unrar/unpack30.cpp
+556 silly gunzTarPerm extractEntry vendor/unrar/unpack50.cpp
+557 silly gunzTarPerm extractEntry vendor/unrar/unpack50frag.cpp
+558 silly gunzTarPerm extractEntry vendor/unrar/unpack50mt.cpp
+559 silly gunzTarPerm extractEntry vendor/unrar/unpackinline.cpp
+560 silly gunzTarPerm extractEntry vendor/unrar/unrar.gyp
+561 silly gunzTarPerm extractEntry vendor/unrar/uowners.cpp
+562 silly gunzTarPerm extractEntry vendor/unrar/version.hpp
+563 silly gunzTarPerm extractEntry vendor/unrar/volume.cpp
+564 silly gunzTarPerm extractEntry vendor/unrar/volume.hpp
+565 silly gunzTarPerm extractEntry vendor/unrar/win32acl.cpp
+566 silly gunzTarPerm extractEntry vendor/unrar/win32lnk.cpp
+567 silly gunzTarPerm extractEntry vendor/unrar/win32stm.cpp
+568 silly gunzTarPerm extractEntry example/example.js
+569 silly gunzTarPerm extractEntry .jshintrc
+570 silly gunzTarPerm extractEntry lib/rar.js
+571 silly gunzTarPerm extractEntry unrardll.txt
+572 silly gunzTarPerm extractEntry .travis.yml
+573 silly gunzTarPerm extractEntry src/binding.cc
+574 silly gunzTarPerm extractEntry technote.md
+575 silly gunzTarPerm extractEntry technote.txt
+576 silly gunzTarPerm extractEntry test/test.js
+577 silly gunzTarPerm extractEntry test/build/config.gypi
+578 silly gunzTarPerm extractEntry test/fixtures/multi.part1.rar
+579 silly gunzTarPerm extractEntry test/fixtures/4mb.rar
+580 silly gunzTarPerm extractEntry test/fixtures/corrupted.rar
+581 silly gunzTarPerm extractEntry test/fixtures/directories.rar
+582 silly gunzTarPerm extractEntry test/fixtures/dirlink_unix.rar
+583 silly gunzTarPerm extractEntry test/fixtures/dirs_and_extra_headers.rar
+584 silly gunzTarPerm extractEntry test/fixtures/empty_file.rar
+585 silly gunzTarPerm extractEntry test/fixtures/encrypted_headers.rar
+586 silly gunzTarPerm extractEntry test/fixtures/encrypted_only_files.rar
+587 silly gunzTarPerm extractEntry test/fixtures/fixtures.md
+588 silly gunzTarPerm extractEntry test/fixtures/garbage.part03.rar
+589 silly gunzTarPerm extractEntry test/fixtures/latest_winrar.rar
+590 silly gunzTarPerm extractEntry test/fixtures/linux_rar.rar
+591 silly gunzTarPerm extractEntry test/fixtures/commented.rar
+592 silly gunzTarPerm extractEntry test/fixtures/multi.part2.rar
+593 silly gunzTarPerm extractEntry test/fixtures/multi.part3.rar
+594 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad/node_modules is being purged
+595 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad/node_modules
+596 silly gunzTarPerm extractEntry test/fixtures/multi_broken.part1.rar
+597 silly gunzTarPerm extractEntry test/fixtures/rar_notrar.rar
+598 silly gunzTarPerm extractEntry test/fixtures/rar_unicode.rar
+599 silly gunzTarPerm extractEntry test/fixtures/repeated_name.rar
+600 silly gunzTarPerm extractEntry test/fixtures/secret-crypted-none.rar
+601 silly gunzTarPerm extractEntry test/fixtures/secret-none.rar
+602 silly gunzTarPerm extractEntry test/fixtures/solid.rar
+603 silly gunzTarPerm extractEntry test/fixtures/sparsefiles_rar.rar
+604 silly gunzTarPerm extractEntry test/fixtures/store_method.rar
+605 silly gunzTarPerm extractEntry test/fixtures/我爱你.rar
+606 silly gunzTarPerm extractEntry extflow.txt
+607 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c/node_modules is being purged
+608 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c/node_modules
+609 silly doParallel preinstall 3
+610 silly preinstall bindings@1.2.1 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5
+611 info lifecycle bindings@1.2.1~preinstall: bindings@1.2.1
+612 silly preinstall nan@1.9.0 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad
+613 info lifecycle nan@1.9.0~preinstall: nan@1.9.0
+614 silly preinstall node-rar@0.0.2 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c
+615 info lifecycle node-rar@0.0.2~preinstall: node-rar@0.0.2
+616 silly lifecycle bindings@1.2.1~preinstall: no script for preinstall, continuing
+617 silly lifecycle nan@1.9.0~preinstall: no script for preinstall, continuing
+618 silly lifecycle node-rar@0.0.2~preinstall: no script for preinstall, continuing
+619 silly doReverseSerial remove 0
+620 silly doSerial move 0
+621 silly doSerial finalize 3
+622 silly finalize /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/bindings
+623 silly finalize /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/nan
+624 silly finalize /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/node-rar
+625 silly doSerial build 3
+626 silly build bindings@1.2.1
+627 info linkStuff bindings@1.2.1
+628 silly linkStuff bindings@1.2.1 has /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules as its parent node_modules
+629 verbose linkBins bindings@1.2.1
+630 verbose linkMans bindings@1.2.1
+631 silly build nan@1.9.0
+632 info linkStuff nan@1.9.0
+633 silly linkStuff nan@1.9.0 has /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules as its parent node_modules
+634 verbose linkBins nan@1.9.0
+635 verbose linkMans nan@1.9.0
+636 silly build node-rar@0.0.2
+637 info linkStuff node-rar@0.0.2
+638 silly linkStuff node-rar@0.0.2 has /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules as its parent node_modules
+639 warn prefer global node-rar@0.0.2 should be installed with -g
+640 verbose linkBins node-rar@0.0.2
+641 verbose link bins [ { 'node-rar': 'cli.js' },
+641 verbose link bins   '/root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.bin',
+641 verbose link bins   false ]
+642 verbose linkMans node-rar@0.0.2
+643 silly gentlyRm /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.bin/node-rar is being purged
+644 verbose gentlyRm don't care about contents; nuking /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.bin/node-rar
+645 silly doSerial global-link 0
+646 silly doParallel update-linked 0
+647 silly doSerial install 3
+648 silly install bindings@1.2.1 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/bindings-68db23d5
+649 info lifecycle bindings@1.2.1~install: bindings@1.2.1
+650 silly lifecycle bindings@1.2.1~install: no script for install, continuing
+651 silly install nan@1.9.0 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/nan-3253a4ad
+652 info lifecycle nan@1.9.0~install: nan@1.9.0
+653 silly lifecycle nan@1.9.0~install: no script for install, continuing
+654 silly install node-rar@0.0.2 /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging/node-rar-81c7d21c
+655 info lifecycle node-rar@0.0.2~install: node-rar@0.0.2
+656 verbose lifecycle node-rar@0.0.2~install: unsafe-perm in lifecycle false
+657 verbose lifecycle node-rar@0.0.2~install: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/node-rar/node_modules/.bin:/root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+658 verbose lifecycle node-rar@0.0.2~install: CWD: /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/node-rar
+659 silly lifecycle node-rar@0.0.2~install: Args: [ '-c', 'node-gyp rebuild' ]
+660 silly lifecycle node-rar@0.0.2~install: Returned: code: 1  signal: null
+661 info lifecycle node-rar@0.0.2~install: Failed to exec install script
+662 verbose unlock done using /root/.npm/_locks/staging-94ae6fe31a8c2fd5.lock for /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar/node_modules/.staging
+663 silly rollbackFailedOptional Starting
+664 silly rollbackFailedOptional Finishing
+665 silly runTopLevelLifecycles Starting
+666 silly runTopLevelLifecycles Finishing
+667 silly install printInstalled
+668 warn rar@1.0.0 No description
+669 warn rar@1.0.0 No repository field.
+670 verbose stack Error: node-rar@0.0.2 install: `node-gyp rebuild`
+670 verbose stack Exit status 1
+670 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:245:16)
+670 verbose stack     at EventEmitter.emit (events.js:98:17)
+670 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+670 verbose stack     at ChildProcess.emit (events.js:98:17)
+670 verbose stack     at maybeClose (child_process.js:756:16)
+670 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:823:5)
+671 verbose pkgid node-rar@0.0.2
+672 verbose cwd /root/develop/alphago/alphaGo-nodejs/tools/decompress/rar
+673 error Linux 3.10.0-123.9.3.el7.x86_64
+674 error argv "node" "/usr/local/bin/npm" "install" "node-rar"
+675 error node v0.10.33
+676 error npm  v3.9.5
+677 error code ELIFECYCLE
+678 error node-rar@0.0.2 install: `node-gyp rebuild`
+678 error Exit status 1
+679 error Failed at the node-rar@0.0.2 install script 'node-gyp rebuild'.
+679 error Make sure you have the latest version of node.js and npm installed.
+679 error If you do, this is most likely a problem with the node-rar package,
+679 error not with npm itself.
+679 error Tell the author that this fails on your system:
+679 error     node-gyp rebuild
+679 error You can get information on how to open an issue for this project with:
+679 error     npm bugs node-rar
+679 error Or if that isn't available, you can get their info via:
+679 error     npm owner ls node-rar
+679 error There is likely additional logging output above.
+680 verbose exit [ 1, true ]

@@ -1,0 +1,1768 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="aac46fd485614b4284e517cad3cfc1ae">
+
+<title>
+
+
+有哪些第一遍就让你单曲循环的音乐？ - 流行音乐 - 知乎
+
+
+</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://questions/34863117">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/34863117">
+<meta id="znonce" name="znonce" content="be1fa118aa0c40ce8aecfb91ab17604f">
+
+
+
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.2c642cb2.css">
+
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="http://static.zhihu.com/static/revved/-/js/instant.e7a17de6.js"></script>
+
+
+
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-redirect-info" style="display:none"></div>
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-notification-summary" style="display:none;">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<span class="zu-global-notify-icon"></span>
+<ul class="zu-question-notify-wrap">
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="zg-wrap zu-main clearfix with-indention-votebar" itemscope itemtype="http://schema.org/Question" id="zh-single-question-page" data-urltoken="34863117" role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+<meta itemprop="isTopQuestion" content="false" />
+<meta itemprop="visitsCount" content="603618" />
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550453"
+data-tip="t$b$19550453" data-token="19550453" data-topicid="75">
+音乐
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556347"
+data-tip="t$b$19556347" data-token="19556347" data-topicid="2027">
+音乐人
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561180"
+data-tip="t$b$19561180" data-token="19561180" data-topicid="3662">
+流行音乐
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19581780"
+data-tip="t$b$19581780" data-token="19581780" data-topicid="10504">
+单曲循环
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+<h2 class="zm-item-title">
+
+<span class="zm-editable-content">有哪些第一遍就让你单曲循环的音乐？</span>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="6151772" data-action="/question/detail">
+
+<div class="zm-editable-content"></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>19 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+
+
+<div class="zh-answers-title clearfix">
+
+<div id="zh-answers-filter" class="Sorter">
+
+<span class="lbl">按投票排序</span>
+<a class="lbl" href="/question/34863117?sort=created">按时间排序</a>
+
+<i class="zg-icon zg-icon-double-arrow"></i>
+</div>
+
+<h3 data-num="986" id="zh-question-answer-num">986 个回答</h3>
+</div>
+
+<div id="zh-question-answer-wrap" data-pagesize="10" class="zh-question-answer-wrapper" data-widget="navigable" data-navigable-options="{&quot;items&quot;: &quot;&gt;.zm-item-answer&quot;}" data-init="{&quot;params&quot;: {&quot;url_token&quot;: 34863117, &quot;pagesize&quot;: 10, &quot;offset&quot;: 0}, &quot;nodename&quot;: &quot;QuestionAnswerListV2&quot;}">
+
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemprop="topAnswer"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19727748"
+data-atoken="60790234"
+data-collapsed="0"
+data-created="1440507667"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60790234">
+<meta itemprop="answer-id" content="19727748">
+<meta itemprop="answer-url-token" content="60790234">
+<a class="zg-anchor-hidden" name="answer-19727748"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">616</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/liang-xiao7" target="_blank" data-tip="p$t$liang-xiao7"
+
+><img src="https://pic4.zhimg.com/9c5ab4f67a76c287aec09bade9172627_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$liang-xiao7"
+target="_blank" href="/people/liang-xiao7"
+>梁萧</a>
+
+
+<span title="但凡未得到，但凡是过去，总是最登对。" class="bio">，但凡未得到，但凡是过去，总是最登对。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="616">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">616</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="梁萧" data-entry-url="/question/34863117/answer/60790234">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+我发现好多答案都是英文歌，母语是粤语，所以推荐粤语多一些，当然后面还有国语英语日语。加粗是我强力推荐的歌，而推荐的歌手有些歌已经很出名，就不特地列出来了。每一首我听了都会单曲循环一阵子！<b>（</b><b>不定时更新）</b>--------------------------------------…
+
+<a href="/question/34863117/answer/60790234" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+我发现好多答案都是英文歌，母语是粤语，所以推荐粤语多一些，当然后面还有国语英语日语。<br>加粗是我强力推荐的歌，而推荐的歌手有些歌已经很出名，就不特地列出来了。<br>每一首我听了都会单曲循环一阵子！<br><b>（</b><b>不定时更新）</b><br>--------------------------------------------------------------------------------------------------------------------------------------------<br><b>特别提醒</b>：我主要是想推荐一些比较冷门的好听歌，某些歌手比较出名的我就不特地推荐了，因为大家搜这个歌手时排名前面的歌曲一般就是。<br>陈奕迅，杨千嬅和李健是我最爱的歌手，喜欢的歌很多列出来就太长了，所以把歌单地址放了出来，大家点进去就能看到。<br>还有你们没发现喜欢的歌手不要急...我的歌单很长，一时间不能全都放上来，慢慢更。<br> ʃ ̂͜•̄ ̱̩̩̩̂ ̄͜►<b>最后.....觉得好听，收藏了，真的不点个赞鼓励一下答主嘛！！</b><br>-------------------------------------------------------------------------------------------------------------------------------------------<br>最喜欢的两个歌手是陈奕迅和李健，列出来太长，就放几个自己的歌单吧~<br><b>陈奕迅</b>：<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D89954725" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br><b>李健</b>：<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D92225342" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br><br>8.30更，最爱的女歌手<b>杨千嬅</b>小姐， 再加一个她的歌单：<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D89915499" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br>加一个健身时听的歌单：<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D68051132" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br><br>（9.1更新）<b>2010DUO演唱会，个人认为Eason最经典的演唱会，嗓子沙哑，把很多歌唱出了新味道，我经常循环着听：</b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D46085457" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>杨千嬅-<b>知更</b>，自由行，<b>一个人的童话</b>，捞月亮的人，最好的债，炼金术<br>（之前听知更听了一个多月，听到宿舍的人都要吐了，但是歌词写得真心好，配上她的声音，让我无法自拔。）<br>古巨基-<b>心跳回忆</b>，爱神，必杀技，重复犯错，花洒，<b>没有脚的小鸟</b>，还是好朋友，<b>Shirley</b><br>麦浚龙-<b>罗生门</b>，<b>念念不忘</b>，弱水三千，彳亍，吃鲸鱼的人<br>王菲-暗涌，如风，新房客，<b>花事了，邮差，</b><b>开到荼蘼</b><br>张敬轩-<b>尘埃落定</b>，不吐不快，过云雨，春秋，<b>假如让你吻下去(Live),</b>灵魂相认,Stop The Time<br>谢安琪-喜帖街，独家村，两生关，<b>沧海遗珠</b>，祝英台，雨过天阴<br>林峰：爱在记忆中找你，<b>幼稚完</b>，双子龙，浮生若水<br>周柏豪-<b>走狗</b>，够钟，还记得，六天，同天空<br>冯允谦-<b>讲多无谓</b>，年月匆匆，世界剧团<br>C AllStar-<b>天梯</b>，薄情歌<br>莫文蔚-<b>未了情</b>，<b>北极光</b>，色情男女，如果没有你，忽然之间，电台情歌，广岛之恋，阴天<br>谭咏麟-爱在深秋，一生中最爱，再见亦是泪<br>陈小春-犯贱<b>，</b>献世<b>，</b>相依为命<br>陈柏宇-<b>逸后</b>，你瞒我瞒<br>李克勤-<b>纸牌屋，</b>合久必婚，爱不释手，一生不变<br>张智霖-你太善良，恋上外星人<br>卫兰-就算世界无童话，Never let you go<br>黎明-情深说话未曾讲，两个人的烟火<br>关淑怡-<b>地尽头</b>，深夜港湾<br>许廷铿-面具<br>彭羚-<b>夜风铃</b>，你未讲过，让我跟你走<br>张国荣-<b>这些年来，</b>最冷一天，左右手（国语版：全世界我只想你来爱我），心跳呼吸正常<br>卢巧音-垃圾，三角志，落地生花，逆插玫瑰，哲学家，天演论<br>容祖儿-<b>破相（concert YY版）</b>，心淡，烟霞，<b>争气，</b>墙纸<br>苏永康-<b>那谁</b>，越吻越伤心，老死<br>Shine-燕尾蝶<br>何韵诗-<b>木纹，痴情司</b><br>薛凯琪-慕容雪，南瓜车，所有下雨天，<b>冷笑话</b>，奇洛李维斯回信（真的回信了）<br>许志安-情人甲，<b>昨迟人</b>（强烈推荐）<br>王菀之-画意，爱与奇异果<br>洪卓立-<b>弥敦道</b>，回到最爱的那天，<b>一夜城</b><br>吴若希-越难越爱，眼泪的秘密<br>连诗雅-I'm Still Loving You，说一句<br>陈慧琳-谁愿放手<br>余文乐-还你门匙<br>刘浩龙-<b>思觉失调</b>，火花不等人<br>黄耀明-小王子，<b>漩涡，我这么容易爱人</b><br>官恩娜-千帆，恋上航空，地平线（人称海陆空三部曲）<br>郑中基-<b>爱是最大权利</b><br>张学友-<b>她来听我的演唱会，相爱很难，</b><b>李</b><b>香兰，眼泪，黑白画映，每天爱你多一些</b><br><br><br>要特别推荐的是陈奕迅的《阿牛》，整首歌可以说句句高潮，贴一段网易云网友的评论：<br><b>如果有一天我结婚了 你一定要来当我的伴郎 因为总算我们一起踏上了红毯 后来阿我又想 来参加我的婚礼吧 砸了我的场子吧 来抢我吧 我一定会跟你走的 最后我又想 你还是别来参加我的婚礼了 因为我怕在婚礼上看见你 你什么都没做 我却想跟你走 一直没告诉你 其实我才是牛</b><br><br>以下是非粤语系<br>李剑青-<b>匆匆</b>（老李的词，平淡直白又直击人心，不循环你来打答主！！）<br>卡奇社-<b>日光倾城</b>，云<br>谭维维-如果有来生<br>王啸坤-<b>北京下雨了</b>，两湾城，征程<br>金玟岐-<b>岁月神偷</b>，爱呀<br>老狼-恋恋风尘<br>叶蓓-白衣飘飘的年代，B小调雨后<br>姚贝娜-御龙吟<br>杜德伟-情人，嫁给我（将来的求婚歌曲我会告诉你？当然首先...）<br>古剑奇谭同人原创-<b>咫尺相思 </b><br>王力宏-<b>星期六的深夜</b>，你不在，依然爱你，一首简单的歌，花田错，你不知道的事<br>蔡健雅-被驯服的象，<b>陌生人</b><br>毅光年-<b>怎样</b>（原唱是戴佩妮，但是我更喜欢这个版本）<br>罗志祥-好朋友<b>，</b><b>自我催眠</b>（罗志祥最好听的一首竟然是周董作的曲...）<br>元卫觉醒-<b>夏天的风</b>，分手礼<br>光良-天堂<br>苏打绿-<b>你被写在我的歌里</b><br>刘若英-<b>亲爱的路人，听说<br></b>旅行团-<b>生命是场马拉松</b>，厦门之夏<br>袁娅维-旅行中忘记，卑鄙<br>梁咏琪-原来爱情这么伤<br>陈升-<b>牡丹亭外</b>，不再让你孤单<br>庄心妍-一直想着他<br>杨宗纬-人质<br>汪峰-美丽世界的孤儿<br>水木年华-<b>中学时代</b>，轻舞飞扬<br>朴树-且听风吟，我爱你再见，傻子才悲伤，<b>开往冬天的火车</b><br>丁浩然-长岛的雪<br>韦礼安-<b>有没有</b><br>陈明-那个人<br>陈绮贞-鱼，还是会寂寞<br>钟立风-<b>麦田上的乌鸦</b>，在路旁<br>筠子-<b>立秋</b><br>迪克牛仔-：没有爱的人都一个样<br>HITA-采薇<br><br><br>Keane-<b>Somewhere Only We Know</b>（好听，好听，好听，强调三次。）<br>Mr.BIG-<b>Wild World,To Be With You<br></b><br>Masetti-<b>Our Own Heaven</b><br>Santana-While My Guitar Gently Weeps<br>Justin Timberlake-Five Hundred Miles，Where Is The Love?<br>The Script-If You Could See Me Now<b>,</b>Superheroes<b>,</b>Hall of Fame<br>Amy Winehouse-You Know I'm No Good，<b>Valerie</b>(推荐看MV，蛮好看的)<br>Ed Sheeran-Photograph<br>Michael Bublé-Home<br>Howard Shore-<b>The last goodbye</b><br>Hozier-Like Real People Do<br>Leonard Cohen-<b>In My Secret Life</b><br>Galen Crew-<b>Sleepyhead</b><br>Loudness-So Lonely，Soldier of Fortune<br>Hozier-Take Me To Church<br>John Legend-All of me<br>Radiohead-<b>Fake Plastic Trees，A Wolf At The Door，No Surprises</b><br>Westlife-<b>The Rose</b>，<b>Angel，</b><b>Desperado</b><br>James Blunt-<b>1973</b><br>Jason Mraz-Lucky，<b>Try Try Try</b><br>DMX-<b>X Gon' Give It to Ya</b>（这首必须听没有消音的...）<br>The Offspring-<b>You're Gonna Go Far, Kid </b>(同上)<br>Suede-<b>Beautiful Ones</b>（我的手机铃声...前奏一出全场瞩目，然而大部分时间是不会响的...）Eagles-Take It Easy（老鹰的歌都被一首加州旅馆给盖过去了，其实还有很多好歌。）<br><br>徳永英明-<b>恋におちて-Fall in Love-</b>，駅，First Love，なごり雪  <br>（徳永英明的声音太有特色了，还有很多好听的！推荐他这张专辑<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D95083901" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a>）<br>桑田佳祐-<b>明日晴れるかな</b>，真夏の果实<br>伊藤由奈-<b>T</b><b>rust you</b><br>YUI-<b>Again</b><br>Lil'B-<b>つないだ手</b>(最爱的钢炼曲)<br>NICO Touches the Walls-<b>ホログラム</b><br>福原美穂-Let It Out(这首有中文版，云の泣所唱，非常赞）<br>山崎まさよし-<b>One more time, One more chance，</b>花火<br>吉川慶-Rising Road ~メインテーマ~<br>MONGOL800-<b>小さな恋のうた</b>（新垣结衣也唱过，但是看过求婚大作战的朋友，一定会觉得这个版本是最适合的...）<br><br><br><b>欢迎关注我的网易云~ID是：Lx螃蟹甲</b>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19727748-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-25" target="_blank" href="/question/34863117/answer/60790234">编辑于 2016-01-26</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>198 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19508554"
+data-atoken="60245033"
+data-collapsed="0"
+data-created="1440163708"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60245033">
+<meta itemprop="answer-id" content="19508554">
+<meta itemprop="answer-url-token" content="60245033">
+<a class="zg-anchor-hidden" name="answer-19508554"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">109</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lu-shan-shi" target="_blank" data-tip="p$t$lu-shan-shi"
+
+><img src="https://pic4.zhimg.com/3b2a3ce31f47cf713d4d42c335c29d7f_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lu-shan-shi"
+target="_blank" href="/people/lu-shan-shi"
+>吕山石</a>
+
+
+<span title="跳脱混乱的哲学学徒" class="bio">，跳脱混乱的哲学学徒</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="109">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">109</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="吕山石" data-entry-url="/question/34863117/answer/60245033">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+无头的op1《裏切りの夕焼け》开头的「咚咚咚咚 咚咚咚咚」就让我觉得「我擦这歌有点不妙！」后面唱起来的时候简直洋溢着池袋的都市风。配上op动画更配喔。
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+无头的op1《裏切りの夕焼け》<br>开头的「咚咚咚咚   咚咚咚咚」就让我觉得「我擦这歌有点不妙！」<br>后面唱起来的时候简直洋溢着池袋的都市风。<br>配上op动画更配喔。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19508554-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/60245033">发布于 2015-08-21</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>30 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19486187"
+data-atoken="60189222"
+data-collapsed="0"
+data-created="1440138649"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60189222">
+<meta itemprop="answer-id" content="19486187">
+<meta itemprop="answer-url-token" content="60189222">
+<a class="zg-anchor-hidden" name="answer-19486187"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">3885</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/remusrick" target="_blank" data-tip="p$t$remusrick"
+
+><img src="https://pic1.zhimg.com/91fe008bf4b5b73d152449a9fbd34600_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$remusrick"
+target="_blank" href="/people/remusrick"
+>雷基喵</a>
+
+
+<span title="High Hopes" class="bio">，High Hopes</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="3885">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">3885</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="雷基喵" data-entry-url="/question/34863117/answer/60189222">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+<img src="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_200x112.png" data-rawwidth="647" data-rawheight="596" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_r.png">
+2016.1.11.20:44David Bowie,R.I.P.表示我已哭瞎.谢@<a href="http://www.zhihu.com/people/biao-26" class="internal">biao</a> 邀..~<b>先贴虾米精选集地址，于9.11整理</b><b><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/collect/115385772%3Fsuccess%3D2" class=" wrap external" target="_blank" rel="nofollow noreferrer">这个答案的虾米精选集<i class="icon-external"></i></a>《《《精选集戳我！！</b><i>（喂喂喂，你们别光收藏/感谢不点赞呀！收藏一直是赞的两倍呀！ 0wo我的意思就是说，喜欢的话就顺便点个赞啦！谢谢大…</i>
+
+<a href="/question/34863117/answer/60189222" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+2016.1.11.20:44<br>David Bowie,R.I.P.<br>表示我已哭瞎.<br><br><br>谢@<a href="http://www.zhihu.com/people/biao-26" class="internal">biao</a> 邀..~<br><br><b>先贴虾米精选集地址，于9.11整理</b><br><b><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/collect/115385772%3Fsuccess%3D2" class=" wrap external" target="_blank" rel="nofollow noreferrer">这个答案的虾米精选集<i class="icon-external"></i></a>《《《精选集戳我！！</b><br><br><br><i>（喂喂喂，你们别光收藏/感谢不点赞呀！收藏一直是赞的两倍呀！ 0wo<br>我的意思就是说，喜欢的话就顺便点个赞啦！谢谢大家的支持！！！我已经很开心了~）</i><br>会一直更新的！XD<br><br><b>【声明1：我个人比较喜欢听欧美的歌曲（当然也不排除优秀的中文歌），还有就是我喜欢听现场版的录音歌曲。各位朋友如果发现了我推荐的现场版歌曲，非常喜欢歌曲本身但是又不喜欢听现场版那直接在音乐网站搜原曲就好啦~】</b><br><br><b>【声明2：这里的歌也许不是听一遍就循环的（咋可能有那么多听一遍就循环的歌，但是我保证都是我个人非常喜欢的歌曲啦！）如果你硬是觉得不对题要点没有帮助那也是可以的呀答主我不会介意的！】</b><br><br><br><b>【声明3：这里的歌也许是逼格不足的，但是我们在这里不要比不比各的好不好！！要逼格去看我的专栏吧！】</b><br><br>呃，这个问题叫我来回答的话，让我写十篇可能都写不完呢。。<br>那我就说说一些印象比较深刻的吧~<br><b>好惊讶收到这么多赞，谢谢大家的支持！！</b><br><br><b>接下来进入正题（第一部分）强烈推荐的我会加粗~</b><br><b>我在这里的宗旨是 好听就好听，哪来那么多逼格</b><br><br>1.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2276189" class=" wrap external" target="_blank" rel="nofollow noreferrer">White Lips Kissed<i class="icon-external"></i></a> - mew（喜欢配器配乐）<br>2.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2276190" class=" wrap external" target="_blank" rel="nofollow noreferrer">Louise Louisa<i class="icon-external"></i></a> - mew（写答案的时候正在播放）<br>3.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1122169" class=" wrap external" target="_blank" rel="nofollow noreferrer">Jealous Guy<i class="icon-external"></i></a> - John Lennon<br><b>4.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1768993657" class=" wrap external" target="_blank" rel="nofollow noreferrer">Fireflies<i class="icon-external"></i></a> - owl city（旋律欲罢不能）</b><br>5.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/3620735" class=" wrap external" target="_blank" rel="nofollow noreferrer">She Came Home For Christmas<i class="icon-external"></i></a> - mew<br><b>7.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/3443487" class=" wrap external" target="_blank" rel="nofollow noreferrer">If You Leave Me Now<i class="icon-external"></i></a> - Chicago（从GTAV入坑，玩了游戏更有感觉）</b><br>8.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769863609" class=" wrap external" target="_blank" rel="nofollow noreferrer">秦皇岛<i class="icon-external"></i></a> - 万能青年旅店<br>9.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774304652" class=" wrap external" target="_blank" rel="nofollow noreferrer">This isn't the End<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/33821" target="_blank" rel="nofollow noreferrer">Owl City<i class="icon-external"></i></a><br>10.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770592506" class=" wrap external" target="_blank" rel="nofollow noreferrer">When The Tiger Broke Free<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10426" target="_blank" rel="nofollow noreferrer">Pink Floyd<i class="icon-external"></i></a>（喜欢这首歌的磅礴）<br>11.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1073345%3Fspm%3Da1z1s.6928797.1561534521.146.WAdHhd" class=" wrap external" target="_blank" rel="nofollow noreferrer">Bohemian Rhapsody<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10450%3Fspm%3Da1z1s.6928797.1561534521.147.WAdHhd" target="_blank" rel="nofollow noreferrer">Queen<i class="icon-external"></i></a><br>12.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771570999%3Fspm%3Da1z1s.6928797.1561534521.293.WAdHhd" class=" wrap external" target="_blank" rel="nofollow noreferrer">海韵 (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1483%3Fspm%3Da1z1s.6928797.1561534521.295.WAdHhd" target="_blank" rel="nofollow noreferrer">邓丽君<i class="icon-external"></i></a>（唱功太好了）<br>13.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770943800" class=" wrap external" target="_blank" rel="nofollow noreferrer">Lighthouse<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/43312" class=" wrap external" target="_blank" rel="nofollow noreferrer">Patrick Watson<i class="icon-external"></i></a>（被震撼到了，下一首同）<br>14.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770943809" class=" wrap external" target="_blank" rel="nofollow noreferrer">Noisy Sunday<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/43312" class=" wrap external" target="_blank" rel="nofollow noreferrer">Patrick Watson<i class="icon-external"></i></a><br><b>15.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2070921" class=" wrap external" target="_blank" rel="nofollow noreferrer">White Flag (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/13715" target="_blank" rel="nofollow noreferrer">Dido<i class="icon-external"></i></a>（Dido女神）</b><br>16.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770283819" class=" wrap external" target="_blank" rel="nofollow noreferrer">Living Mice<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/91434" target="_blank" rel="nofollow noreferrer">C418<i class="icon-external"></i></a>（玩了minecraft入坑）<br><br>2015 8 27更新<br>17.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1772061198" class=" wrap external" target="_blank" rel="nofollow noreferrer">北京北京 (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/887" target="_blank" rel="nofollow noreferrer">汪峰<i class="icon-external"></i></a>（我知道有人会吐槽但是现场演奏的确实不错啊）<br>18.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773920189%3Fspm%3Da1z1s.6928797.1561534521.172.ud1hP8" class=" wrap external" target="_blank" rel="nofollow noreferrer">存在 (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/887%3Fspm%3Da1z1s.6928797.1561534521.173.ud1hP8" target="_blank" rel="nofollow noreferrer">汪峰<i class="icon-external"></i></a>（就因为这首歌我就想去看汪峰的演唱会了，<b>咱在这不说音乐人的私生活，只谈音乐就好）</b><br>19.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769273172%3Fspm%3Da1z1s.6928797.1561534521.318.ud1hP8" class=" wrap external" target="_blank" rel="nofollow noreferrer">The End Of The World<i class="icon-external"></i></a>（从后会无期了解到，听一遍就迷上旋律了）<br>20.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773607829" class=" wrap external" target="_blank" rel="nofollow noreferrer">Real Love<i class="icon-external"></i></a>（好听，没啥理由）<br>21.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1772495177" class=" wrap external" target="_blank" rel="nofollow noreferrer">La La La<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DSam%2BSmith" target="_blank" rel="nofollow noreferrer">Sam Smith<i class="icon-external"></i></a><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DNaughty%2BBoy" target="_blank" rel="nofollow noreferrer">Naughty Boy<i class="icon-external"></i></a>（还是旋律）<br>22.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2122049" class=" wrap external" target="_blank" rel="nofollow noreferrer">Another Day In Paradise <i class="icon-external"></i></a>- <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10111" target="_blank" rel="nofollow noreferrer">Phil Collins<i class="icon-external"></i></a>（鼓手做的音乐鼓点就是不一样~）<br>23.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774306737" class=" wrap external" target="_blank" rel="nofollow noreferrer">Coming Home<i class="icon-external"></i></a>（感谢苹果的广告让我认识到这么一首好歌）<br>24.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/376006%3Fspm%3Da1z1s.6928797.1561534521.114.Z70i3h" class=" wrap external" target="_blank" rel="nofollow noreferrer">七里香<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1260%3Fspm%3Da1z1s.6928797.1561534521.115.Z70i3h" target="_blank" rel="nofollow noreferrer">周杰伦<i class="icon-external"></i></a>（好听，挺有味道的）<br><b>25.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2081743" class=" wrap external" target="_blank" rel="nofollow noreferrer">A Day In The Life<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DThe%2BBeatles" target="_blank" rel="nofollow noreferrer">The Beatles<i class="icon-external"></i></a>（这首真的是回味无穷）</b><br>26.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770505214%3Fspm%3Da1z1s.6928797.1561534521.82.DMS4r5" class=" wrap external" target="_blank" rel="nofollow noreferrer">We Are Young<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fspm%3Da1z1s.6928797.1561534521.84.DMS4r5%26artist%3DFun." target="_blank" rel="nofollow noreferrer">Fun.<i class="icon-external"></i></a><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fspm%3Da1z1s.6928797.1561534521.85.DMS4r5%26artist%3DJanelle%2BMon%25C3%25A1e" target="_blank" rel="nofollow noreferrer">Janelle Monáe<i class="icon-external"></i></a>（很有活力)<br>27.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769354082" class=" wrap external" target="_blank" rel="nofollow noreferrer">Heroes (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10062" target="_blank" rel="nofollow noreferrer">David Bowie<i class="icon-external"></i></a>(鲍爷现场超好！有气势）<br><br>8.27暂时更到这里<br>8.30继续更新<br><br>28.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770642954" class=" wrap external" target="_blank" rel="nofollow noreferrer">La Vie En Rose <i class="icon-external"></i></a>- <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DLouis%2BArmstrong%2Bwith%2BSy%2BOliver%2526%2523039" target="_blank" rel="nofollow noreferrer">Louis Armstrong<i class="icon-external"></i></a>（经典呗）<br>29.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2139927" class=" wrap external" target="_blank" rel="nofollow noreferrer">Fever<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/24341" target="_blank" rel="nofollow noreferrer">Peggy Lee<i class="icon-external"></i></a>（有一段时间特别喜欢这种风格，现在也是）<br>30.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773115474" class=" wrap external" target="_blank" rel="nofollow noreferrer">Elastic Heart<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DSia" target="_blank" rel="nofollow noreferrer">Sia<i class="icon-external"></i></a>（sia的很多歌都特别喜欢）<br>31.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/74378" class=" wrap external" target="_blank" rel="nofollow noreferrer">捉迷藏 (Live)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1198" target="_blank" rel="nofollow noreferrer">张学友<i class="icon-external"></i></a>（前奏特别魔性，现场乐队超棒）<br>32.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774269547" class=" wrap external" target="_blank" rel="nofollow noreferrer">California Dreamin' <i class="icon-external"></i></a>- <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/53982" target="_blank" rel="nofollow noreferrer">Sia<i class="icon-external"></i></a>（好大气的一首歌！）<br><b>33.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1597566" class=" wrap external" target="_blank" rel="nofollow noreferrer">Kiss from a Rose<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/14845" target="_blank" rel="nofollow noreferrer">Seal<i class="icon-external"></i></a>（我了割草这首强烈推荐真的是循环了几年了啊！！！）</b><br>34.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773768681" class=" wrap external" target="_blank" rel="nofollow noreferrer">The Last Goodbye<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DBilly%2BBoyd" target="_blank" rel="nofollow noreferrer">Billy Boyd<i class="icon-external"></i></a>（在电影院听完了才走竟然听哭了。。）<br>35.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770760772" class=" wrap external" target="_blank" rel="nofollow noreferrer">Summertime Sadness<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/97628" target="_blank" rel="nofollow noreferrer">Lana Del Rey<i class="icon-external"></i></a>（很有个人风格）<br>36.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771827431" class=" wrap external" target="_blank" rel="nofollow noreferrer">Young &amp; Beautiful<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/97628" target="_blank" rel="nofollow noreferrer">Lana Del Rey<i class="icon-external"></i></a>（同上，也是看了电影才循环的）<br><br>8.30暂时更到这里~~感谢大家的支持。<br>9.2放假了来更新一些吧，多更一些中文歌吧~但是这些中文歌都是很经典的，大家也许都听过了。<br><br>37.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/376771%3Fspm%3Da1z1s.6928797.1561534521.2.9cfjT3" class=" wrap external" target="_blank" rel="nofollow noreferrer">花房姑娘<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/158%3Fspm%3Da1z1s.6928797.1561534521.4.9cfjT3" target="_blank" rel="nofollow noreferrer">崔健<i class="icon-external"></i></a>（哎呦这个经典啊）<br>38.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774191999" class=" wrap external" target="_blank" rel="nofollow noreferrer">默<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/2021" target="_blank" rel="nofollow noreferrer">那英<i class="icon-external"></i></a>（作词作曲还是比较优质的）<br>39.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770001646" class=" wrap external" target="_blank" rel="nofollow noreferrer">宁夏<i class="icon-external"></i></a> -  <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1836" target="_blank" rel="nofollow noreferrer">梁静茹<i class="icon-external"></i></a>（好听就行了）<br>40.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/8288" class=" wrap external" target="_blank" rel="nofollow noreferrer">新长征路上的摇滚<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/158%3Fspm%3Da1z1s.6928797.1561534521.4.9cfjT3" target="_blank" rel="nofollow noreferrer">崔健<i class="icon-external"></i></a>（蛤蛤很喜欢这种感觉啊！！）<br>41.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/63608" class=" wrap external" target="_blank" rel="nofollow noreferrer">旅行<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1046" class=" wrap external" target="_blank" rel="nofollow noreferrer">许巍<i class="icon-external"></i></a>（旅行回来听这首那感觉真的是..）<br>42.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770201852" class=" wrap external" target="_blank" rel="nofollow noreferrer">夜空中最亮的星<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/56333" class=" wrap external" target="_blank" rel="nofollow noreferrer">逃跑计划<i class="icon-external"></i></a>（歌词好，旋律好，你说洗脑不）<br><b>43.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774259887" class=" wrap external" target="_blank" rel="nofollow noreferrer">Are You OK<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/930708382" class=" wrap external" target="_blank" rel="nofollow noreferrer">雷军<i class="icon-external"></i></a>(.....我是真的被洗脑了QAQ)</b><br>44.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773698123" class=" wrap external" target="_blank" rel="nofollow noreferrer">大象<i class="icon-external"></i></a> - <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/7194" class=" wrap external" target="_blank" rel="nofollow noreferrer">李志<i class="icon-external"></i></a>（逼格有了= =）<br>（好吧我真的承认我听的中文歌太单一了0.0）<br>45.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1772001652" class=" wrap external" target="_blank" rel="nofollow noreferrer">Love Me Again<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1168689632" target="_blank" rel="nofollow noreferrer">John Newman<i class="icon-external"></i></a>（声音好听）<br>46.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2087270" class=" wrap external" target="_blank" rel="nofollow noreferrer">This Love<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/23519" target="_blank" rel="nofollow noreferrer">Maroon 5<i class="icon-external"></i></a><br>47.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/71613" class=" wrap external" target="_blank" rel="nofollow noreferrer">风继续吹<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/1166" target="_blank" rel="nofollow noreferrer">张国荣<i class="icon-external"></i></a>（这个不解释了好嘛）<br>48.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1003870" class=" wrap external" target="_blank" rel="nofollow noreferrer">Yesterday<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10029" target="_blank" rel="nofollow noreferrer">The Beatles<i class="icon-external"></i></a><br>49.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1003900" class=" wrap external" target="_blank" rel="nofollow noreferrer">Sgt. Pepper's Lonely Hearts Club Band<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10029" target="_blank" rel="nofollow noreferrer">The Beatles<i class="icon-external"></i></a><br>50.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1122123" class=" wrap external" target="_blank" rel="nofollow noreferrer">Love<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10312" target="_blank" rel="nofollow noreferrer">John Lennon<i class="icon-external"></i></a>（这首当时真的是循环好久）<br><br>9.2更新完毕，有时间再来更吧~<br>10.3来更！包括普通歌曲和原声！<br><br>60.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773753801" class=" wrap external" target="_blank" rel="nofollow noreferrer">The Nights<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DAvicii" target="_blank" rel="nofollow noreferrer">Avicii<i class="icon-external"></i></a><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DRas" target="_blank" rel="nofollow noreferrer">Ras<i class="icon-external"></i></a>（其实是很励志的歌词！）<br>61.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773593408%3Fspm%3Da1z1s.6928797.1561534521.19.29vEvZ" class=" wrap external" target="_blank" rel="nofollow noreferrer">The Days<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fspm%3Da1z1s.6928797.1561534521.21.29vEvZ%26artist%3DAvicii" target="_blank" rel="nofollow noreferrer">Avicii<i class="icon-external"></i></a><i><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fspm%3Da1z1s.6928797.1561534521.22.29vEvZ%26artist%3DRobbie%2BWilliams" target="_blank" rel="nofollow noreferrer">Robbie Williams<i class="icon-external"></i></a></i><br>62.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774616746" class=" wrap external" target="_blank" rel="nofollow noreferrer">24<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/97628" target="_blank" rel="nofollow noreferrer">Lana Del Rey<i class="icon-external"></i></a>（这个的喜好因人而异，不过我确实喜好这种曲风）<br><b>63.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1774514501" class=" wrap external" target="_blank" rel="nofollow noreferrer">Rattle That Lock<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/14528" target="_blank" rel="nofollow noreferrer">David Gilmour<i class="icon-external"></i></a>（老爷子的新歌也容我打一下广告被！）</b><br><b>64.</b><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/3602016" class=" wrap external" target="_blank" rel="nofollow noreferrer">In My Secret Life<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10109" target="_blank" rel="nofollow noreferrer">Leonard Cohen<i class="icon-external"></i></a><br>65.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1337625" class=" wrap external" target="_blank" rel="nofollow noreferrer">The Home Fire<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/10758" target="_blank" rel="nofollow noreferrer">Louis Armstrong<i class="icon-external"></i></a><br>66.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2139927" class=" wrap external" target="_blank" rel="nofollow noreferrer">Fever<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/24341" target="_blank" rel="nofollow noreferrer">Peggy Lee<i class="icon-external"></i></a><br>67.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1689248" class=" wrap external" target="_blank" rel="nofollow noreferrer">Smile<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/14528" target="_blank" rel="nofollow noreferrer">David Gilmour<i class="icon-external"></i></a><br><br>暂时这样吧，上学也没听多少歌。。顺便更新一点原声好了<br><br><br><b><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/collect/115385772%3Fsuccess%3D2" class=" wrap external" target="_blank" rel="nofollow noreferrer">这个答案的虾米精选集<i class="icon-external"></i></a>《《《精选集戳我！！</b><br><br><br><br><br><b>电影/游戏配乐/纯音乐（比较高能的那种）专区</b><br><b>1.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769578876" class=" wrap external" target="_blank" rel="nofollow noreferrer">Time <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546" class=" wrap external" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a></b><br>2.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769295337" class=" wrap external" target="_blank" rel="nofollow noreferrer">Discombobulate <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546" class=" wrap external" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><br>3.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770173673" class=" wrap external" target="_blank" rel="nofollow noreferrer">Fast Five <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/54404" class=" wrap external" target="_blank" rel="nofollow noreferrer">Brian Tyler<i class="icon-external"></i></a><br>4.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770045869" class=" wrap external" target="_blank" rel="nofollow noreferrer">Battle Los Angeles H... <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/54404" class=" wrap external" target="_blank" rel="nofollow noreferrer">Brian Tyler<i class="icon-external"></i></a><br>5.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771496280" class=" wrap external" target="_blank" rel="nofollow noreferrer">alling Into A Dream <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/54404" class=" wrap external" target="_blank" rel="nofollow noreferrer">Brian Tyler<i class="icon-external"></i></a><br>6.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769367650" class=" wrap external" target="_blank" rel="nofollow noreferrer">Best of Times <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/70772" class=" wrap external" target="_blank" rel="nofollow noreferrer">Kyle Gabler<i class="icon-external"></i></a><br>7.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771082448" class=" wrap external" target="_blank" rel="nofollow noreferrer">Rise <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546" class=" wrap external" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><br>8.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770305406" class=" wrap external" target="_blank" rel="nofollow noreferrer">Statues <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/52787" class=" wrap external" target="_blank" rel="nofollow noreferrer">Alexandre Desplat<i class="icon-external"></i></a><br>9.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/3643566" class=" wrap external" target="_blank" rel="nofollow noreferrer">S*!thole Theme <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/56750" class=" wrap external" target="_blank" rel="nofollow noreferrer">Charlie Clouser<i class="icon-external"></i></a><br><b>10.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770114032" class=" wrap external" target="_blank" rel="nofollow noreferrer">SOS New York <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DBorislav%2BSlavov" class=" wrap external" target="_blank" rel="nofollow noreferrer">Borislav Slavov<i class="icon-external"></i></a></b><br><b>11.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769517323" class=" wrap external" target="_blank" rel="nofollow noreferrer">The Prince of Persia <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/56403" class=" wrap external" target="_blank" rel="nofollow noreferrer">Harry Gregson-Williams<i class="icon-external"></i></a></b><br>12.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770098000" class=" wrap external" target="_blank" rel="nofollow noreferrer">Mind Heist <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/87476" class=" wrap external" target="_blank" rel="nofollow noreferrer">Zack Hemsey<i class="icon-external"></i></a><br>13.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1770324341%3Fspm%3Da1z1s.6626001.229054121.252.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Homecoming <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/92664%3Fspm%3Da1z1s.6626001.229054121.253.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Thomas Bergersen<i class="icon-external"></i></a><br>14.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1769205399%3Fspm%3Da1z1s.6626001.229054121.309.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Venice Rooftops <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/66973%3Fspm%3Da1z1s.6626001.229054121.310.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Jesper Kyd<i class="icon-external"></i></a><br>15.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1772188562%3Fspm%3Da1z1s.6626001.229054121.333.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Tiangong <i class="icon-external"></i></a>-- <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/279318510%3Fspm%3Da1z1s.6626001.229054121.334.SuPjtJ" class=" wrap external" target="_blank" rel="nofollow noreferrer">Steven Price<i class="icon-external"></i></a><br>16.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771082444" class=" wrap external" target="_blank" rel="nofollow noreferrer">Why Do We Fall?<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><br><br>10.3---------<br><br>17.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773503674%3Fspm%3Da1z1s.6928797.1561534521.238.TmC1jE" class=" wrap external" target="_blank" rel="nofollow noreferrer">約束<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/32319%3Fspm%3Da1z1s.6928797.1561534521.239.TmC1jE" target="_blank" rel="nofollow noreferrer">佐藤直紀<i class="icon-external"></i></a><br>18.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1773871443%3Fspm%3Da1z1s.6928797.1561534521.382.TmC1jE" class=" wrap external" target="_blank" rel="nofollow noreferrer">Day One (Original Demo)<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546%3Fspm%3Da1z1s.6928797.1561534521.383.TmC1jE" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><br>19.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/1771231002" class=" wrap external" target="_blank" rel="nofollow noreferrer">Why Do We Fall?<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/artist/35546" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><br>20.<a href="//link.zhihu.com/?target=http%3A//www.xiami.com/song/2564464" class=" wrap external" target="_blank" rel="nofollow noreferrer">I'm Not A Hero<i class="icon-external"></i></a> - <a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DHans%2BZimmer" target="_blank" rel="nofollow noreferrer">Hans Zimmer<i class="icon-external"></i></a><i><a class=" wrap external" href="//link.zhihu.com/?target=http%3A//www.xiami.com/search/find%3Fartist%3DJames%2BNewton%2BHoward" target="_blank" rel="nofollow noreferrer">James Newton Howard<i class="icon-external"></i></a></i><br><br>此部分没有精选集。。望大家谅解。有时间会整理出另一个精选集。<br><b>待续</b><br><br><br><br><b>题主不是我不想写了是真的写不完啊！！</b>................等等等等<br><br><b>2.彩蛋专辑 <a href="//link.zhihu.com/?target=http%3A//www.xiami.com/album/313731%3Fspm%3D0.0.0.0.Kmt7Jb" class=" wrap external" target="_blank" rel="nofollow noreferrer">P·u·l·s·e<i class="icon-external"></i></a> （喜欢流行不喜欢小yao众gun看第一部分就行了）</b><br>这张专辑一直是我循环的对象。。<br>这里我有一个数据你们可以看看（来自虾米）<br><noscript><img src="https://pic2.zhimg.com/7992860f80da90a36f8f507cd0dfd3a9_b.png" data-rawwidth="823" data-rawheight="83" class="origin_image zh-lightbox-thumb" width="823" data-original="https://pic2.zhimg.com/7992860f80da90a36f8f507cd0dfd3a9_r.png">这张专辑我的播放量是1492，专辑中有26首歌曲，总长貌似是两个多小时（？）</noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="823" data-rawheight="83" class="origin_image zh-lightbox-thumb lazy" width="823" data-original="https://pic2.zhimg.com/7992860f80da90a36f8f507cd0dfd3a9_r.png" data-actualsrc="https://pic2.zhimg.com/7992860f80da90a36f8f507cd0dfd3a9_b.png">这张专辑我的播放量是1492，专辑中有26首歌曲，总长貌似是两个多小时（？）<br>用计算器算一下，我大概循环了57遍。。<br>事实并不是这样的<br>在专辑中又有几首歌其实是特别循环的（见图）<br><noscript><img src="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_b.png" data-rawwidth="647" data-rawheight="596" class="origin_image zh-lightbox-thumb" width="647" data-original="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_r.png">这是我的单曲播放排行（来自虾米），红框圈出来的即是pulse专辑中的曲目。</noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="647" data-rawheight="596" class="origin_image zh-lightbox-thumb lazy" width="647" data-original="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_r.png" data-actualsrc="https://pic4.zhimg.com/1887df8b18b9c4bde820f5abe9b40a6f_b.png">这是我的单曲播放排行（来自虾米），红框圈出来的即是pulse专辑中的曲目。<br>当然这只是虾米的线上数据，还有其他离线播放器的。。<br>当然这在严格意义上并不是听了一遍就循环了。<br><br>有人一定会问你不是那么喜欢PF吗第一部分的列表里PF的歌都没几个呢？<br><br><b>PF的歌啊 并不是那种听一遍就想循环了的歌。很多歌你听第一遍也许还觉得难以入耳，但是过一段时间再拿出来品味一番，你就会觉得“卧槽这牛逼的！”（或者是多听几遍）</b><br><br><b><a href="//link.zhihu.com/?target=http%3A//www.xiami.com/collect/115385772%3Fsuccess%3D2" class=" wrap external" target="_blank" rel="nofollow noreferrer">这个答案的虾米精选集<i class="icon-external"></i></a>《《《精选集戳我 XD</b><br><b>Ad：PF的解读专栏：<a href="http://zhuanlan.zhihu.com/remus" class="internal">Speak to Me-PF的解读 - 知乎专栏</a></b>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19486187-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-21" target="_blank" href="/question/34863117/answer/60189222">编辑于 2016-02-27</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>165 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19974851"
+data-atoken="61405836"
+data-collapsed="0"
+data-created="1440850864"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/61405836">
+<meta itemprop="answer-id" content="19974851">
+<meta itemprop="answer-url-token" content="61405836">
+<a class="zg-anchor-hidden" name="answer-19974851"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">73</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="javascript:;"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<span class="name">知乎用户</span>
+
+
+<span title="MUSE / Coldplay / Queen / Blur / Oasis" class="bio">，MUSE / Coldplay / Queen / Blur / Oasis</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="73">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">73</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="NSSimacer" data-entry-url="/question/34863117/answer/61405836">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+<a href="//link.zhihu.com/?target=http%3A//www.bilibili.com/video/av2271112/" class=" wrap external" target="_blank" rel="nofollow noreferrer">【循环向】跟着雷总摇起来！Are you OK！<i class="icon-external"></i></a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+<a href="//link.zhihu.com/?target=http%3A//www.bilibili.com/video/av2271112/" class=" wrap external" target="_blank" rel="nofollow noreferrer">【循环向】跟着雷总摇起来！Are you OK！<i class="icon-external"></i></a>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19974851-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/61405836">发布于 2015-08-29</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="22652991"
+data-atoken="68085501"
+data-collapsed="0"
+data-created="1445017848"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="0"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/68085501">
+<meta itemprop="answer-id" content="22652991">
+<meta itemprop="answer-url-token" content="68085501">
+<a class="zg-anchor-hidden" name="answer-22652991"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">168</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/xie-zi-hang-4" target="_blank" data-tip="p$t$xie-zi-hang-4"
+
+><img src="https://pic1.zhimg.com/9d778abc8eb5f85c64eada7995888660_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$xie-zi-hang-4"
+target="_blank" href="/people/xie-zi-hang-4"
+>树叶航</a>
+
+
+<span title="旅行者" class="bio">，旅行者</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="168">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">168</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="树叶航" data-entry-url="/question/34863117/answer/68085501">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+初秋，深夜已经有些凉意，在知网无数论文的整理中休息下来，整理一下这些让我单曲循环、为之深爱的歌曲，并把这些音乐分享给有缘看到它的人。我一直觉得，<b>音乐是生命中难得的精彩</b>，它不同于文学、哲学，也不同于旅行、美食，它的动人在于它可以用独特的旋律…
+
+<a href="/question/34863117/answer/68085501" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+初秋，深夜已经有些凉意，在知网无数论文的整理中休息下来，整理一下这些让我单曲循环、为之深爱的歌曲，并把这些音乐分享给有缘看到它的人。我一直觉得，<b>音乐是生命中难得的精彩</b>，它不同于文学、哲学，也不同于旅行、美食，它的动人在于它可以用独特的旋律打动心灵最深处蛰伏的角落，给予力量，给予宽慰，给予感伤，给予思索。在港铁站往来的人流中，在纳木错湖滨的安静里，在深山、在庙宇、在教室、在峡谷，<b>一首歌，即是人生</b>。<br><br>我把这些歌曲列举，有喜爱的歌词，有曾经的过往，更有醉人的音符。斜体字部分为歌词摘录，其余为自己由这些音乐而生的感受。<br><br>---------------------------------------- 2015.10.17 第一次更新<br><br><b>1.多少-陈奕迅</b><br><i>“用多少天/用多少年的跌跌撞撞才找到终点/用多少伤痛的心爱才不离开身边/用多少谎言去掩饰彼此的不完美/要用多少个世纪让我看透一切</i><i>” </i>夜班巴士上常单曲循环，看着窗外的霓虹和车流，听这首歌。<br><br><b>2.礼物-黄立行</b><br><i>“</i><i>Johnny 别哭/Johnny 别哭/我们到这里结束/或许都忘掉/对我比较好/Johnny 别哭/分手是我们的礼物/爱不完美/</i><i>都是我不好</i><i>”</i> 音乐到最后让人心痛，分手有些时候，或许即是一份最感伤的礼物。音乐其实是在比较舒缓的节奏下讲述情感的宽慰，这几年黄立行没有新作，这首礼物足以是他音乐的一个见证。<br><br><b>3.蓝天白云-张悬</b><br>听这首歌，只要闭上眼睛，我的脑海中就有很多画面：呼伦贝尔草原的天空，塔斯马尼亚岛的白云。我想也只有张悬，能用音乐唱出风景。旅途中看到日出夕阳，看到沙丘远山，我有时候会不由自主地重复这首音乐：<i>“</i><i>蓝天白云，当你离去/蓝天白云，当你离去/蓝天 我曾经眼里只有你/我曾经眼里只有你/我曾经眼里只有你 ” </i>。<br><br><b>4.晚安-林宥嘉</b><br><i>“天/空白著夜晚/城市一片灯火扰乱/风/吹过看不见的天堂/是谁还在忙碌地追赶/晚安/让记忆松绑/忘掉所有痛苦悲伤/让/所有听不见的呐喊/随著黑夜一起埋葬</i><i> ” </i>夜深了，城市的角落依旧灯火霓虹，这座城市，是谁的梦？凌晨的不夜城，很多人在梦乡里，很多人拥抱着爱的人入眠，而很多人等待着一声：晚安。<br><br><b>5.单面镜-周笔畅</b><br>听第一遍就开始单曲循环。我喜欢它的旋律，它的歌词，还有周笔畅在这首歌里的歌声。单面镜里，谁又被谁能看透。<i>“你的感受没有意义/独自默默为他加油打气/问候关心/其实他都看不到的/喔都隐形了 残忍吧/你微笑之中 藏着难过/是明明在意说不出来/还装作洒脱/快乐的悲伤的 情绪被左右/不能被看透”</i>。<br><br><b>6.换日线-张智成</b><br>有些时候一首歌是因为一个人。知道这首换日线是因为曾经的过往中包含了有关它的记忆，那时候我还不知道换日线，也不知道张智成，是那一个人告诉我：换日线，就是本初子午线。于是喜欢上这首换日线，越听越好听，尤其是里面写道：<i>“还想和你看北海道的雪祭/还想陪你走遍这世界风景/你就要往陌生的天空飞去/天知道我会多想你</i><i>” </i>如今往事早已远去，可是每次听到这首歌，依旧会想起美好的曾经，这应该就是音乐带来最难忘的记忆了吧。<br><br><b>7.两湾城-王啸坤</b><br>两湾城一定是一伤感的故事，关于离别，和过去离别，和爱情离别。当王啸坤用他忧愁的嗓音唱：<i>“</i><i>一座空城留给你/被谁遗忘的信/三十楼的风景/不相信我诀别的勇气/有些回忆该删去/留下反而伤心/我只适合远行/对自己否定/对于你/一年里/对不起 </i><i>” </i>时，有心碎的感觉。音调中有特殊的处理，加入了笛声等特色，绵长而又悸动，把这个故事诠释地更加透彻。<br><br><b>8.Donde Estan Corazon-Enrique Iglesias</b><br>我想你一定会爱上这首西班牙音乐，它的节奏，他的声音。歌词就更不用说：<br><i>“Adonde fue el pasado que no volvera 如烟不复的往事已然去向何处？</i><br><i>Adonde fue tu risa que me hizo volar 昔日使我飞翔的笑容亦消逝何处？</i><br><i>Donde quedó la llave de nuestra ilusion 开启我们旧梦的钥匙丢弃何处？</i><br><i>Adonde la alegria de tu corazon 你心灵的喜悦又在何处？</i><br><i>Y se va como todo se va 就如世上一切，同样会随波逐流</i><br><i>Como el agua del rio hacia el mar 河水终究会流向大海</i><br><i>Y se va como todo se va 就如万物，必然会随风而逝</i><i>”</i><br>有一次，傍晚从清真寺走出来，看着夕阳洒在清真寺圆顶的新月上，耳机里放起了这首歌。瞬时间感觉岁月都凝固了，只留下轻轻的歌声，告诉我们这个世界的存在。<br><br><b>9.慢慢的-彭坦</b><br>歌词每一句都只是六个字，却唱出了特别的味道。时代发展得快到我们很难抓住它的车轴，迫使我们不断变快。更快地走路，更快地阅读，更快地吃饭。然而我们不必如此，在忙碌之余我们需要慢慢的生活，慢慢的品尝世间的美好。<i>“</i><i>书慢慢的旧了/你慢慢的懂了/叶慢慢的黄了/他慢慢的醉了/海慢慢的冷了/云慢慢的散了”</i>。<br><br><b>10.城市稻草人-曹方</b><br>偌大的城市，在哪里伫立着稻草人？是黄昏下的景象，还是梦境里的幻想？<i>“所有言语表达多会作废/爱情早在回味里面变味/不要惊扰那梦你继续睡</i><i>” </i>但愿梦里，爱情同风景一样美。<br><br>---------------------------------------- 2015.10.18 第二次更新<br><br><b>11.不留-王菲</b><br>如此空灵的声音、幽静的旋律，就是王菲，只有王菲。前段时间在知乎上看到有人用四个字形容王菲：凭虚凌空。确实她的歌声有很强的穿透力，而且是随着时间的流逝越听越有味道的。这首不留作词作曲演唱都是阿菲本人，歌曲随着演唱一步步向前迈进，直到婉转地唱出：<i>"如果我还有哀伤/随风吹散它"，</i>就好像迷路了很久突然找到了出口，通往无尽的光明。<br><br><b>12.I Heard the Party-gem club</b><br>这首是在&lt;Arrow&gt;S01E07中听到：教堂窗户上的圣画因为灯光显得格外动人，Helena思念着她的未婚夫，这时Oliver Queen找到她。逝去最爱那个人的哀痛，总是会让我们难过，更何况那个人不是离开了自己，而是离开了世界。背景音乐在此时响起，歌词写道：<i>“have i only come to/watch through your window/float up through the ceiling/softly escaping</i><i>” </i>节奏不快，却非常适合在安静的时刻聆听这首音乐。<br><br><b>13.看见-李志</b><br><i>“我看见，我看见一个孩子低着头走过我窗前/我看见头发悄悄生长/它在生长，她在笑/她在生长，他也笑/我看见，我看见有些人和周围融合的很和谐/我看见有些人孤独的很明显/除了时间，什么也没有/除了时间，我什么都不缺” </i>李志是叙事歌手的典范，简简单单的音乐，听上去是你、是我、是生活。熙熙攘攘的人群流动、孩子爽朗的笑声、马路上汽车的鸣笛都被李志融合在他的音乐里。质朴、好听。<br><br><b>14.关于我爱你-张悬</b><br>几年前好朋友在网络上问我，你期待爱情吗？当时看到这个问题，我一时语塞。我当时说：“我相信爱情。但是期待吗？我不知道。期待的是能有一个真正读懂自己的人，在人生的路上等着自己”。闲苔院落门空掩，斜日栏杆人自凭。窗外的雨依旧在下，这样青春的年纪，关于我爱你。这首歌的歌词真好：<i>“去挥霍和珍惜是同一件事情/我所有的何妨/何必/何/荣幸/在必须发现我们终将一无所有/至少你可以说/我懂/活着的最寂寞/我拥有的都是侥幸啊/我失去的/都是人生/当你不遗忘也不想曾经”</i>。<br><br><b>15.远辰-陈粒</b><br>陈粒的声音很特别，第一次听就能记住她。远辰仿佛不是歌，而是一首诗，<i>“任你去山高水远/你永远在我的心间</i><i>”</i>。歌词写得很辽阔，加之用音乐把它表现出来，很有味道。日光鼎盛、烽烟狼藉，这些词语被陈粒的歌运用得淋漓尽致，充满精彩。<br><br><b>16.Wait-M83</b><br>虽然&lt;Under The Dome&gt;剧情比较拖沓最终弃剧，但这首Wait是在剧里听到并发掘出来的。当时的剧情听到这首歌着实让人流泪，亲情、离别、逝去、悲伤，所有的情感夹杂在失望与无助之中，又有什么能挽回一切呢？音乐最后一遍遍重复地唱着No time，仿佛要唱到心碎。很多时候音乐能给人启示，这首歌我想告诉我们最多的是，一定要珍惜现有的一切，不要等到逝去的那一天才意识到原来是多么珍贵：<i>“Set your dreams where nobody hides 把你的梦送到没有人隐藏的地方/ Give your tears to the tide 把你的泪送给潮汐/ No time 没有时间 /No time 没有时间/ There is no end, there is no goodbye 无穷止境 没有再见/ Disappear with night 同那夜晚消失/ No time 没有时间/ No time 没有时间/No time 没有时间/No time 没有时间/ No time 没有时间 </i><i>” </i>。<br><br><b>17.不再联络-张芸京</b><br><i>“狠心不再联络/似乎/是该寻找最后的出路</i><i>” </i>如果最爱的人有一天不再联络，出路又能是什么？更多的是逃避，是回忆，还是否定？信仰和书籍，或许是最好的出路，不需要躲避，更不需要沉沦，时光总能洗去一切。<br><br><b>18.老街-李荣浩</b><br>相比李荣浩先生的模特、李白等代表作，我更喜欢这首老街。石板上的青苔，姑娘手里的油纸伞，古镇里老街的岁月，逃离了被开发的命运，却抵不过孤寂与苍茫的终点。<i>“快要过完的春天/还有雕刻着图案的门帘/窄窄的长长的过道两边/老房子依然升起了炊烟</i><i>” </i>记忆里皖南古镇的那些场景，正是歌曲的老街的模样，有兴趣的同学可以看看我关于皖南古镇的回答：<a href="http://www.zhihu.com/question/20789486/answer/63521519" class="internal">国内冷门却又值得一去的旅游地点有哪些? </a>记得，等有一天踏上了老街的青石板，别忘了在那里听这首老街。<br><br><b>19.费洛蒙-蔡健雅</b><br><i>“月光下猫勾起了背/狼群环视四周的夜/ 那鱼群天生就爱水/猛兽吞噬我的视线/ 空气中弥漫着气味”</i> 好像是醉酒下的彷徨，特有的节奏和旋律，听了让人上瘾。夜晚的衡山路，酒杯交错，肩上的香水味，让人迷离。<br><br><b>20.潜水-郝蕾</b><br>天际动人的落日，是自然赠予的美丽。白帆随着海风漂摇在水里，同夕阳的红艳光辉融为一体。站上海滨高处的礁上，伫立在大地与海洋、固态与液态交界的尽头。我爱这首潜水，每次听仿佛即看到了海。歌词也很棒：<i>“我想我可以用冰冷的身体浸入深海底/我想挑战黑暗不清晰不安全的神秘地/我想我只是一只鱼一只试图潜水的鱼</i><i>”</i>。<br><br>---------------------------------------- 2015.10.23 第三次更新<br><br><b>21.Airport Malpensa-陈升</b><br>这是米兰的机场，这是非常棒的音乐。闲适、舒缓，陈升慢慢地在讲故事、说人生。八月的海滨季风，在美奈的海滨，我和台中的孟珣同学一起听这首歌，安静的夜，动人的音符。<i>“窗外的阿爾卑斯山已經鋪上了初秋的第一道雪/像～糖粉末麵包/像極了吃早餐配黑咖啡吃的糖粉末牛角麵包</i><i>” </i>歌词能写得这么有趣，着实让人欣喜。<br><br><b>22.世界末日-周杰伦</b><br>忘记不了得是初中同桌，上课老师讲课，她在木桌上用笔写下<i>“颓废也是一种美”</i>。她是酷酷的女生，短头发、非常聪明，不用听老师说课照样能够学得很好。或许早已找不到那张写了这句歌词的书桌了，但是这首世界末日，是有关于那段年纪最好的记忆，天灰灰也不会让我忘了你是谁。<br><br><b>23.对爱渴望-杨宗纬</b><br><i>“无尽无尽的夜晚/不打烊的小酒馆/没有人急著回家/没有人想各自回家</i><i>” </i>中环半山扶梯，听着这首迷离的歌，周围人来往匆匆，酒馆里灯光迷离、举杯消愁。或许喝醉是所有痛苦的良药，或许喝醉是所有放纵的借口，释放、行走、痴迷、凝望，陌生的男男女女，最终渴望的，应该还是那一个甜蜜无比却又痛彻心扉的爱字。<br><br><b>24.黑夜尽头-黄立行</b><br>黄立行的歌大多都有超凡的节奏感，这一首也不例外。<i>“能不能/该不该/为了挚爱/失去原本/失去了平衡/当时间走到这一刻/应该如何抉择/离别在黑暗尽头/无法挽留/也不放手难舍她的温柔/她却不得不走/</i><i>把我留在梦中” </i>相同的黑夜，别人唱出得更多是悲伤，而黄立行则不是，他能在动感的节奏里说黑夜的故事。<br><br><b>25.早知道爱-卢学叡</b><br><i>“早知道爱/我已忘了离开/等你明白/我非你不爱/或许简单/却不平凡/就算时间要我从今以后/为你孤单” </i>爱情如果后悔可以挽回，又何以称作为爱情？很多时候拥有并不知道珍惜，等到失去才意识到拥有的可贵。早知道爱，就要用心去爱，爱之于生命，一定是难得又宝贵。<br><br><b>26.Dying In The Sun-The Cranberries</b><br>小红莓的这首，第一遍听就单曲循环。那时候去厦门，在海边反反复复听这首歌。当时写道：大海是慈祥的，她容下了很多美好，能让你快乐并抛弃一切烦恼。你可以默默地注视她就像注视你的情人一样，你可以深情地呼唤她就像呼唤你的母亲一样，她会知道并会拍打着浪花来回复你。你需要的只是吹海风，听海浪声，感受这一份温情。躺在沙滩上，听歌里唱到 <i>“Like dying in the sun/Like dying in the sun/Like dying in the sun/Like dying.../Like dying in the sun</i><i>”</i>。仰望天空，心中无任何杂念，只是这样静静躺着享受难得的美好时光。<br><br><b>27.Common Denominator-Justin Bieber</b><br><i>“Before you love was low/Now we're just my height, aye/We chase the game that would put/My cot in the side, aye/Broken heart rise up to say/Love is alive” </i><br><br><b>28.左右手-陈洁仪</b><br>反复听了张国荣的原唱的版本和陈洁仪的翻唱，两支歌都非常喜欢。相对来说，翻唱里加入了萨克斯的背景和声，让音乐呈现地更动人一些。<i>“从那天起我不辨别前后/从那天起我竟调乱左右/习惯都扭转了呼吸都张不开口/你离开了/却散落四周</i><i>”  </i>歌词也写得不错，最重点的是，好听、好听、好听。<br><br><b>29.等-袁泉</b><br>等。作词：吴青峰、作曲：吴青峰、演唱：袁泉。估计大多数人没有听过。一直觉得袁泉身上有非常独特的气质，说不上灵气，说不上文艺，就是一种淡淡的酷。还记得[后会无期]里她打台球的模样，简直折服了我。当然我也不会忘记这曲曾经单曲循环的&lt;等&gt;：<i>“等你的脉搏/侵入耳脉中种寂落/在等我的颤抖/被溶解在你情怀中/等你的宽容/懂得一切究竟多么难懂/眼里有眼光所及眼泪婆娑/终于会被你的爱吸收</i><i>”</i>。虽然这是吴青峰，但更是袁泉。如果等音乐，不能忘了这一首，等。<br><br><b>30.心愿-孙燕姿</b><br><i>“想像站在巅峰的喜悦/默默孤独的攀着岩/天堂很高/永远也很远/可是那么美</i><i>” </i>歌词很棒，音乐也朗朗上口，爱是勇敢的心愿，你在风的另一边。<br><br>----------------未完待续
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="22652991-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-10-17" target="_blank" href="/question/34863117/answer/68085501">编辑于 2015-10-24</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>24 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+<meta name="disableCopy" content="true">
+<meta name="disableCopyAvatar" content="https://pic1.zhimg.com/9d778abc8eb5f85c64eada7995888660_m.jpg">
+
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19537794"
+data-atoken="60317943"
+data-collapsed="0"
+data-created="1440220877"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60317943">
+<meta itemprop="answer-id" content="19537794">
+<meta itemprop="answer-url-token" content="60317943">
+<a class="zg-anchor-hidden" name="answer-19537794"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">25</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/darcy-carlyle" target="_blank" data-tip="p$t$darcy-carlyle"
+
+><img src="https://pic2.zhimg.com/a6f0937dc1fcd140328e44a224965221_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$darcy-carlyle"
+target="_blank" href="/people/darcy-carlyle"
+>Darcy Music</a>
+
+
+<span title="古典音乐有毒。" class="bio">，古典音乐有毒。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="25">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">25</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="Darcy Music" data-entry-url="/question/34863117/answer/60317943">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+Mozart K310
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+Mozart K310
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19537794-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-22" target="_blank" href="/question/34863117/answer/60317943">编辑于 2015-08-26</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>4 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19540139"
+data-atoken="60323678"
+data-collapsed="0"
+data-created="1440223798"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60323678">
+<meta itemprop="answer-id" content="19540139">
+<meta itemprop="answer-url-token" content="60323678">
+<a class="zg-anchor-hidden" name="answer-19540139"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">53</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="javascript:;"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<span class="name">知乎用户</span>
+
+
+<span title="一无是处的胖子" class="bio">，一无是处的胖子</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="53">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">53</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="王小黑" data-entry-url="/question/34863117/answer/60323678">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+《I am you》-Kim Taylor单曲循环的有好多，最近在听这个
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+《I am you》-Kim Taylor<br>单曲循环的有好多，最近在听这个
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19540139-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/60323678">发布于 2015-08-22</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>22 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19508781"
+data-atoken="60245587"
+data-collapsed="0"
+data-created="1440163977"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60245587">
+<meta itemprop="answer-id" content="19508781">
+<meta itemprop="answer-url-token" content="60245587">
+<a class="zg-anchor-hidden" name="answer-19508781"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">24</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lu-tan-wei-93" target="_blank" data-tip="p$t$lu-tan-wei-93"
+
+><img src="https://pic2.zhimg.com/2def8c3007b1cd54266c79a8569e1835_s.png"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lu-tan-wei-93"
+target="_blank" href="/people/lu-tan-wei-93"
+>陆探微Osiris</a>
+
+
+<span title="还需要进一步的学习" class="bio">，还需要进一步的学习</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="24">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">24</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="陆探微Osiris" data-entry-url="/question/34863117/answer/60245587">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+永远的《哥德堡变奏曲》单曲循环10小时以上仍然还会让人饶有兴致的继续听下去
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+永远的《哥德堡变奏曲》<br>单曲循环10小时以上仍然还会让人饶有兴致的继续听下去
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19508781-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/60245587">发布于 2015-08-21</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>16 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19578641"
+data-atoken="60419588"
+data-collapsed="0"
+data-created="1440294928"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/60419588">
+<meta itemprop="answer-id" content="19578641">
+<meta itemprop="answer-url-token" content="60419588">
+<a class="zg-anchor-hidden" name="answer-19578641"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">27</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="javascript:;"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<span class="name">知乎用户</span>
+
+
+</div>
+<div class="zm-item-vote-info" data-votecount="27">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">27</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="地下丝绒" data-entry-url="/question/34863117/answer/60419588">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+wish u were here山阴路的夏天定西sonnet
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+wish u were here<br>山阴路的夏天<br>定西<br>sonnet
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19578641-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/60419588">发布于 2015-08-23</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="19977219"
+data-atoken="61411728"
+data-collapsed="0"
+data-created="1440853973"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/61411728">
+<meta itemprop="answer-id" content="19977219">
+<meta itemprop="answer-url-token" content="61411728">
+<a class="zg-anchor-hidden" name="answer-19977219"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">9</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<span class="name">匿名用户</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="9">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">9</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="匿名用户" data-entry-url="/question/34863117/answer/61411728">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+Mendelssohn e小调小提琴协奏曲第一乐章Sibelius 第二交响曲第三乐章Mussorgsky Pictures at an Exhibition—Promenade
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+Mendelssohn e小调小提琴协奏曲第一乐章<br><br>Sibelius 第二交响曲第三乐章<br><br>Mussorgsky Pictures at an Exhibition—Promenade
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="19977219-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-29" target="_blank" href="/question/34863117/answer/61411728">编辑于 2015-08-29</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div id="zh-question-collapsed-link" class="zu-question-collap-title" style="display:none" >
+<a href="javascript:;" name="expand" class="zg-link-gray" id="zh-question-collapsed-switcher">
+<span id="zh-question-collapsed-num">19</span> 个回答被折叠
+</a>
+（<a target="_blank" href="/question/20120168" class="zg-link-gray">为什么？</a>）
+</div>
+<div id="zh-question-collapsed-wrap" class="zh-question-answer-wrapper" style="display:none"></div>
+<a name="draft"></a>
+<div id="zh-question-answer-form-wrap" class="zh-question-answer-form-wrap">
+<div class="zm-editable-tip"></div>
+<div class="zm-editable-content"></div>
+</div>
+<!-- 版权演示 -->
+
+<script type="text/x-template" id="copyright-demo-template">
+<article>
+
+<section>
+<p class="copyright-demo-title"> 这是你的回答正文 </p>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section>
+<p class="copyright-demo-title"> 当其他人想复制你的一段回答 </p>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region1">
+<span class="copyright-ico-indicator" id="copyright-demo-indicator"></span>
+</div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region2"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region3"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region4"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section id="copyright-demo-frame3">
+<p class="copyright-demo-title"> 复制将受限，同时会弹出提醒 </p>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region"></div>
+<span class="copyright-ico-pointer copyright-demo-pointer"></span>
+</section>
+</article>
+</script>
+
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="6151772">关注问题</button>
+
+12348
+人关注该问题
+
+</div>
+</div>
+
+
+<div class="shameimaru-placeholder" data-loc="question_up" data-params='{&quot;question_token&quot;: 34863117}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix" data-za-module="RelatedQuestions">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/21738042" data-id="876165">
+有哪些可以单曲循环一星期的歌曲值得推荐？
+</a> <span class="num">863 个回答</span><meta itemprop="followerCount" content="7524" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26611316" data-id="2827478">
+现在再听周杰伦的歌是什么感受？
+</a> <span class="num">1376 个回答</span><meta itemprop="followerCount" content="5935" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/28666274" data-id="3649486">
+有哪些稍微一改动，马上意境大变的歌词？
+</a> <span class="num">2418 个回答</span><meta itemprop="followerCount" content="11147" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26348226" data-id="2722148">
+无损压缩和有损压缩音乐有何区别？
+</a> <span class="num">55 个回答</span><meta itemprop="followerCount" content="2193" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/19798547" data-id="99451">
+喜欢单曲循环吗，为什么？
+</a> <span class="num">59 个回答</span><meta itemprop="followerCount" content="89" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/19623579" data-id="29342">
+中国有哪些优秀的摇滚乐队？
+</a> <span class="num">582 个回答</span><meta itemprop="followerCount" content="5621" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/25111737" data-id="2226717">
+有哪些非常冷门，但是好听到爆，可以单曲循环一整天的歌曲？
+</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="94" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/20127202" data-id="230959">
+哪些非电影配乐大师的优秀流行音乐人做过经典的电影配乐？
+</a> <span class="num">39 个回答</span><meta itemprop="followerCount" content="361" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/22041181" data-id="997321">
+你最近在单曲循环什么歌？
+</a> <span class="num">65 个回答</span><meta itemprop="followerCount" content="117" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26016020" data-id="2589348">
+华语乐坛下一个时代会怎样开启？
+</a> <span class="num">68 个回答</span><meta itemprop="followerCount" content="601" />
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div class="shameimaru-placeholder" data-loc="question_down" data-params='{&quot;question_token&quot;: 34863117}'></div>
+
+</div>
+
+
+</div>
+
+
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1467130543000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.7b207896.js","Community":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.d985f52b.js","common":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.33e6b712.js","CommentApp":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.4e7d38b4.js"}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","editPermission":false,"qid":6151772,"askAboutMember":0,"isEditLocked":false,"detailEditReasonRequired":false,"isAnon":0,"showInvitePanel":false,"isOrg":false,"isLocked":0,"urlToken":34863117}</script>
+<script type="text/json" class="json-inline" data-name="current_question_owner">false</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+<script type="text/json" class="json-inline" data-name="my_answer">{}</script>
+<script type="text/json" class="json-inline" data-name="current_question_bio">{"selected_bio":null,"type":null,"value":""}</script>
+
+<script type="text/json" class="json-inline" data-name="redirect_to">""</script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/base.445759cc.js"></script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/common.390500ab.js"></script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.74f7b874.js" async></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/page-main.d0f1adb1.js"></script>
+<meta name="entry" content="ZH.entrySQ" data-module-id="page-main">
+
+<script type="text/zscript" znonce="be1fa118aa0c40ce8aecfb91ab17604f"></script>
+
+<input type="hidden" name="_xsrf" value="459053fc4cafe7e5d42578c46ab27419"/>
+</body>
+</html>

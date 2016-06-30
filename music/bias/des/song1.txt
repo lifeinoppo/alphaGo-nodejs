@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="80c1c0aa5deb4c86ab5cb04c1dc7174f">
+
+<title>有哪些第一遍就让你单曲循环的音乐？ - 知乎用户的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/61675901">
+
+<meta property="og:description" content="推荐点游戏音乐和影视原声，并不能写出一些赏析性质的文字，只好贴点资料了。排名不分先后baba yetu (menu music) 爸爸野猪之歌 试听链接网易云音乐 听见好时光 来自《文明 4》 即使没玩过游戏也应该在很多电视节目里听到过这首歌吧，以下据百度百科baba yet…" />
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/34863117/answer/61675901">
+<meta id="znonce" name="znonce" content="8b80e1cf3cd446918e9264e39b5dccb4">
+
+
+
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.2c642cb2.css">
+
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="http://static.zhihu.com/static/revved/-/js/instant.e7a17de6.js"></script>
+
+
+
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="zg-wrap zu-main clearfix with-indention-votebar"  role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550453"
+data-tip="t$b$19550453" data-token="19550453" data-topicid="75">
+音乐
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556347"
+data-tip="t$b$19556347" data-token="19556347" data-topicid="2027">
+音乐人
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561180"
+data-tip="t$b$19561180" data-token="19561180" data-topicid="3662">
+流行音乐
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19581780"
+data-tip="t$b$19581780" data-token="19581780" data-topicid="10504">
+单曲循环
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+<h2 class="zm-item-title">
+
+<a href="/question/34863117">
+有哪些第一遍就让你单曲循环的音乐？
+</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="6151772" data-action="/question/detail">
+
+<div class="zm-editable-content"></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>19 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+
+
+<div class="zh-answers-title">
+<h3><a href="/question/34863117" class="zg-link-litblue">查看全部 986 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="20083195"
+data-atoken="61675901"
+data-collapsed="0"
+data-created="1441016380"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<link itemprop="url" href="/question/34863117/answer/61675901">
+<meta itemprop="answer-id" content="20083195">
+<meta itemprop="answer-url-token" content="61675901">
+<a class="zg-anchor-hidden" name="answer-20083195"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">19</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="javascript:;"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<span class="name">知乎用户</span>
+
+
+<span title="装作世界上最幸福的人，并且时不时秀一下。" class="bio">，装作世界上最幸福的人，并且时不时秀一下。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="19">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">19</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="南极冬" data-entry-url="/question/34863117/answer/61675901">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+<img src="https://pic1.zhimg.com/305474ef8ef20dc5bfd7b0dab3cceb10_200x112.jpg" data-rawwidth="400" data-rawheight="600" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/305474ef8ef20dc5bfd7b0dab3cceb10_r.jpg">
+推荐点游戏音乐和影视原声，并不能写出一些赏析性质的文字，只好贴点资料了。排名不分先后<b>baba yetu (menu music) 爸爸野猪之歌 </b><b>试听链接</b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1206761" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b>来自《文明 4》 即使没玩过游戏也应该在很多电视节目里听到过这首歌吧，以下据百度百科baba yet…
+
+<a href="/question/34863117/answer/61675901" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+推荐点游戏音乐和影视原声，并不能写出一些赏析性质的文字，只好贴点资料了。排名不分先后<br><b><br>baba yetu (menu music) 爸爸野猪之歌 </b><b>试听链接</b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1206761" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>来自《文明 4》  即使没玩过游戏也应该在很多电视节目里听到过这首歌吧，<br>以下据百度百科<br>baba yetu（<a href="//link.zhihu.com/?target=http%3A//baike.baidu.com/subview/73762/15195069.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">斯瓦希里语<i class="icon-external"></i></a>“我们的父”），作曲家Christopher Tin（<a href="//link.zhihu.com/?target=http%3A//baike.baidu.com/view/5238225.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">田志仁<i class="icon-external"></i></a>）。这首歌的来源是非洲东岸的斯<a href="//link.zhihu.com/?target=http%3A//baike.baidu.com/view/74317.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">瓦西里<i class="icon-external"></i></a>族（Swahili）的祈祷歌.<br><br><b>For River - Piano (Sarah &amp; Tommy's Version)  </b><b>试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1645079" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>游戏《去月球》中的一段乐曲，我还没玩过这个游戏，但据说剧情很棒，很感人，估计玩过的人听到它的原声带会更喜欢吧。当然音乐本身也是十分美好的。<br><br><b>Just Drive</b><b>试听链接 </b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D16291385" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>codemaster作品《F1 2011》的制作人员名单配乐，由歌手 <a href="//link.zhihu.com/?target=orpheus%3A//orpheus/pub/app.html%23/m/artist/%3Fid%3D28384" class=" wrap external" target="_blank" rel="nofollow noreferrer">Alistair Griffin<i class="icon-external"></i></a> 演唱，前段时间看到F1车手比安奇因车祸不治身亡的新闻，又找到了这首歌。<br><br><b>The Poet &amp; The Muse 试听链接：<a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1862601" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br>游戏《心灵杀手》的插曲，游戏的故事很有趣，而整个故事的情节也都蕴涵在这首歌之中了。<br><br><b>The Last of Us </b><b>试听链接 </b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D26509685" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>游戏 《最后生还者》主题曲，因为是视频通关的，就不多做介绍了，很好听，是我个人在云音乐听歌排行榜总榜上排行第二的歌曲。<br><br><b>Promise 试听链接 </b><b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D18861490" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><a href="//link.zhihu.com/?target=orpheus%3A//orpheus/pub/app.html%23/m/artist/%3Fid%3D15871" class=" wrap external" target="_blank" rel="nofollow noreferrer">山岡晃<i class="icon-external"></i></a> 为游戏寂静岭 2 创作的配乐，可能是这张原声带中最著名的一首歌。<br><br><b>Still Alive 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D2929414" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>评论引自网易云音乐 作者 billboard后花园<br>来自《镜之边缘》，作为一个第一人称的跑酷游戏，出现了这样一首也是十分有趣，歌曲原唱是一位瑞典的歌手，曲风柔美但是又不乏磅礴之气，歌手声音干净清澈如同游戏塑造的那个世界一样，而单曲曾在瑞典单曲排行榜上排到第29名的好成绩。<br><br><b>Still Alive 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D25765561" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>评论引自 迅游网 有删减<br>《Still Alive》是著名第一人称射击解谜游戏《传送门》的结尾曲，这首有着轻柔女声和轻快配乐的歌曲显得非常小清新，并且在玩家中也有着较为广泛的认知度。演唱歌曲的埃伦·麦克莱恩表示歌曲很好地将剧情尾声和GLaDOS的性格特征融入到旋律和歌词中，IGN的评论员也称赞该曲是“迄今（2007年）为止最好的游戏结尾歌曲”。《Still Alive》在2008年获得了由游戏声乐网络协会颁发的“最佳流行风格歌曲奖”。<br><br>~~~~~~~~~~~~~~~~~~~~~~~~~经历失眠的一夜后早上来更新~~~~~~~~~~~~~~~~~~~~~~~~<br><br><b>I Was Born For This 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1070927" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>来自PS3独占游戏《风之旅人》，华人作品，作曲者奥斯丁·温特里凭借为这部游戏所作配乐入围格莱美，一部犹如艺术品般的游戏，它的配乐自然也为游戏增色不少。<br><br>评论引自网易云音乐，作者 chanterc<br><br>在爱丁堡的Game Master展上通关了Journey，当片尾动画伴着这支歌出现的时候，旁边一直默默看着我玩的老爷爷，悄悄的擦去了眼角的泪水。感谢陈星汉带来这样瑰丽的游戏，让我相信对于美与生命的体悟真的是没有国界的。<br><br><b>melodies of life（英文版） 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D646764" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>最终幻想系列最负盛名的一首歌曲，来自《最终幻想 9》，最早认识最终幻想系列是从一部动画片开始，那部动画叫降临之子，我的女神叫蒂法。啊，当然这些话和这首歌并没有任何关系，嗯，我只是想说我蒂法美如画，感谢SE终于启动重制计划了。<br><br><b>The Farewell 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D28000702" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>来自游戏《地铁：最后的曙光》<br><br>旋律不断重复，从开头的吉他，到后来的弦乐，感到情感越来越浓烈，最后一遍又是吉他，轻轻收尾，意犹未尽。<br><br>知名的显卡杀手，末世题材，游戏配置要求比较高，这系列两作我都没有怎么仔细玩过（GTX660哭晕在墙角），不作评论，应该是世界观很宏大的作品吧。<br><br> 评论引自网易云音乐 作者 <a href="//link.zhihu.com/?target=orpheus%3A//orpheus/pub/app.html%23/m/personal/%3Fuid%3D45463969" class=" wrap external" target="_blank" rel="nofollow noreferrer">Ev1L丶THouGHt<i class="icon-external"></i></a><br>最后的最后 我连再见都没说出来的时候 泪水却先流了下来 我曾经只是想保护这个世界 保护那些无辜卷入战争的人们 可最后 我们连熟知的地面都去不了 或许这就是人类最后的曙光 正因为如此 我们才如此努力 我们需要的不是什么补给和弹药 而是救赎。<br><br><b>The Nightingale 试听链接 </b><a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D32063374" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br><br>来自年度最佳卡牌游戏《昆特牌之巫师白狼的最后故事》（划掉），对于这首乐曲，我只想告诉你，别说那些没用的了，来盘昆特牌吧！<br><br><b>Mafia Ⅱ 主题曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D5039809" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>人们说初恋都是最难忘的，这部游戏就是我的初恋，是我通关的第一部大型游戏，我花了整整半个月时间，所有业余时间都花在这部游戏上，那是我第一次看到“电影”般的剧情和画面，看维托从意大利移民美国，看他不美好的美国梦，看他从屌丝一步一步奋斗成为大亨，看他的友情和爱情（游戏本来有女性好感度系列任务，但是因为这个游戏是半成品所以这系列支线只开了个头就没了。）乔和维托，我想我永远也不会忘记他们。<br><br>PS.这部游戏致敬了很多部电影，最主要的还是教父系列，第一次玩还以为主角是迈克·科里昂。另外这游戏的收集系统有花花公子写真（手动滑稽）。<br><br>听说系列第三部重启制作有望，而且维托也有出镜，很期待呢。<br><br><b>Far Horizons 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D25765500" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>当初一听就爱上的乐曲，来自《上古卷轴：天际》。没仔细玩过游戏，不评论。<br><br>游戏部分完。<br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~补眠之后又回来更新~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>一些影视音乐。<br><br><b>Una Mattina 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1648647" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>来自电影《触不可及》（法国），一部真人真事改编的电影。<br><br><b>Arrival Of The Birds 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D4351614" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>央视公益广告《回家过年》系列背景音乐、来自电影《红色翅膀：火烈鸟故事》<br><br><b>Maria 试听链接   <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D5410508" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br>来自韩国电影 《美女的烦恼》，电影讲述了胖女孩整容变身女神走上人生巅峰的故事，据说主演金雅中从未整容，不知真假。电影很好看，当初是在CCAV6上看的中配，个人觉得还好，尤其是近年来韩国影片的中文配音，翻译腔已经少了很多，已经很口语化了，所以说你们不要总想搞个大新闻就把译制片批判一番！<br><br><b>오나라（呼唤）试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D5413433" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br>这个就不用介绍了吧，芒果台当年引进的大热韩剧《大长今》主题曲<br><br><b>환청 （幻听）试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D30870269" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>MBC电视剧《杀了我，治愈我》插曲，女声进入的时候超好听，另外还有伴奏版，可以拿来做个手机铃声。<br><br><b>마음 （心） 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D32102396" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>KBS 电视剧《制作人》插曲，主演阵容有 车太贤、孔孝真、金秀贤、<b>李智恩</b><br><br><b>你问我支持不支持，我就明确的给你，告诉你，我当然支持！你们照顾一下LOEN公司的那个李智恩小姐，我非常喜欢听她的歌。</b><br><b>wuli智恩唱的歌，不多说就是好听，wuli智恩最美了！花书签造型美如画。<br></b><br><noscript><img src="https://pic1.zhimg.com/305474ef8ef20dc5bfd7b0dab3cceb10_b.jpg" data-rawwidth="400" data-rawheight="600" class="content_image" width="400"></noscript><img src="//zhstatic.zhihu.com/assets/zhihu/ztext/whitedot.jpg" data-rawwidth="400" data-rawheight="600" class="content_image lazy" width="400" data-actualsrc="https://pic1.zhimg.com/305474ef8ef20dc5bfd7b0dab3cceb10_b.jpg"><br><br><br><b>小提琴与乐队 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D166322" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br>王备为电视剧《倚天屠龙记》（苏有朋版）创作的配乐，实际上是主题曲的演奏版，我个人非常喜欢他为电影《冯志远》创作的主题曲，可惜一直找不到好的音源。<br><br><b>杀破狼 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D4875307" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>《仙剑奇侠传》全球主题曲，由兄妹组合JS演唱，那年，灵儿还没爱上韩国欧巴，那年，逍遥脸还没变的越来越长，那年，我还小。<br><br><b>向天再借五百年 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D93666" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>韩磊演唱的众多影视歌曲中我最喜欢的一首，陈道明的皇帝，比起张国立和张铁林高到不知哪里去了。<br><br><b>无愧于心&amp;只要有你 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/album%3Fid%3D490113" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>这两首歌陪伴我这一代孩子度过了多少寒假和暑假啊，直到有一年，你发现，无论寒假还是暑假，都没有它们了，后来，你发现自己很久以前就没有寒假和暑假了，我想，听这些老歌，也许是为了让灵魂穿越一下吧。<br><br><b>spirit 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D498669" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br><br>来自日剧《医龙》，这部剧前三部的主要插曲之一，作曲者是著名的日本作曲家泽野弘之，（第四部配乐换人了，不过一部分配乐曲目被保留了下来。）当年央视也是引进了的，不过中配的风格和日剧原版完全是两个套路，中配比较严肃，塑造的是负责任有担当的医生形象，原版主角其实很狂野的，作品给人感觉也很漫画风。算是各有特点吧。<br>（这首歌有个抒情的吉他版，也推荐试听一下，在原声专辑中。）<br><br><b>Aesthetic 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D22753404" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>参看上文，这首歌由关山蓝果演唱。<br><br><b>Endless Story 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D566512" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>电影《NANA》插曲，由伊藤由奈演唱。我是在当年很火的一个游戏《劲舞团》里听到的，满满都是回忆啊。<br><br><br><br>下面一大波知名电影插曲和配乐，不写其他东西，只写歌名和试听了，毕竟我不是专业评论者。<br><br><br><b>Forrester Gump Suite 阿甘正传 组曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D5057917" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><br><b>Theme From Schindler's List 辛德勒的名单 主题音乐  试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1489566" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><br><b>Main Title (The Godfather Waltz) 教父 1 主题音乐 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1792313" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><br><b>当爱已成往事 霸王别姬 电影主题曲 （林忆莲、李宗盛合唱）试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D196753" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><b>The Carve 海上钢琴师 斗琴片段插曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D5027084" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br>这首乐曲曾被用作某牛奶的广告歌，但实际上是一首知名电影的插曲，演奏者在影片中亲自客串，他好像是个知名爵士音乐家。<br><br><b>Concerning Hobbits 指环王 配乐 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1428235" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><br><b>les choristes  放牛班的春天 插曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1648250" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br>领唱这个孩子还唱过一首 Concerto Pour Deux Viox 也非常好听的。<b>试听链接  <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D3412893" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><b>Por Una Cabeza 闻香识女人 中的一首舞曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D2007819" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br><br><b>となりのトトロ~ending Theme Song~  动画电影《龙猫》主题曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D4879357" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br><br><b>合唱 君をのせて 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D442746" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br>动画电影《天空之城》歌曲，一般被称为天空之城，但实际上哪并不是它真正的名字，中文名好像叫 伴随着你，这首合唱版由杉并儿童合唱团演绎。另有一首独唱版。<br><br><b>Married Life 动画电影 《飞屋环游记》配乐 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1709302" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a><br></b><br><br><b>La Valse D'amelie 电影《天使爱美丽》 配乐、《第十放映室》片尾曲 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D26635188" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br>再见，曾经的龙斌和玲玲。不过好像张小北还在。。。但是没有玲玲，良辰美景更与谁人说？<br><br><b>Rock House Jail 电影《勇闯夺命岛》配乐 试听链接 <a href="//link.zhihu.com/?target=http%3A//music.163.com/%23/m/song%3Fid%3D1430197" class=" wrap external" target="_blank" rel="nofollow noreferrer">网易云音乐 听见好时光<i class="icon-external"></i></a></b><br><br>尽管汉斯季默的配乐听多了感觉都差不多，但是我还是非常喜欢啊。另外他为《使命召唤：现代战争 2》创作的配乐也不错，喜欢这种风格的可以听听。<br><br>~~~~~~~~~~~~~~~~~~~~~~~~The End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="20083195-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-31" target="_blank" href="/question/34863117/answer/61675901">编辑于 2015-09-03</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>7 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="19727748"
+data-atoken="60790234"
+data-collapsed="False"
+data-created="1440507667"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/34863117/answer/60790234">
+<meta itemprop="answer-id" content="19727748">
+<meta itemprop="answer-url-token" content="60790234">
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>617</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">617</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+
+
+<a class="author-link"
+data-tip="p$t$liang-xiao7"
+target="_blank" href="/people/liang-xiao7"
+>梁萧</a>
+
+
+<span title="但凡未得到，但凡是过去，总是最登对。" class="bio">，但凡未得到，但凡是过去，总是最登对。</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="617">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">617</span>&nbsp;人赞同</a></span>
+
+
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="梁萧" data-entry-url="/question/34863117/answer/60790234">
+
+<textarea hidden class="content">我发现好多答案都是英文歌，母语是粤语，所以推荐粤语多一些，当然后面还有国语英语日语。&lt;br&gt;加粗是我强力推荐的歌，而推荐的歌手有些歌已经很出名，就不特地列出来了。&lt;br&gt;每一首我听了都会单曲循环一阵子！&lt;br&gt;&lt;b&gt;（&lt;/b&gt;&lt;b&gt;不定时更新）&lt;/b&gt;&lt;br&gt;--------------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;&lt;b&gt;特别提醒&lt;/b&gt;：我主要是想推荐一些比较冷门的好听歌，某些歌手比较出名的我就不特地推荐了，因为大家搜这个歌手时排名前面的歌曲一般就是。&lt;br&gt;陈奕迅，杨千嬅和李健是我最爱的歌手，喜欢的歌很多列出来就太长了，所以把歌单地址放了出来，大家点进去就能看到。&lt;br&gt;还有你们没发现喜欢的歌手不要急...我的歌单很长，一时间不能全都放上来，慢慢更。&lt;br&gt; ʃ ̂͜•̄ ̱̩̩̩̂ ̄͜►&lt;b&gt;最后.....觉得好听，收藏了，真的不点个赞鼓励一下答主嘛！！&lt;/b&gt;&lt;br&gt;-------------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;最喜欢的两个歌手是陈奕迅和李健，列出来太长，就放几个自己的歌单吧~&lt;br&gt;&lt;b&gt;陈奕迅&lt;/b&gt;：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D89954725&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;李健&lt;/b&gt;：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D92225342&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;8.30更，最爱的女歌手&lt;b&gt;杨千嬅&lt;/b&gt;小姐， 再加一个她的歌单：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D89915499&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;加一个健身时听的歌单：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D68051132&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;（9.1更新）&lt;b&gt;2010DUO演唱会，个人认为Eason最经典的演唱会，嗓子沙哑，把很多歌唱出了新味道，我经常循环着听：&lt;/b&gt;&lt;b&gt;&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D46085457&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;杨千嬅-&lt;b&gt;知更&lt;/b&gt;，自由行，&lt;b&gt;一个人的童话&lt;/b&gt;，捞月亮的人，最好的债，炼金术&lt;br&gt;（之前听知更听了一个多月，听到宿舍的人都要吐了，但是歌词写得真心好，配上她的声音，让我无法自拔。）&lt;br&gt;古巨基-&lt;b&gt;心跳回忆&lt;/b&gt;，爱神，必杀技，重复犯错，花洒，&lt;b&gt;没有脚的小鸟&lt;/b&gt;，还是好朋友，&lt;b&gt;Shirley&lt;/b&gt;&lt;br&gt;麦浚龙-&lt;b&gt;罗生门&lt;/b&gt;，&lt;b&gt;念念不忘&lt;/b&gt;，弱水三千，彳亍，吃鲸鱼的人&lt;br&gt;王菲-暗涌，如风，新房客，&lt;b&gt;花事了，邮差，&lt;/b&gt;&lt;b&gt;开到荼蘼&lt;/b&gt;&lt;br&gt;张敬轩-&lt;b&gt;尘埃落定&lt;/b&gt;，不吐不快，过云雨，春秋，&lt;b&gt;假如让你吻下去(Live),&lt;/b&gt;灵魂相认,Stop The Time&lt;br&gt;谢安琪-喜帖街，独家村，两生关，&lt;b&gt;沧海遗珠&lt;/b&gt;，祝英台，雨过天阴&lt;br&gt;林峰：爱在记忆中找你，&lt;b&gt;幼稚完&lt;/b&gt;，双子龙，浮生若水&lt;br&gt;周柏豪-&lt;b&gt;走狗&lt;/b&gt;，够钟，还记得，六天，同天空&lt;br&gt;冯允谦-&lt;b&gt;讲多无谓&lt;/b&gt;，年月匆匆，世界剧团&lt;br&gt;C AllStar-&lt;b&gt;天梯&lt;/b&gt;，薄情歌&lt;br&gt;莫文蔚-&lt;b&gt;未了情&lt;/b&gt;，&lt;b&gt;北极光&lt;/b&gt;，色情男女，如果没有你，忽然之间，电台情歌，广岛之恋，阴天&lt;br&gt;谭咏麟-爱在深秋，一生中最爱，再见亦是泪&lt;br&gt;陈小春-犯贱&lt;b&gt;，&lt;/b&gt;献世&lt;b&gt;，&lt;/b&gt;相依为命&lt;br&gt;陈柏宇-&lt;b&gt;逸后&lt;/b&gt;，你瞒我瞒&lt;br&gt;李克勤-&lt;b&gt;纸牌屋，&lt;/b&gt;合久必婚，爱不释手，一生不变&lt;br&gt;张智霖-你太善良，恋上外星人&lt;br&gt;卫兰-就算世界无童话，Never let you go&lt;br&gt;黎明-情深说话未曾讲，两个人的烟火&lt;br&gt;关淑怡-&lt;b&gt;地尽头&lt;/b&gt;，深夜港湾&lt;br&gt;许廷铿-面具&lt;br&gt;彭羚-&lt;b&gt;夜风铃&lt;/b&gt;，你未讲过，让我跟你走&lt;br&gt;张国荣-&lt;b&gt;这些年来，&lt;/b&gt;最冷一天，左右手（国语版：全世界我只想你来爱我），心跳呼吸正常&lt;br&gt;卢巧音-垃圾，三角志，落地生花，逆插玫瑰，哲学家，天演论&lt;br&gt;容祖儿-&lt;b&gt;破相（concert YY版）&lt;/b&gt;，心淡，烟霞，&lt;b&gt;争气，&lt;/b&gt;墙纸&lt;br&gt;苏永康-&lt;b&gt;那谁&lt;/b&gt;，越吻越伤心，老死&lt;br&gt;Shine-燕尾蝶&lt;br&gt;何韵诗-&lt;b&gt;木纹，痴情司&lt;/b&gt;&lt;br&gt;薛凯琪-慕容雪，南瓜车，所有下雨天，&lt;b&gt;冷笑话&lt;/b&gt;，奇洛李维斯回信（真的回信了）&lt;br&gt;许志安-情人甲，&lt;b&gt;昨迟人&lt;/b&gt;（强烈推荐）&lt;br&gt;王菀之-画意，爱与奇异果&lt;br&gt;洪卓立-&lt;b&gt;弥敦道&lt;/b&gt;，回到最爱的那天，&lt;b&gt;一夜城&lt;/b&gt;&lt;br&gt;吴若希-越难越爱，眼泪的秘密&lt;br&gt;连诗雅-I'm Still Loving You，说一句&lt;br&gt;陈慧琳-谁愿放手&lt;br&gt;余文乐-还你门匙&lt;br&gt;刘浩龙-&lt;b&gt;思觉失调&lt;/b&gt;，火花不等人&lt;br&gt;黄耀明-小王子，&lt;b&gt;漩涡，我这么容易爱人&lt;/b&gt;&lt;br&gt;官恩娜-千帆，恋上航空，地平线（人称海陆空三部曲）&lt;br&gt;郑中基-&lt;b&gt;爱是最大权利&lt;/b&gt;&lt;br&gt;张学友-&lt;b&gt;她来听我的演唱会，相爱很难，&lt;/b&gt;&lt;b&gt;李&lt;/b&gt;&lt;b&gt;香兰，眼泪，黑白画映，每天爱你多一些&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;要特别推荐的是陈奕迅的《阿牛》，整首歌可以说句句高潮，贴一段网易云网友的评论：&lt;br&gt;&lt;b&gt;如果有一天我结婚了 你一定要来当我的伴郎 因为总算我们一起踏上了红毯 后来阿我又想 来参加我的婚礼吧 砸了我的场子吧 来抢我吧 我一定会跟你走的 最后我又想 你还是别来参加我的婚礼了 因为我怕在婚礼上看见你 你什么都没做 我却想跟你走 一直没告诉你 其实我才是牛&lt;/b&gt;&lt;br&gt;&lt;br&gt;以下是非粤语系&lt;br&gt;李剑青-&lt;b&gt;匆匆&lt;/b&gt;（老李的词，平淡直白又直击人心，不循环你来打答主！！）&lt;br&gt;卡奇社-&lt;b&gt;日光倾城&lt;/b&gt;，云&lt;br&gt;谭维维-如果有来生&lt;br&gt;王啸坤-&lt;b&gt;北京下雨了&lt;/b&gt;，两湾城，征程&lt;br&gt;金玟岐-&lt;b&gt;岁月神偷&lt;/b&gt;，爱呀&lt;br&gt;老狼-恋恋风尘&lt;br&gt;叶蓓-白衣飘飘的年代，B小调雨后&lt;br&gt;姚贝娜-御龙吟&lt;br&gt;杜德伟-情人，嫁给我（将来的求婚歌曲我会告诉你？当然首先...）&lt;br&gt;古剑奇谭同人原创-&lt;b&gt;咫尺相思 &lt;/b&gt;&lt;br&gt;王力宏-&lt;b&gt;星期六的深夜&lt;/b&gt;，你不在，依然爱你，一首简单的歌，花田错，你不知道的事&lt;br&gt;蔡健雅-被驯服的象，&lt;b&gt;陌生人&lt;/b&gt;&lt;br&gt;毅光年-&lt;b&gt;怎样&lt;/b&gt;（原唱是戴佩妮，但是我更喜欢这个版本）&lt;br&gt;罗志祥-好朋友&lt;b&gt;，&lt;/b&gt;&lt;b&gt;自我催眠&lt;/b&gt;（罗志祥最好听的一首竟然是周董作的曲...）&lt;br&gt;元卫觉醒-&lt;b&gt;夏天的风&lt;/b&gt;，分手礼&lt;br&gt;光良-天堂&lt;br&gt;苏打绿-&lt;b&gt;你被写在我的歌里&lt;/b&gt;&lt;br&gt;刘若英-&lt;b&gt;亲爱的路人，听说&lt;br&gt;&lt;/b&gt;旅行团-&lt;b&gt;生命是场马拉松&lt;/b&gt;，厦门之夏&lt;br&gt;袁娅维-旅行中忘记，卑鄙&lt;br&gt;梁咏琪-原来爱情这么伤&lt;br&gt;陈升-&lt;b&gt;牡丹亭外&lt;/b&gt;，不再让你孤单&lt;br&gt;庄心妍-一直想着他&lt;br&gt;杨宗纬-人质&lt;br&gt;汪峰-美丽世界的孤儿&lt;br&gt;水木年华-&lt;b&gt;中学时代&lt;/b&gt;，轻舞飞扬&lt;br&gt;朴树-且听风吟，我爱你再见，傻子才悲伤，&lt;b&gt;开往冬天的火车&lt;/b&gt;&lt;br&gt;丁浩然-长岛的雪&lt;br&gt;韦礼安-&lt;b&gt;有没有&lt;/b&gt;&lt;br&gt;陈明-那个人&lt;br&gt;陈绮贞-鱼，还是会寂寞&lt;br&gt;钟立风-&lt;b&gt;麦田上的乌鸦&lt;/b&gt;，在路旁&lt;br&gt;筠子-&lt;b&gt;立秋&lt;/b&gt;&lt;br&gt;迪克牛仔-：没有爱的人都一个样&lt;br&gt;HITA-采薇&lt;br&gt;&lt;br&gt;&lt;br&gt;Keane-&lt;b&gt;Somewhere Only We Know&lt;/b&gt;（好听，好听，好听，强调三次。）&lt;br&gt;Mr.BIG-&lt;b&gt;Wild World,To Be With You&lt;br&gt;&lt;/b&gt;&lt;br&gt;Masetti-&lt;b&gt;Our Own Heaven&lt;/b&gt;&lt;br&gt;Santana-While My Guitar Gently Weeps&lt;br&gt;Justin Timberlake-Five Hundred Miles，Where Is The Love?&lt;br&gt;The Script-If You Could See Me Now&lt;b&gt;,&lt;/b&gt;Superheroes&lt;b&gt;,&lt;/b&gt;Hall of Fame&lt;br&gt;Amy Winehouse-You Know I'm No Good，&lt;b&gt;Valerie&lt;/b&gt;(推荐看MV，蛮好看的)&lt;br&gt;Ed Sheeran-Photograph&lt;br&gt;Michael Bublé-Home&lt;br&gt;Howard Shore-&lt;b&gt;The last goodbye&lt;/b&gt;&lt;br&gt;Hozier-Like Real People Do&lt;br&gt;Leonard Cohen-&lt;b&gt;In My Secret Life&lt;/b&gt;&lt;br&gt;Galen Crew-&lt;b&gt;Sleepyhead&lt;/b&gt;&lt;br&gt;Loudness-So Lonely，Soldier of Fortune&lt;br&gt;Hozier-Take Me To Church&lt;br&gt;John Legend-All of me&lt;br&gt;Radiohead-&lt;b&gt;Fake Plastic Trees，A Wolf At The Door，No Surprises&lt;/b&gt;&lt;br&gt;Westlife-&lt;b&gt;The Rose&lt;/b&gt;，&lt;b&gt;Angel，&lt;/b&gt;&lt;b&gt;Desperado&lt;/b&gt;&lt;br&gt;James Blunt-&lt;b&gt;1973&lt;/b&gt;&lt;br&gt;Jason Mraz-Lucky，&lt;b&gt;Try Try Try&lt;/b&gt;&lt;br&gt;DMX-&lt;b&gt;X Gon' Give It to Ya&lt;/b&gt;（这首必须听没有消音的...）&lt;br&gt;The Offspring-&lt;b&gt;You're Gonna Go Far, Kid &lt;/b&gt;(同上)&lt;br&gt;Suede-&lt;b&gt;Beautiful Ones&lt;/b&gt;（我的手机铃声...前奏一出全场瞩目，然而大部分时间是不会响的...）Eagles-Take It Easy（老鹰的歌都被一首加州旅馆给盖过去了，其实还有很多好歌。）&lt;br&gt;&lt;br&gt;徳永英明-&lt;b&gt;恋におちて-Fall in Love-&lt;/b&gt;，駅，First Love，なごり雪  &lt;br&gt;（徳永英明的声音太有特色了，还有很多好听的！推荐他这张专辑&lt;a href=&quot;//link.zhihu.com/?target=http%3A//music.163.com/%23/m/playlist%3Fid%3D95083901&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;网易云音乐 听见好时光&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;桑田佳祐-&lt;b&gt;明日晴れるかな&lt;/b&gt;，真夏の果实&lt;br&gt;伊藤由奈-&lt;b&gt;T&lt;/b&gt;&lt;b&gt;rust you&lt;/b&gt;&lt;br&gt;YUI-&lt;b&gt;Again&lt;/b&gt;&lt;br&gt;Lil'B-&lt;b&gt;つないだ手&lt;/b&gt;(最爱的钢炼曲)&lt;br&gt;NICO Touches the Walls-&lt;b&gt;ホログラム&lt;/b&gt;&lt;br&gt;福原美穂-Let It Out(这首有中文版，云の泣所唱，非常赞）&lt;br&gt;山崎まさよし-&lt;b&gt;One more time, One more chance，&lt;/b&gt;花火&lt;br&gt;吉川慶-Rising Road ~メインテーマ~&lt;br&gt;MONGOL800-&lt;b&gt;小さな恋のうた&lt;/b&gt;（新垣结衣也唱过，但是看过求婚大作战的朋友，一定会觉得这个版本是最适合的...）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;欢迎关注我的网易云~ID是：Lx螃蟹甲&lt;/b&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我发现好多答案都是英文歌，母语是粤语，所以推荐粤语多一些，当然后面还有国语英语日语。加粗是我强力推荐的歌，而推荐的歌手有些歌已经很出名，就不特地列出来了。每一首我听了都会单曲循环一阵子！<b>（</b><b>不定时更新）</b>--------------------------------------…
+
+<a href="/question/34863117/answer/60790234" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="19727748-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-08-25" target="_blank" href="/question/34863117/answer/60790234">编辑于 2016-01-26</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>198 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="19508554"
+data-atoken="60245033"
+data-collapsed="False"
+data-created="1440163708"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/34863117/answer/60245033">
+<meta itemprop="answer-id" content="19508554">
+<meta itemprop="answer-url-token" content="60245033">
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>109</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">109</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+
+
+<a class="author-link"
+data-tip="p$t$lu-shan-shi"
+target="_blank" href="/people/lu-shan-shi"
+>吕山石</a>
+
+
+<span title="跳脱混乱的哲学学徒" class="bio">，跳脱混乱的哲学学徒</span>
+
+</div>
+<div class="zm-item-vote-info" data-votecount="109">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">109</span>&nbsp;人赞同</a></span>
+
+
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="6151772" data-action="/answer/content" data-author-name="吕山石" data-entry-url="/question/34863117/answer/60245033">
+
+<textarea hidden class="content">无头的op1《裏切りの夕焼け》&lt;br&gt;开头的「咚咚咚咚   咚咚咚咚」就让我觉得「我擦这歌有点不妙！」&lt;br&gt;后面唱起来的时候简直洋溢着池袋的都市风。&lt;br&gt;配上op动画更配喔。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+无头的op1《裏切りの夕焼け》开头的「咚咚咚咚 咚咚咚咚」就让我觉得「我擦这歌有点不妙！」后面唱起来的时候简直洋溢着池袋的都市风。配上op动画更配喔。
+
+</div>
+
+
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="19508554-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/34863117/answer/60245033">发布于 2015-08-21</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>31 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/34863117" class="zg-link-litblue">查看全部 986 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="6151772">关注问题</button>
+
+12354
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="63d7ec14a659c3a64b01a6059fc36c2a" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<span class="zm-item-link-avatar">
+<img title="知乎用户" class="zm-item-img-avatar" src="https://pic1.zhimg.com/da8e974dc_m.jpg"/>
+</span>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title">知乎用户</h2>
+
+<div class="zg-big-gray">装作世界上最幸福的人，并且时不时秀一下。</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/nan-ji-dong/followers" class="zg-link-gray-normal">79 关注者</a>
+/
+<a target="_blank" href="/people/nan-ji-dong/asks" class="zg-link-gray-normal">118 提问</a>
+/
+<a target="_blank" href="/people/nan-ji-dong/answers" class="zg-link-gray-normal">161 回答</a>
+/
+<a target="_blank" href="/people/nan-ji-dong" class="zg-link-gray-normal">1243 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-loc="answer_up" data-params='{&quot;question_token&quot;: 34863117}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/34863117/answer/61675901/collections" data-za-c="collect" data-za-a="click_answer_collected_count" data-za-l="sidebar_answer_collected_count">41</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1428548573">
+<h2 class="zm-item-title ">
+<a href="/collection/52946319">动画和电影</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/water-five" data-tip="p$t$water-five" class="zg-link-litblue"> water five </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/52946319/followers" data-za-c="collect" data-za-a="visit_answer_collections" data-za-l="sidebar_answer_collection_followed_count">823 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1441765840">
+<h2 class="zm-item-title ">
+<a href="/collection/71575275">艺术相关∠( ᐛ 」∠)＿</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/qing-lu-87" data-tip="p$t$qing-lu-87" class="zg-link-litblue"> 青律 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/71575275/followers" data-za-c="collect" data-za-a="visit_answer_collections" data-za-l="sidebar_answer_collection_followed_count">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1436504328">
+<h2 class="zm-item-title ">
+<a href="/collection/65171915">关于吉他</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/wang-qi-han-47" data-tip="p$t$wang-qi-han-47" class="zg-link-litblue"> 王麒涵 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/65171915/followers" data-za-c="collect" data-za-a="visit_answer_collections" data-za-l="sidebar_answer_collection_followed_count">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1440491019">
+<h2 class="zm-item-title ">
+<a href="/collection/70037382">收藏</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/dan-yuan-ni-de-xiao" data-tip="p$t$dan-yuan-ni-de-xiao" class="zg-link-litblue"> 乱漫暮 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/70037382/followers" data-za-c="collect" data-za-a="visit_answer_collections" data-za-l="sidebar_answer_collection_followed_count">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1463454785">
+<h2 class="zm-item-title ">
+<a href="/collection/100748901">来</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/tao-tao-mao-mao-chong" data-tip="p$t$tao-tao-mao-mao-chong" class="zg-link-litblue"> 淘淘毛毛虫 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/100748901/followers" data-za-c="collect" data-za-a="visit_answer_collections" data-za-l="sidebar_answer_collection_followed_count">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix" data-za-module="RelatedQuestions">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/21738042" data-id="876165">
+有哪些可以单曲循环一星期的歌曲值得推荐？
+</a> <span class="num">862 个回答</span><meta itemprop="followerCount" content="7526" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26611316" data-id="2827478">
+现在再听周杰伦的歌是什么感受？
+</a> <span class="num">1377 个回答</span><meta itemprop="followerCount" content="5940" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/28666274" data-id="3649486">
+有哪些稍微一改动，马上意境大变的歌词？
+</a> <span class="num">2418 个回答</span><meta itemprop="followerCount" content="11157" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26348226" data-id="2722148">
+无损压缩和有损压缩音乐有何区别？
+</a> <span class="num">55 个回答</span><meta itemprop="followerCount" content="2193" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/19798547" data-id="99451">
+喜欢单曲循环吗，为什么？
+</a> <span class="num">59 个回答</span><meta itemprop="followerCount" content="89" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/19623579" data-id="29342">
+中国有哪些优秀的摇滚乐队？
+</a> <span class="num">582 个回答</span><meta itemprop="followerCount" content="5621" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/25111737" data-id="2226717">
+有哪些非常冷门，但是好听到爆，可以单曲循环一整天的歌曲？
+</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="94" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/20127202" data-id="230959">
+哪些非电影配乐大师的优秀流行音乐人做过经典的电影配乐？
+</a> <span class="num">39 个回答</span><meta itemprop="followerCount" content="361" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/22041181" data-id="997321">
+你最近在单曲循环什么歌？
+</a> <span class="num">65 个回答</span><meta itemprop="followerCount" content="117" />
+</li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/26016020" data-id="2589348">
+华语乐坛下一个时代会怎样开启？
+</a> <span class="num">68 个回答</span><meta itemprop="followerCount" content="602" />
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-09-03</span>
+</p>
+<p>
+所属问题被浏览 <strong>603646</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-loc="answer_down" data-params='{&quot;question_token&quot;: 34863117}'></div>
+
+</div>
+
+
+</div>
+
+
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1467212259000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.dd14f05c.js","Community":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.234486e7.js","OrgAnalytics":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/OrgAnalytics.c3ed6942.js","common":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.6afa2b6b.js","CommentApp":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.d7b75080.js"}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"isEditLocked":false,"detailEditReasonRequired":false,"editPermission":false,"isAnon":0,"qid":6151772,"urlToken":34863117,"isOrg":false,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="current_question_bio">{"selected_bio":null,"type":null,"value":""}</script>
+<script type="text/json" class="json-inline" data-name="current_answer">{"urlToken":61675901}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/base.445759cc.js"></script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/common.390500ab.js"></script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.c3ad1a77.js" async></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/page-main.fb9d220d.js"></script>
+<meta name="entry" content="ZH.entrySA" data-module-id="page-main">
+
+<script type="text/zscript" znonce="8b80e1cf3cd446918e9264e39b5dccb4"></script>
+
+<input type="hidden" name="_xsrf" value="da1cf0d04195d523ad2720bf545ae69f"/>
+</body>
+</html>
