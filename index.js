@@ -75,7 +75,7 @@ http.createServer(function (req, res) {
   wechat.link(function (data) {
 
     var result_content = MusicHandle.getCache();
-    if(result_content.length <10 ){
+    if(result_content.length <49 ){
 	result_content = "小帅还在实作中，要不客官再等等？  再发送一次可好";
 
 	var msg = {                                                                                                                                
@@ -97,6 +97,7 @@ http.createServer(function (req, res) {
         Content : result_content                                                                                                            
         }                                                                                                                                          
         wechat.send(msg); 
+MusicHandle.resetCache();
     }
     
 	

@@ -2,13 +2,37 @@ var fs = require('fs')
 var http = require('http')
 
 var wechat = require('node-wechat')("thisisonesimpletoken");   
+var Extractor = require('html-extractor');
+myExtractor = new Extractor();
+
+// black list
+skip = ["you"];
+skipextend = ["thiswordwillnevershowinasongasasongname"];
+
+ container = [];
+ container2 = [];
+
+result = [];
+
+retriveindextop = 16;
+doorkeepertop = 99;
 
 
-var container = [];
-var container2 = [];
-var result = [];
+ cached_content = '';
 
-var cached_content = '';
+function _isin(keyword,array){
+  var _arraylen = array.length;
+  var _forreturn = false;
+  for(var _index=0;_index<_arraylen;_index++) 
+  {
+	if(array[_index].indexOf(keyword)>-1){
+		// find one 
+	        _forreturn = true;	
+	}
+  }
+  return _forreturn;
+}
+
 
 function handle_content(content,ToUserName,FromUserName){
 
@@ -16,6 +40,7 @@ function handle_content(content,ToUserName,FromUserName){
 
   // console.log(content)
   // init content first 
+if(container.length<9){
   var input = fs.createReadStream('./music/bias/src' + '/list1.txt');
 
   var remaining = '';
@@ -36,6 +61,51 @@ function handle_content(content,ToUserName,FromUserName){
   input.on('end', function() {
 
       var doorkeeper = 0;
+      result = [];
+
+      var result_content = '';
+      // now content init is finished 
+      var containerlen = container.length;
+       for(var i=0;i<containerlen;i++){
+		if(content.indexOf(container[i])>0 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
+			 console.log(container[i] +' it is it ');
+		         console.log(content.indexOf(container[i]));
+			 console.log(container[i].length);
+			doorkeeper += 1;
+			result.push(container2[i]);
+			skipextend.push(container[i]);
+		}
+		// add doorkeeper
+		if(doorkeeper>doorkeepertop)
+		{
+			console.log("break now");
+			break;
+		}
+	} 
+	
+        // random get the result
+        var resultlen = result.length;	
+        console.log("result is : "+result);
+	var randomindex = 0;
+	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
+	{
+	        randomindex = 	parseInt(Math.random()*resultlen);
+		console.log("random : "+randomindex);
+		result_content += result[randomindex] + "\n";
+			
+	}
+    
+	
+
+      console.log(" cache the content now ");
+      cached_content = result_content;
+
+  });
+}
+else{
+// have the cached container
+
+      var doorkeeper = 0;
 
       var result_content = '';
       // now content init is finished 
@@ -53,12 +123,9 @@ function handle_content(content,ToUserName,FromUserName){
 		}
 	} 
 	
-	
-
       console.log(" cache the content now ");
       cached_content = result_content;
-
-  });
+}
 
 
 
@@ -66,21 +133,29 @@ function handle_content(content,ToUserName,FromUserName){
 
 }
 
+function _resetCache(){
+
+cached_content = "";
+
+}
 
 function _getCache(){
 	return cached_content;
 }
 
 function func(data) {
-  container.push(data.split(":")[0]);
-  container2.push(data.split(":")[3]);
+  container.push(data.split(": ")[0]);
+  container2.push(data.split(": ")[2]);
 }
 
 
 function _handle(link,ToUserName,FromUserName){
+console.log("link is : "+link);
+
 
   http.get(link,function(res){                                                                                                                   
     var html = '';
+    res.setEncoding("utf-8"); 
     res.on('data',function(data){
       html += data;
     });
@@ -88,10 +163,10 @@ function _handle(link,ToUserName,FromUserName){
     res.on('end',function(){
 
       console.log(" res on end now ");
-      // console.log(html);
-      // handle with html content
-    //  console.log("handle with content");
-     handle_content(html,ToUserName,FromUserName);
+      myExtractor.extract(html,function(err,data){
+        handle_content(data.body,ToUserName,FromUserName);
+        // console.log(data.body);
+      });
     });                                                                                                                    
   }); 
 
@@ -103,8 +178,9 @@ module.exports = {
                                                                                                                                                
  handle : _handle,
 
- getCache : _getCache                                                                                                                         
+ getCache : _getCache   ,                                                                                                                      
                                                                                                                                                
+resetCache : _resetCache
 }
 
 
