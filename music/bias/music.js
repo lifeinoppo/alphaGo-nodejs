@@ -12,29 +12,17 @@ skip = ["you"];
 skipextend = ["thiswordwillnevershowinasongasasongname"];
 skipclicked = ["me"];
 
- container = [];
- container2 = [];
+container = [];
+container2 = [];
 
 result = [];
+result_keyword = [];
 
 retriveindextop = 16;
 doorkeepertop = 99;
 
 
- cached_content = '';
-
-function _isin_old(keyword,array){
-  var _arraylen = array.length;
-  var _forreturn = false;
-  for(var _index=0;_index<_arraylen;_index++) 
-  {
-	if(array[_index].indexOf(keyword)>-1){
-		// find one 
-	        _forreturn = true;	
-	}
-  }
-  return _forreturn;
-}
+cached_content = '';
 
 function _isin(keyword,array){
   var _forreturn = false;
@@ -76,6 +64,7 @@ if(container.length<9){
 
       var doorkeeper = 0;
       result = [];
+      result_keyword = [];
       skipextend = [];
 
       var result_content = '';
@@ -85,6 +74,7 @@ if(container.length<9){
 		if(content.indexOf(container[i])>0 && container[i].length>2 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
 			doorkeeper += 1;
 			result.push(container2[i]);
+			result_keyword.push(container[i]);
 			skipextend.push(container[i]);
 		}
 		// add doorkeeper
@@ -119,6 +109,7 @@ else{
 
       var doorkeeper = 0;
       result = [];
+      result_keyword = [];
       skipextend = [];
       md5tool.clear_md5();
 
@@ -126,9 +117,10 @@ else{
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i])>0 && container[i].length>2 &&  !_isin(container[i],skip) && !_isin(container[i],skipextend) && !_isin(container2[i],skipclicked)){
+		if(content.indexOf(container[i])>0 && container[i].length>2 &&  !_isin(container[i],skip) && !_isin(container[i],skipextend) && !_isin(container[i],skipclicked)){
 			doorkeeper += 1;
 			result.push(container2[i]);
+			result_keyword.push(container[i]);
 			// console.log(" pushed  "+container2[i]);
 			skipextend.push(container[i]);
 		}
@@ -150,7 +142,7 @@ else{
 		// for debug , use retriveindex only
 		randomindex = retriveindex;	
 		// console.log("random : "+randomindex);
-		result_content += result[randomindex] + "\n" + md5tool.generate_push_return(result[randomindex])  +  "\n";
+		result_content += result[randomindex] + "\n" + md5tool.generate_push_return(result_keyword[randomindex])  +  "\n";
 			
 	}
        // console.log(" cache the content now ");
