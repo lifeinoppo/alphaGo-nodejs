@@ -34,7 +34,7 @@ function _isin(keyword,array){
 }
 
 
-function handle_content(content,ToUserName,FromUserName){
+function _handle_content(content){
 
 
 
@@ -127,7 +127,7 @@ else{
 	
         // random get the result
         var resultlen = result.length;	
-        console.log("result is : "+result);
+        // console.log("result is : "+result);
 	var randomindex = 0;
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
@@ -136,7 +136,7 @@ else{
 		result_content += result[randomindex] + "\n" + "\n";
 			
 	}
-       console.log(" cache the content now ");
+       // console.log(" cache the content now ");
       cached_content = result_content;
  }
 
@@ -159,7 +159,7 @@ function func(data) {
 }
 
 
-function _handle(link,ToUserName,FromUserName){
+function _handle(link){
 
 
   http.get(link,function(res){                                                                                                                   
@@ -173,7 +173,7 @@ function _handle(link,ToUserName,FromUserName){
 
       //console.log(" res on end now ");
       myExtractor.extract(html,function(err,data){
-        handle_content(data.body,ToUserName,FromUserName);
+        _handle_content(data.body);
         // console.log(data.body);
       });
     });                                                                                                                    
@@ -186,6 +186,8 @@ function _handle(link,ToUserName,FromUserName){
 module.exports = {                                                                                                                             
                                                                                                                                                
  handle : _handle,
+
+ handle_content : _handle_content,
 
  getCache : _getCache   ,                                                                                                                      
                                                                                                                                                

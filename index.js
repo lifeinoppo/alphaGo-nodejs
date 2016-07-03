@@ -1,7 +1,8 @@
 var http = require('http'),
     wechat = require('node-wechat')("thisisonesimpletoken");
 
-var MusicHandle = require("./music/bias/index.js");
+var MusicHandle = require("./music/bias/music.js");
+var Md5Handle = require("./music/bias/md5_generator.js");
 
 http.createServer(function (req, res) {
   //first check token, make sure the communication protocol meets standard
@@ -12,11 +13,49 @@ http.createServer(function (req, res) {
   // start the concrete handling 
   wechat.text(function (data) {
 
-    //console.log(data.ToUserName);
-    //console.log(data.FromUserName);
-    //console.log(data.CreateTime);
-//    console.log("enter text");
-    //...
+  // md5 experiment 
+   var Md5HandleResult = Md5Handle.search_md5_return(data.Content);
+   if(Md5HandleResult !== "false"){
+	// got one md5 index
+        MusicHandle.populateSkip(Md5HandleResult); 
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+        Content : " Message Collected, thks. "                                                                                                           
+        }                                                                                                                                          
+	
+   }
+   else{
+    //  temporarily added content handle for music 
+    if(data.Content.length>29)
+    {
+     // time for some music 
+
+    var result_content = MusicHandle.getCache();
+    if(result_content.length <49 ){
+	result_content = "小帅还在实作中，要不客官再等等？  再发送一次可好";
+
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+        Content : result_content                                                                                                            
+        }                                                                                                                                          
+     //   wechat.send(msg); 
+    	MusicHandle.handle_content(data.Content);
+     }else{
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+        Content : result_content                                                                                                            
+        }                                                                                                                                          
+    //    wechat.send(msg); 
+	MusicHandle.resetCache();
+    }
+    
+    }else{
 
     var msg = {
       FromUserName : data.ToUserName,
@@ -35,6 +74,9 @@ http.createServer(function (req, res) {
         {"Title":"WeiBo",  "Description":"Weibo", "PicUrl":"http://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo_b.png", "Url" : "http://s.weibo.com/weibo/"+data.Content+"&Refer=index"} 
      ]
     }
+
+   }  // end of if(data.Content.length > 29) ?
+  } // end of if md5  handling
     //send message out 
     wechat.send(msg);
   });
@@ -85,11 +127,11 @@ http.createServer(function (req, res) {
         Content : result_content                                                                                                            
         }                                                                                                                                          
         wechat.send(msg); 
-    	MusicHandle.handle(data.Url,data.ToUserName,data.FromUserName);
+    	MusicHandle.handle(data.Url);
     }
     else{
         
-       console.log("content is : "+result_content);
+       //console.log("content is : "+result_content);
 	var msg = {                                                                                                                                
         FromUserName : data.ToUserName,                                                                                                          
         ToUserName : data.FromUserName,                                                                                                          
@@ -97,7 +139,7 @@ http.createServer(function (req, res) {
         Content : result_content                                                                                                            
         }                                                                                                                                          
         wechat.send(msg); 
-MusicHandle.resetCache();
+	MusicHandle.resetCache();
     }
     
 	
