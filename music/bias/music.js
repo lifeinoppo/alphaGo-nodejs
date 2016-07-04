@@ -12,8 +12,11 @@ skip = ["you"];
 skipextend = ["thiswordwillnevershowinasongasasongname"];
 skipclicked = ["me"];
 
-container = [];
-container2 = [];
+singer_reserve = [];
+
+container = [];  // name of song
+container2 = []; // links 
+container_singer = [];  // name of singer
 
 result = [];
 result_keyword = [];
@@ -27,13 +30,11 @@ cached_content = '';
 function _isin(keyword,array){
   var _forreturn = false;
 
-console.log("arr is : "+array + " keyword is  "+keyword);
 
   if(array.indexOf(keyword)>-1){
 	_forreturn = true;
   }
 
-console.log(" forreturn is :  "+_forreturn);
 
   return _forreturn;
 }
@@ -156,6 +157,28 @@ function _populateSkip(keyword){
     skipclicked.push(keyword); 
 }
 
+function _populateSinger(nameinthis){
+  // baike is length 5, see if chinese characters are different
+  console.log("length : "+nameinthis.length);
+  if(nameinthis.length>5){
+  	var _singer_name = nameinthis.substring(0,nameinthis.length-5);
+	singer_reserve.push(_singer_name);
+  	console.log("populate singer name : "+_singer_name);
+  }else{
+	// can not do anything 
+  }
+   
+}
+
+function _check_singer_from_baike(contenttitle){
+    var _forreturn = false;
+    if(contenttitle.indexOf("百度百科")>-1){
+	// then baike is inside 
+	_forreturn = true;
+    }	
+    return _forreturn;
+}
+
 function _resetCache(){
 
 	cached_content = "";
@@ -168,6 +191,7 @@ function _getCache(){
 
 function func(data) {
   container.push(data.split(": ")[0]);
+  container_singer.push(data.split(": ")[1]);
   container2.push(data.split(": ")[2]);
 }
 
@@ -186,8 +210,14 @@ function _handle(link){
 
       //console.log(" res on end now ");
       myExtractor.extract(html,function(err,data){
-        _handle_content(data.body);
-        // console.log(data.body);
+	if( err ){
+		throw( err )
+    	} else {
+		if(_check_singer_from_baike(data.meta.title)){
+			_populateSinger(data.meta.title);
+		}
+       		 _handle_content(data.body);
+	}
       });
     });                                                                                                                    
   }); 
