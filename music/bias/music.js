@@ -12,7 +12,7 @@ skip = ["you"];
 skipextend = ["thiswordwillnevershowinasongasasongname"];
 skipclicked = ["me"];
 
-singer_reserve = ["G.E.M"];
+singer_reserve = [];
 
 container = [];  // name of song
 container2 = []; // links 
@@ -106,6 +106,7 @@ if(container.length<9){
         var resultlen = result.length;	
         // console.log("result is : "+result);
 	var randomindex = 0;
+        if(resultlen > 3){
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
 	        randomindex = 	parseInt(Math.random()*resultlen);
@@ -113,7 +114,9 @@ if(container.length<9){
 		result_content += result[randomindex] + "\n" + "\n";
 			
 	}
-    
+   	}else{
+		result_content += "well , i did not find anything that meets \n your  request, maybe next time i will try more harder .";
+	} 
 	
 
       // console.log(" cache the content now ");
@@ -166,7 +169,7 @@ else{
 			
 	}
 	}else{
-		result_content += "empty";
+		result_content += "well , i did not find anything that meets \n your  request, maybe next time i will try more harder .";
 	}
        // console.log(" cache the content now ");
       cached_content = result_content;
@@ -185,9 +188,12 @@ function _populateSinger(nameinthis){
   if(nameinthis.length>7){
   	var _singer_name = nameinthis.substring(0,nameinthis.length-7);
 	singer_reserve.push(_singer_name);
+  	cached_content = "now seems i got a new singer into my database, \n  whose name is : "+_singer_name+" as you know ";
   }else{
 	// can not do anything 
+  	cached_content = "now seems i can not got a new singer into my database, \n  cause shot length does not meet requirement ";
   }
+  
    
 }
 
@@ -236,8 +242,9 @@ function _handle(link){
     	} else {
 		if(_check_singer_from_baike(data.meta.title)){
 			_populateSinger(data.meta.title);
+		}else{
+       			_handle_content(data.body);
 		}
-       		 _handle_content(data.body);
 	}
       });
     });                                                                                                                    

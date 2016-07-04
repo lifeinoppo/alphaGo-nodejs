@@ -42,7 +42,6 @@ http.createServer(function (req, res) {
         //MsgType : "text",                                                                                                                      
         Content : result_content                                                                                                            
         }                                                                                                                                          
-     //   wechat.send(msg); 
     	MusicHandle.handle_content(data.Content);
      }else{
 	var msg = {                                                                                                                                
