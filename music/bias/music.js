@@ -12,7 +12,7 @@ skip = ["you"];
 skipextend = ["thiswordwillnevershowinasongasasongname"];
 skipclicked = ["me"];
 
-singer_reserve = [];
+singer_reserve = ["G.E.M"];
 
 container = [];  // name of song
 container2 = []; // links 
@@ -39,6 +39,19 @@ function _isin(keyword,array){
   return _forreturn;
 }
 
+function _isin_reverse(keyword,array){
+  var _forreturn = false;
+  console.log("keyword is : "+keyword);
+  for(var _reverseindex=0;_reverseindex<array.length;_reverseindex++){
+	if(keyword.indexOf(array[_reverseindex])>-1){
+		console.log(" got one shot for : "+keyword);
+		_forreturn = true;
+		break;
+	}
+  }
+
+  return _forreturn;
+}
 
 function _handle_content(content){
 
@@ -72,7 +85,10 @@ if(container.length<9){
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i])>0 && container[i].length>2 && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
+		if(content.indexOf(container[i])>0 && container[i].length>2 && _isin_reverse(container_singer[i].trim(),singer_reserve)  && !_isin(container[i],skip) && !_isin(container[i],skipextend)){
+			
+			// console.log("singer is : "+container_singer[i]+" length :  "+container_singer[i].length);
+
 			doorkeeper += 1;
 			result.push(container2[i]);
 			result_keyword.push(container[i]);
@@ -118,7 +134,8 @@ else{
       // now content init is finished 
       var containerlen = container.length;
        for(var i=0;i<containerlen;i++){
-		if(content.indexOf(container[i])>0 && container[i].length>2 &&  !_isin(container[i],skip) && !_isin(container[i],skipextend) && !_isin(container[i],skipclicked)){
+       // add singer mode  0704
+		if(content.indexOf(container[i])>0 && container[i].length>2 && _isin_reverse(container_singer[i].trim(),singer_reserve) && !_isin(container[i],skip) && !_isin(container[i],skipextend) && !_isin(container[i],skipclicked)){
 			doorkeeper += 1;
 			result.push(container2[i]);
 			result_keyword.push(container[i]);
@@ -137,14 +154,19 @@ else{
         var resultlen = result.length;	
         // console.log("result is : "+result);
 	var randomindex = 0;
+        // retriveindextop_adjust = (retriveindextop<result.length)?retriveindextop:result.length; // add exception handle  
+        if(resultlen > 2){
 	for(var retriveindex=0;retriveindex<retriveindextop;retriveindex++)
 	{
 	        randomindex = 	parseInt(Math.random()*resultlen);
 		// for debug , use retriveindex only
-		randomindex = retriveindex;	
+		// randomindex = retriveindex;	
 		// console.log("random : "+randomindex);
 		result_content += result[randomindex] + "\n" + md5tool.generate_push_return(result_keyword[randomindex])  +  "\n";
 			
+	}
+	}else{
+		result_content += "empty";
 	}
        // console.log(" cache the content now ");
       cached_content = result_content;
@@ -159,11 +181,10 @@ function _populateSkip(keyword){
 
 function _populateSinger(nameinthis){
   // baike is length 5, see if chinese characters are different
-  console.log("length : "+nameinthis.length);
-  if(nameinthis.length>5){
-  	var _singer_name = nameinthis.substring(0,nameinthis.length-5);
+  // strange of 7 here , should be 5 
+  if(nameinthis.length>7){
+  	var _singer_name = nameinthis.substring(0,nameinthis.length-7);
 	singer_reserve.push(_singer_name);
-  	console.log("populate singer name : "+_singer_name);
   }else{
 	// can not do anything 
   }
