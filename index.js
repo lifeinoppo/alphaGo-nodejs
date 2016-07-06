@@ -13,46 +13,34 @@ http.createServer(function (req, res) {
   // start the concrete handling 
   wechat.text(function (data) {
 
-  // md5 experiment 
-   var Md5HandleResult = Md5Handle.search_md5_return(data.Content);
-   if(Md5HandleResult !== "false"){
-	// got one md5 index
-        MusicHandle.populateSkip(Md5HandleResult); 
+  if((data.Content.indexOf("music")>-1&&data.Content.indexOf("music")<3) || (data.Content.indexOf("音乐")>-1&&data.Content.indexOf("音乐")<3)){
+	
+	var music  =  MusicHandle.cache_pop();
+	
 	var msg = {                                                                                                                                
         FromUserName : data.ToUserName,                                                                                                          
         ToUserName : data.FromUserName,                                                                                                          
         //MsgType : "text",                                                                                                                      
-        Content : " Message Collected, thks. "                                                                                                           
+	Content :  music
+
         }                                                                                                                                          
 	
-   }
-   else{
+  }else{
     //  temporarily added content handle for music 
     if(data.Content.length>29)
     {
-     // time for some music 
-
-    var result_content = MusicHandle.getCache();
-    if(result_content.length <49 ){
-	result_content = "小帅还在实作中，要不客官再等等？  再发送一次可好";
+        console.log("solo content handle for debug use");
+        // time for some music 
+        MusicHandle.loop(data.Content);
+	
+	var num = MusicHandle.get_cache_len();
 
 	var msg = {                                                                                                                                
         FromUserName : data.ToUserName,                                                                                                          
         ToUserName : data.FromUserName,                                                                                                          
         //MsgType : "text",                                                                                                                      
-        Content : result_content                                                                                                            
+        Content : "updated "+num+" songs today"                                                                                                            
         }                                                                                                                                          
-    	MusicHandle.handle_content(data.Content);
-     }else{
-	var msg = {                                                                                                                                
-        FromUserName : data.ToUserName,                                                                                                          
-        ToUserName : data.FromUserName,                                                                                                          
-        //MsgType : "text",                                                                                                                      
-        Content : result_content                                                                                                            
-        }                                                                                                                                          
-    //    wechat.send(msg); 
-	MusicHandle.resetCache();
-    }
     
     }else{
 
@@ -75,7 +63,7 @@ http.createServer(function (req, res) {
     }
 
    }  // end of if(data.Content.length > 29) ?
-  } // end of if md5  handling
+  } // end of if music keyword filter ?
     //send message out 
     wechat.send(msg);
   });
@@ -115,33 +103,18 @@ http.createServer(function (req, res) {
 
   wechat.link(function (data) {
 
-    var result_content = MusicHandle.getCache();
-    if(result_content.length <49 ){
-	result_content = "小帅还在实作中，要不客官再等等？  再发送一次可好";
-
-	var msg = {                                                                                                                                
-        FromUserName : data.ToUserName,                                                                                                          
-        ToUserName : data.FromUserName,                                                                                                          
-        //MsgType : "text",                                                                                                                      
-        Content : result_content                                                                                                            
-        }                                                                                                                                          
-        wechat.send(msg); 
-    	MusicHandle.handle(data.Url);
-    }
-    else{
-        
-       //console.log("content is : "+result_content);
-	var msg = {                                                                                                                                
-        FromUserName : data.ToUserName,                                                                                                          
-        ToUserName : data.FromUserName,                                                                                                          
-        //MsgType : "text",                                                                                                                      
-        Content : result_content                                                                                                            
-        }                                                                                                                                          
-        wechat.send(msg); 
-	MusicHandle.resetCache();
-    }
-    
+        var result = MusicHandle.handle(data.Url);
+	var num = MusicHandle.get_cache_len();
 	
+        var content_result = (result.indexOf("fail")>-1) ? "小帅正小憩，待会儿哈" : "updated "+num+" songs today . ";
+	var msg = {                                                                                                                                
+        FromUserName : data.ToUserName,                                                                                                          
+        ToUserName : data.FromUserName,                                                                                                          
+        //MsgType : "text",                                                                                                                      
+	Content : content_result
+
+        }                                                                                                                                          
+        wechat.send(msg); 
 
   });
 
