@@ -12,6 +12,9 @@ singers = [];
 songs = [];
 links = [];
 
+toplimit = 5; // will become 26 future
+
+
 _lock_index = 0;
 
 src_paths = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","U","V","W","X","Y","Z","T"];
@@ -102,25 +105,22 @@ function _read_src(src_path,content){
   links = [];
 
 
-	var input = fs.createReadStream(src_path);
 
-	var remaining = '';                                                                                                                          
-    input.on('data', function(data) {                                                                                                          
+    var remaining = '';                                                                                                                            var line = '';
+    fs.createReadStream(src_path).on('data', function(data) {                                                                                                          
                                                                                                                                                
     remaining += data;                                                                                                                         
     var index = remaining.indexOf('\n');                                                                                                       
     while (index > -1) {                                                                                                                       
-      var line = remaining.substring(0, index);                                                                                                
+      line = remaining.substring(0, index);                                                                                                
       remaining = remaining.substring(index + 1);          
       //console.log("got one ");                                                                                    
       func(line);                                                                                                                              
       index = remaining.indexOf('\n');                                                                                                         
     }                                                                                                                                          
                                                                                                                                                
-  });      
-
-
-  input.on("end",function(){
+  })      
+  .on("end",function(){
 
     console.log("end1");
     _lock_index ++;
@@ -162,7 +162,7 @@ function func(data) {
 function _handle(link){
 
   // do a lock here
-  if( (_lock_index < src_paths.length) && (_lock_index !== 0)){
+  if( (_lock_index < toplimit) && (_lock_index !== 0)){
 	return "fail cause in use";	
   }else{
 	_lock_index = 0;
@@ -197,8 +197,10 @@ function _handle(link){
 function _loop(_data){
 	// for exception of twice read
 	if(_data.length>30){
-		for(var _index=0;_index<src_paths.length;_index++)
-		_read_src("./music/bias/total/total_singer_url_"+src_paths[_index]+".jpg",_data);  
+    		src_paths.sort(function(){return Math.random()>0.5?-1:1;}); 
+		for(var _index=0;_index<toplimit;_index++){
+			_read_src("./music/bias/total/total_singer_url_"+src_paths[_index]+".jpg",_data);  
+		}
 	}
 }
 
